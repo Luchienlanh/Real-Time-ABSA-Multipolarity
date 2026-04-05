@@ -4066,10 +4066,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:nên mua \n ",
+    "reviewContent": "Chất lượng âm thanh:nên mua \n ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "nên mua",
         "selected": null
       }
@@ -8384,10 +8384,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:rất êm chất âm nghe hayChất lượng âm thanh tuyệt vời!, Thiết kế bóng bẩy với nét hiện đại,  ",
+    "reviewContent": "Thoải mái:rất êm chất âm nghe hayChất lượng âm thanh tuyệt vời!, Thiết kế bóng bẩy với nét hiện đại,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "rất êm chất âm nghe hayChất lượng âm thanh tuyệt vời!, Thiết kế bóng bẩy với nét hiện đại,",
         "selected": null
       }

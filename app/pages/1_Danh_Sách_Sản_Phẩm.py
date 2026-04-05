@@ -201,7 +201,7 @@ def main():
                             st.success("Đã thêm!")
                             st.rerun()
                     elif item_id in pm.get_products():
-                        st.info("✓ Đã có trong danh sách")
+                        st.info(" Đã có trong danh sách")
         
         # Clear results button
         if st.button("Xóa kết quả tìm kiếm"):

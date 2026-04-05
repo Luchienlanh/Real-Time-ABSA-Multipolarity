@@ -4991,7 +4991,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "rất ok\n ✨Độ bóng:chấp nhận được \n 🔒An toàn:không  có gì đáng ngại ",
+    "reviewContent": "rất ok\n Độ bóng:chấp nhận được \n An toàn:không  có gì đáng ngại ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4999,12 +4999,12 @@
         "selected": null
       },
       {
-        "attribute": "✨Shine",
+        "attribute": "Shine",
         "content": "chấp nhận được",
         "selected": null
       },
       {
-        "attribute": "🔒Safety",
+        "attribute": "Safety",
         "content": "không  có gì đáng ngại",
         "selected": null
       }
@@ -6585,11 +6585,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao ko đúng hình quảng cáo , chất lượng thì chưa rõ thôi cũng để shop 5☆ nha , đc cái shop đóng gói ok ",
+    "reviewContent": "giao ko đúng hình quảng cáo , chất lượng thì chưa rõ thôi cũng để shop 5 nha , đc cái shop đóng gói ok ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giao ko đúng hình quảng cáo , chất lượng thì chưa rõ thôi cũng để shop 5☆ nha , đc cái shop đóng gói ok ",
+        "content": "giao ko đúng hình quảng cáo , chất lượng thì chưa rõ thôi cũng để shop 5 nha , đc cái shop đóng gói ok ",
         "selected": null
       }
     ],
@@ -9675,11 +9675,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Ok 👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌",
+    "reviewContent": "Ok ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Ok 👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌",
+        "content": "Ok ",
         "selected": null
       }
     ],

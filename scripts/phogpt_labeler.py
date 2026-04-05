@@ -60,7 +60,7 @@ class PhoGPTLabeler:
         print(f"{'='*60}\n")
         
         if not torch.cuda.is_available():
-            print("⚠️  WARNING: No GPU detected! PhoGPT will be VERY slow on CPU.")
+            print("️  WARNING: No GPU detected! PhoGPT will be VERY slow on CPU.")
             print("   Consider using Google Colab with GPU or smaller model.")
             response = input("   Continue anyway? (y/n): ")
             if response.lower() != 'y':
@@ -91,7 +91,7 @@ class PhoGPTLabeler:
         
         self.model.eval()
         
-        print("✅ Model loaded successfully!\n")
+        print(" Model loaded successfully!\n")
     
     def create_prompt(self, review: str) -> str:
         """
@@ -179,7 +179,7 @@ Nhiệm vụ: Phân tích bình luận sau theo 9 khía cạnh và gán nhãn c�
                 
                 return result
         except Exception as e:
-            print(f"   ⚠️  Parse error: {e}")
+            print(f"   ️  Parse error: {e}")
             print(f"   Response: {response[:200]}")
         
         # Fallback: all not mentioned
@@ -308,7 +308,7 @@ def label_file(input_path: str, output_path: str, limit: int = None, use_8bit: b
     df_labeled.to_excel(output_path, index=False)
     
     print(f"\n{'='*60}")
-    print(f"✅ Saved to: {output_path}")
+    print(f" Saved to: {output_path}")
     print(f"{'='*60}")
     
     # Statistics
@@ -341,7 +341,7 @@ if __name__ == "__main__":
     
     # Check GPU
     if not torch.cuda.is_available():
-        print("\n⚠️  WARNING: No GPU detected!")
+        print("\n️  WARNING: No GPU detected!")
         print("   PhoGPT-7B5 is a large model and will be VERY slow on CPU.")
         print("   Estimated time: ~5-10 minutes per review on CPU")
         print("\n   Recommendations:")

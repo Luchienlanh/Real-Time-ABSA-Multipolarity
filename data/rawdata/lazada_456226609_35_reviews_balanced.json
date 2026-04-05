@@ -675,11 +675,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giao hàng nhanh thần tốc luôn \nHộp nhỏ hơn mình nghĩ xíu 😂 nhưng mà ngon, rẻ hơn mua ngoài 👍🏻👍🏻👍🏻👍🏻",
+    "reviewContent": "Giao hàng nhanh thần tốc luôn \nHộp nhỏ hơn mình nghĩ xíu  nhưng mà ngon, rẻ hơn mua ngoài ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Giao hàng nhanh thần tốc luôn \nHộp nhỏ hơn mình nghĩ xíu 😂 nhưng mà ngon, rẻ hơn mua ngoài 👍🏻👍🏻👍🏻👍🏻",
+        "content": "Giao hàng nhanh thần tốc luôn \nHộp nhỏ hơn mình nghĩ xíu  nhưng mà ngon, rẻ hơn mua ngoài ",
         "selected": null
       }
     ],
@@ -1130,11 +1130,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "tốt ạ nhận đủ hàng 😊😊",
+    "reviewContent": "tốt ạ nhận đủ hàng ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "tốt ạ nhận đủ hàng 😊😊",
+        "content": "tốt ạ nhận đủ hàng ",
         "selected": null
       }
     ],
@@ -2165,21 +2165,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:💯💯👍\n 🛒Tiện lợi:💯💯😎\n 🍝Kết cấu:💯 \nhàng đóng gói kỹ càng  ",
+    "reviewContent": "Hương vị:\n Tiện lợi:\n Kết cấu: \nhàng đóng gói kỹ càng  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
-        "content": "💯💯👍",
+        "attribute": "Taste",
+        "content": "",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
-        "content": "💯💯😎",
+        "attribute": "Convenience",
+        "content": "",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
-        "content": "💯 \nhàng đóng gói kỹ càng",
+        "attribute": "Texture",
+        "content": " \nhàng đóng gói kỹ càng",
         "selected": null
       }
     ],
@@ -3177,7 +3177,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Nâng cao hương vị của đồ uống, Lớp phủ hoàn hảo cho đồ uống, Thêm kết cấu thú vị cho đồ uống, \n 💲Giá cả:hợp lí ",
+    "reviewContent": "Nâng cao hương vị của đồ uống, Lớp phủ hoàn hảo cho đồ uống, Thêm kết cấu thú vị cho đồ uống, \n Giá cả:hợp lí ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3185,7 +3185,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lí",
         "selected": null
       }
@@ -4390,11 +4390,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tiện lợi và dễ sử dụng, Hạt thủy tinh chất lượng cao, Thêm một hương vị bùng nổ, ⭐️⭐️⭐️⭐️⭐️ ",
+    "reviewContent": "Tiện lợi và dễ sử dụng, Hạt thủy tinh chất lượng cao, Thêm một hương vị bùng nổ, ️️️️️ ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Tiện lợi và dễ sử dụng, Hạt thủy tinh chất lượng cao, Thêm một hương vị bùng nổ, ⭐️⭐️⭐️⭐️⭐️",
+        "content": "Tiện lợi và dễ sử dụng, Hạt thủy tinh chất lượng cao, Thêm một hương vị bùng nổ, ️️️️️",
         "selected": null
       }
     ],

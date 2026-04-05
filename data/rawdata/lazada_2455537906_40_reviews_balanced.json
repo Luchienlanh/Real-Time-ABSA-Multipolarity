@@ -1900,11 +1900,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "I don't know how to use these buttons and strings.🤷🤷 ",
+    "reviewContent": "I don't know how to use these buttons and strings. ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "I don't know how to use these buttons and strings.🤷🤷",
+        "content": "I don't know how to use these buttons and strings.",
         "selected": null
       }
     ],

@@ -787,11 +787,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "T chưa nhận được hàng mà nói Nhận hàng thành công \nVãi chưởng luôn 🥴 ",
+    "reviewContent": "T chưa nhận được hàng mà nói Nhận hàng thành công \nVãi chưởng luôn  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "T chưa nhận được hàng mà nói Nhận hàng thành công \nVãi chưởng luôn 🥴",
+        "content": "T chưa nhận được hàng mà nói Nhận hàng thành công \nVãi chưởng luôn ",
         "selected": null
       }
     ],
@@ -1273,15 +1273,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Design:Versatile comb for various hair types, \n 🛡Durability:5/10 ",
+    "reviewContent": "Design:Versatile comb for various hair types, \n Durability:5/10 ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Versatile comb for various hair types,",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "5/10",
         "selected": null
       }
@@ -2187,10 +2187,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:  kém, nhận về đã bong hết xẹp móp méo ",
+    "reviewContent": "Độ bền:  kém, nhận về đã bong hết xẹp móp méo ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "kém, nhận về đã bong hết xẹp móp méo",
         "selected": null
       }
@@ -2813,10 +2813,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:  Lược đa năng cho các loại tóc khác nhau, Mát-xa nhẹ nhàng khi tạo kiểu, Chất liệu nhựa không gây hại, Tuyệt vời để gỡ rối tóc afro,  ",
+    "reviewContent": "Thoải mái:  Lược đa năng cho các loại tóc khác nhau, Mát-xa nhẹ nhàng khi tạo kiểu, Chất liệu nhựa không gây hại, Tuyệt vời để gỡ rối tóc afro,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Lược đa năng cho các loại tóc khác nhau, Mát-xa nhẹ nhàng khi tạo kiểu, Chất liệu nhựa không gây hại, Tuyệt vời để gỡ rối tóc afro,",
         "selected": null
       }
@@ -2947,20 +2947,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế: giống hinh 🛡Độ bền: kbt 😌Thoải mái:tạm tạm giao đúng hẹn,gói hàng cẩn thận, dùng cũng ok ",
+    "reviewContent": "Thiết kế: giống hinh Độ bền: kbt Thoải mái:tạm tạm giao đúng hẹn,gói hàng cẩn thận, dùng cũng ok ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "giống hinh",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "kbt",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tạm tạm",
         "selected": null
       },
@@ -3764,11 +3764,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Bạn nghĩ gì về chất lượng và hình thức sản phẩm?hic nhận hàng.. Lược bẹp dí...😢😢😢 k thể nào làm bình thường lại đc.. Thế là bỏ.. ",
+    "reviewContent": "Bạn nghĩ gì về chất lượng và hình thức sản phẩm?hic nhận hàng.. Lược bẹp dí... k thể nào làm bình thường lại đc.. Thế là bỏ.. ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Bạn nghĩ gì về chất lượng và hình thức sản phẩm?hic nhận hàng.. Lược bẹp dí...😢😢😢 k thể nào làm bình thường lại đc.. Thế là bỏ..",
+        "content": "Bạn nghĩ gì về chất lượng và hình thức sản phẩm?hic nhận hàng.. Lược bẹp dí... k thể nào làm bình thường lại đc.. Thế là bỏ..",
         "selected": null
       }
     ],
@@ -4836,10 +4836,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Thiết kế đệm khí cho sử dụng thoải mái,  ",
+    "reviewContent": "Thoải mái:Thiết kế đệm khí cho sử dụng thoải mái,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Thiết kế đệm khí cho sử dụng thoải mái,",
         "selected": null
       }
@@ -4945,20 +4945,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Tuyệt vời để gỡ rối tóc afroLược đa năng cho các loại tóc khác nhau, , \n 🛡Độ bền:Chất liệu nhựa không gây hại, \n 🎨Thiết kế:Bền và lâu dài, Tiện lợi cho việc tạo kiểu khi di chuyển,  ",
+    "reviewContent": "Thoải mái:Tuyệt vời để gỡ rối tóc afroLược đa năng cho các loại tóc khác nhau, , \n Độ bền:Chất liệu nhựa không gây hại, \n Thiết kế:Bền và lâu dài, Tiện lợi cho việc tạo kiểu khi di chuyển,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Tuyệt vời để gỡ rối tóc afroLược đa năng cho các loại tóc khác nhau, ,",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Chất liệu nhựa không gây hại,",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Bền và lâu dài, Tiện lợi cho việc tạo kiểu khi di chuyển,",
         "selected": null
       }
@@ -5064,11 +5064,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "của mình bị móp vào ko chải đc mình phải rứt hết keo ra r độn bông vào 🤧\nchắc nhầm cái bị v, mình nghĩ mấy bn khác ko bị móp giống mình ",
+    "reviewContent": "của mình bị móp vào ko chải đc mình phải rứt hết keo ra r độn bông vào \nchắc nhầm cái bị v, mình nghĩ mấy bn khác ko bị móp giống mình ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "của mình bị móp vào ko chải đc mình phải rứt hết keo ra r độn bông vào 🤧\nchắc nhầm cái bị v, mình nghĩ mấy bn khác ko bị móp giống mình",
+        "content": "của mình bị móp vào ko chải đc mình phải rứt hết keo ra r độn bông vào \nchắc nhầm cái bị v, mình nghĩ mấy bn khác ko bị móp giống mình",
         "selected": null
       }
     ],
@@ -5282,20 +5282,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:Lược chống tĩnh điện cho tóc mượt, \n 🛡Độ bền:Bền và lâu dài,  Chất liệu nhựa không gây hại\n 😌Thoải mái:Mát-xa nhẹ nhàng khi tạo kiểuTiện lợi cho việc tạo kiểu khi di chuyển ",
+    "reviewContent": "Thiết kế:Lược chống tĩnh điện cho tóc mượt, \n Độ bền:Bền và lâu dài,  Chất liệu nhựa không gây hại\n Thoải mái:Mát-xa nhẹ nhàng khi tạo kiểuTiện lợi cho việc tạo kiểu khi di chuyển ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Lược chống tĩnh điện cho tóc mượt,",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Bền và lâu dài,  Chất liệu nhựa không gây hại",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Mát-xa nhẹ nhàng khi tạo kiểuTiện lợi cho việc tạo kiểu khi di chuyển",
         "selected": null
       }
@@ -5401,10 +5401,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Tuyệt vời để gỡ rối tóc afro,  ",
+    "reviewContent": "Thoải mái:Tuyệt vời để gỡ rối tóc afro,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Tuyệt vời để gỡ rối tóc afro,",
         "selected": null
       }
@@ -6380,7 +6380,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Lược đa năng cho các loại tóc khác nhau, Tuyệt vời để gỡ rối tóc afro, Lược chống tĩnh điện cho tóc mượt, Lược chống tĩnh điện cho tóc mượt, Bền và lâu dài, Bền và lâu dài, Thiết kế đệm khí cho sử dụng thoải mái, Chất liệu nhựa không gây hại, \n 🎨Thiết kế:ok \n 🛡Độ bền:ok \n 😌Thoải mái:thoải mái  ",
+    "reviewContent": "Lược đa năng cho các loại tóc khác nhau, Tuyệt vời để gỡ rối tóc afro, Lược chống tĩnh điện cho tóc mượt, Lược chống tĩnh điện cho tóc mượt, Bền và lâu dài, Bền và lâu dài, Thiết kế đệm khí cho sử dụng thoải mái, Chất liệu nhựa không gây hại, \n Thiết kế:ok \n Độ bền:ok \n Thoải mái:thoải mái  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6388,17 +6388,17 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "thoải mái",
         "selected": null
       }
@@ -6540,20 +6540,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:tốt \n 🎨Thiết kế:đẹp \n 😌Thoải mái:ok\n hình ảnh và video chỉ mang tính chất minh họa  ",
+    "reviewContent": "Độ bền:tốt \n Thiết kế:đẹp \n Thoải mái:ok\n hình ảnh và video chỉ mang tính chất minh họa  ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
@@ -6700,10 +6700,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:  Mát-xa nhẹ nhàng khi tạo kiểu, Lược đa năng cho các loại tóc khác nhau,  ",
+    "reviewContent": "Độ bền:  Mát-xa nhẹ nhàng khi tạo kiểu, Lược đa năng cho các loại tóc khác nhau,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Mát-xa nhẹ nhàng khi tạo kiểu, Lược đa năng cho các loại tóc khác nhau,",
         "selected": null
       }
@@ -7616,10 +7616,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:  Lược chống tĩnh điện cho tóc mượt, Dễ dàng làm sạch và bảo trì,  ",
+    "reviewContent": "Thiết kế:  Lược chống tĩnh điện cho tóc mượt, Dễ dàng làm sạch và bảo trì,  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Lược chống tĩnh điện cho tóc mượt, Dễ dàng làm sạch và bảo trì,",
         "selected": null
       }

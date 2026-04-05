@@ -7,11 +7,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "không như quảng cáo. chỉ có một máy và một mũi vít.😡 ",
+    "reviewContent": "không như quảng cáo. chỉ có một máy và một mũi vít. ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "không như quảng cáo. chỉ có một máy và một mũi vít.😡",
+        "content": "không như quảng cáo. chỉ có một máy và một mũi vít.",
         "selected": null
       }
     ],
@@ -2080,11 +2080,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "K đầy đủ như qc !🙁🙁🙁 ",
+    "reviewContent": "K đầy đủ như qc ! ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "K đầy đủ như qc !🙁🙁🙁",
+        "content": "K đầy đủ như qc !",
         "selected": null
       }
     ],
@@ -3245,7 +3245,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Dễ sử dụng:rất dễ\n Đáng tiền:giá cạnh tranh\n chưa biết vì mới vừa nhận\n 🛡Độ bền:chưa biết vì vừa mới nhận\n 👌 Dễ sử dụng:rất dễPhù hợp cho công việc điện, Tiện lợi và dễ sử dụng, Thiết kế nhỏ gọn và di động,  ",
+    "reviewContent": "Dễ sử dụng:rất dễ\n Đáng tiền:giá cạnh tranh\n chưa biết vì mới vừa nhận\n Độ bền:chưa biết vì vừa mới nhận\n  Dễ sử dụng:rất dễPhù hợp cho công việc điện, Tiện lợi và dễ sử dụng, Thiết kế nhỏ gọn và di động,  ",
     "reviewContentList": [
       {
         "attribute": "Ease of Use",
@@ -3263,13 +3263,13 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa biết vì vừa mới nhận",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "👌",
+        "content": "",
         "selected": null
       },
       {

@@ -1501,10 +1501,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:kém  ",
+    "reviewContent": "Chất lượng:kém  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "kém",
         "selected": null
       }
@@ -3182,11 +3182,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kẹp tóc xinh nhưng có vẻ hơi lỗi phần nơ🥺,  ",
+    "reviewContent": "Kẹp tóc xinh nhưng có vẻ hơi lỗi phần nơ,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Kẹp tóc xinh nhưng có vẻ hơi lỗi phần nơ🥺,",
+        "content": "Kẹp tóc xinh nhưng có vẻ hơi lỗi phần nơ,",
         "selected": null
       }
     ],
@@ -4381,20 +4381,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:Kẹp nòng sắt, không dày, kẹp dễ với tóc mỏng \n 🎨Thiết kế:Đẹp \n 😌Thoải mái:Có \nChất lượng nơ vải tốt. Kẹp bằng sắt, sẽ gỉ sét sau một lúc sử dụng. ",
+    "reviewContent": "Chất lượng:Kẹp nòng sắt, không dày, kẹp dễ với tóc mỏng \n Thiết kế:Đẹp \n Thoải mái:Có \nChất lượng nơ vải tốt. Kẹp bằng sắt, sẽ gỉ sét sau một lúc sử dụng. ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Kẹp nòng sắt, không dày, kẹp dễ với tóc mỏng",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Đẹp",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Có \nChất lượng nơ vải tốt. Kẹp bằng sắt, sẽ gỉ sét sau một lúc sử dụng.",
         "selected": null
       }
@@ -4536,11 +4536,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\n🔍Chất lượng：tốt\n🎨Thiết kế：đẹp\n😌Thoải mái：đẹp và thoải mái ",
+    "reviewContent": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\nChất lượng：tốt\nThiết kế：đẹp\nThoải mái：đẹp và thoải mái ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\n🔍Chất lượng：tốt\n🎨Thiết kế：đẹp\n😌Thoải mái：đẹp và thoải mái",
+        "content": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\nChất lượng：tốt\nThiết kế：đẹp\nThoải mái：đẹp và thoải mái",
         "selected": null
       }
     ],
@@ -4704,11 +4704,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\n🔍Chất lượng：tốt\n🎨Thiết kế：đẹp\n😌Thoải mái：đẹp và thoải mái ",
+    "reviewContent": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\nChất lượng：tốt\nThiết kế：đẹp\nThoải mái：đẹp và thoải mái ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\n🔍Chất lượng：tốt\n🎨Thiết kế：đẹp\n😌Thoải mái：đẹp và thoải mái",
+        "content": "nơ đẹp, dễ thương. Mình rất thích Kiểu vừa điệu đà vừa thời trang như vậy\nChất lượng：tốt\nThiết kế：đẹp\nThoải mái：đẹp và thoải mái",
         "selected": null
       }
     ],
@@ -5285,10 +5285,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:Thiết kế phong cách, Giữ tóc chắc chắn tại chỗ, Phụ kiện đa năng,  ",
+    "reviewContent": "Thiết kế:Thiết kế phong cách, Giữ tóc chắc chắn tại chỗ, Phụ kiện đa năng,  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Thiết kế phong cách, Giữ tóc chắc chắn tại chỗ, Phụ kiện đa năng,",
         "selected": null
       }
@@ -6203,7 +6203,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kẹp tóc đẹp, Hoàn hảo cho mùa xuân, Giữ tóc chắc chắn tại chỗ, Thiết kế phong cách, cũng  đẹp  \n 😌Thoải mái:tốt  ",
+    "reviewContent": "Kẹp tóc đẹp, Hoàn hảo cho mùa xuân, Giữ tóc chắc chắn tại chỗ, Thiết kế phong cách, cũng  đẹp  \n Thoải mái:tốt  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6211,7 +6211,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tốt",
         "selected": null
       }
@@ -6365,7 +6365,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đã nhận đủ kẹp \n 🎨Thiết kế:xinh\n 😌Thoải mái:hơi to\n 🔍Chất lượng:tạm tạm tạm ",
+    "reviewContent": "đã nhận đủ kẹp \n Thiết kế:xinh\n Thoải mái:hơi to\n Chất lượng:tạm tạm tạm ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6373,17 +6373,17 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "xinh",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "hơi to",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tạm tạm tạm",
         "selected": null
       }
@@ -6525,10 +6525,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:Kẹp tóc đẹp, Dễ sử dụng, okokokokokokokoko okokokokokokokoko okokokokokokokok okokokokokokokok.  ",
+    "reviewContent": "Thiết kế:Kẹp tóc đẹp, Dễ sử dụng, okokokokokokokoko okokokokokokokoko okokokokokokokok okokokokokokokok.  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Kẹp tóc đẹp, Dễ sử dụng, okokokokokokokoko okokokokokokokoko okokokokokokokok okokokokokokokok.",
         "selected": null
       }
@@ -6927,7 +6927,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Phụ kiện đa năng, Thiết kế phong cách, Hoàn hảo cho mùa xuân, \n 🎨Thiết kế:satin\n 🔍Chất lượng:rẻ nhất  ",
+    "reviewContent": "Phụ kiện đa năng, Thiết kế phong cách, Hoàn hảo cho mùa xuân, \n Thiết kế:satin\n Chất lượng:rẻ nhất  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6935,12 +6935,12 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "satin",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "rẻ nhất",
         "selected": null
       }
@@ -7094,7 +7094,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo cho mùa xuân, Giữ tóc chắc chắn tại chỗ, Giữ tóc chắc chắn tại chỗ, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu, Vải chất lượng cao, \n 🎨Thiết kế:đẹp  ",
+    "reviewContent": "Hoàn hảo cho mùa xuân, Giữ tóc chắc chắn tại chỗ, Giữ tóc chắc chắn tại chỗ, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu, Vải chất lượng cao, \n Thiết kế:đẹp  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7102,7 +7102,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       }
@@ -7547,11 +7547,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,  ",
+    "reviewContent": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,",
+        "content": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,",
         "selected": null
       }
     ],
@@ -7681,11 +7681,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,  ",
+    "reviewContent": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,",
+        "content": "dễ thươngKẹp tóc đẹp, Hoàn hảo cho mùa , kiểu tiểu thơ công chúa Phụ kiện đa năng, Thêm một chút thanh lịch, Trang trí ngọc trai rất đáng yêu,",
         "selected": null
       }
     ],

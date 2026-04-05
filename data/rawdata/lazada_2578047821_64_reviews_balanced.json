@@ -2611,7 +2611,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đáng tiền: ok\n Độ bền: tốt\n Bổ trợ học tập: 👍\nPhù hợp cho mấy bé 3t trở lên  ",
+    "reviewContent": "Đáng tiền: ok\n Độ bền: tốt\n Bổ trợ học tập: \nPhù hợp cho mấy bé 3t trở lên  ",
     "reviewContentList": [
       {
         "attribute": "Value for Money",
@@ -2625,7 +2625,7 @@
       },
       {
         "attribute": "Ease of Learning",
-        "content": "👍\nPhù hợp cho mấy bé 3t trở lên",
+        "content": "\nPhù hợp cho mấy bé 3t trở lên",
         "selected": null
       }
     ],
@@ -2766,11 +2766,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Bổ trợ học tập: \nĐồ mới nên Bé rất thik 😄. Cũng dễ chơi dễ học.  ",
+    "reviewContent": "Bổ trợ học tập: \nĐồ mới nên Bé rất thik . Cũng dễ chơi dễ học.  ",
     "reviewContentList": [
       {
         "attribute": "Ease of Learning",
-        "content": "Đồ mới nên Bé rất thik 😄. Cũng dễ chơi dễ học.",
+        "content": "Đồ mới nên Bé rất thik . Cũng dễ chơi dễ học.",
         "selected": null
       }
     ],
@@ -5184,7 +5184,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kiểu dáng:hình gỗ vuông\n Độ bền:tốt\n Độ an toàn:tốt cho trẻ nhỉ\n 💲Giá cả:giá rẻ hợp lý\n 🎨Thiết kế:thiết kế phù hợp cho bé từ 3-5 tuổi ",
+    "reviewContent": "Kiểu dáng:hình gỗ vuông\n Độ bền:tốt\n Độ an toàn:tốt cho trẻ nhỉ\n Giá cả:giá rẻ hợp lý\n Thiết kế:thiết kế phù hợp cho bé từ 3-5 tuổi ",
     "reviewContentList": [
       {
         "attribute": "Design",
@@ -5202,12 +5202,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá rẻ hợp lý",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "thiết kế phù hợp cho bé từ 3-5 tuổi",
         "selected": null
       }
@@ -5494,7 +5494,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giúp phát triển kỹ năng vận động tinh, An toàn cho trẻ em, \n Kiểu dáng:dc\n Độ an toàn:ok\n 💲Giá cả:tốt\n Nhấn vào một đoạn để dán vào hộp văn bản. ",
+    "reviewContent": "Giúp phát triển kỹ năng vận động tinh, An toàn cho trẻ em, \n Kiểu dáng:dc\n Độ an toàn:ok\n Giá cả:tốt\n Nhấn vào một đoạn để dán vào hộp văn bản. ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5512,7 +5512,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tốt",
         "selected": null
       },
@@ -5850,11 +5850,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "chất lượng gỗ ok, mình thấy rất hài lòng với số tiền mình bỏ ra, thực ra là mình săn được có 0đ à=), nhưng mà hàng rất tốt, cho mấy bé chơi được, mọi người nên mua nhé, cảm ơn shop🫰 ",
+    "reviewContent": "chất lượng gỗ ok, mình thấy rất hài lòng với số tiền mình bỏ ra, thực ra là mình săn được có 0đ à=), nhưng mà hàng rất tốt, cho mấy bé chơi được, mọi người nên mua nhé, cảm ơn shop ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "chất lượng gỗ ok, mình thấy rất hài lòng với số tiền mình bỏ ra, thực ra là mình săn được có 0đ à=), nhưng mà hàng rất tốt, cho mấy bé chơi được, mọi người nên mua nhé, cảm ơn shop🫰",
+        "content": "chất lượng gỗ ok, mình thấy rất hài lòng với số tiền mình bỏ ra, thực ra là mình săn được có 0đ à=), nhưng mà hàng rất tốt, cho mấy bé chơi được, mọi người nên mua nhé, cảm ơn shop",
         "selected": null
       }
     ],
@@ -6163,11 +6163,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "chất lượng hàng rất tôt, hàng thật, giá rẻ, to gần bằng giấy A4 á, mọi người mua được nha, cảm ơn shop nhiều🫰 ",
+    "reviewContent": "chất lượng hàng rất tôt, hàng thật, giá rẻ, to gần bằng giấy A4 á, mọi người mua được nha, cảm ơn shop nhiều ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "chất lượng hàng rất tôt, hàng thật, giá rẻ, to gần bằng giấy A4 á, mọi người mua được nha, cảm ơn shop nhiều🫰",
+        "content": "chất lượng hàng rất tôt, hàng thật, giá rẻ, to gần bằng giấy A4 á, mọi người mua được nha, cảm ơn shop nhiều",
         "selected": null
       }
     ],
@@ -6331,11 +6331,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "chất lượng gỗ ok, phù hợp với trẻ em, mình mua được giá siêu hời, mọi người mua thử cho trẻ con nha, mà số nó không rõ lắm á, kiểu nó bị dính vào, cảm ơn shop nhé🫰 ",
+    "reviewContent": "chất lượng gỗ ok, phù hợp với trẻ em, mình mua được giá siêu hời, mọi người mua thử cho trẻ con nha, mà số nó không rõ lắm á, kiểu nó bị dính vào, cảm ơn shop nhé ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "chất lượng gỗ ok, phù hợp với trẻ em, mình mua được giá siêu hời, mọi người mua thử cho trẻ con nha, mà số nó không rõ lắm á, kiểu nó bị dính vào, cảm ơn shop nhé🫰",
+        "content": "chất lượng gỗ ok, phù hợp với trẻ em, mình mua được giá siêu hời, mọi người mua thử cho trẻ con nha, mà số nó không rõ lắm á, kiểu nó bị dính vào, cảm ơn shop nhé",
         "selected": null
       }
     ],
@@ -6967,7 +6967,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kiểu dáng:nhỏ gọn\n Độ bền:gỗ\n Độ an toàn:trẻ con có thể chơi\n 💲Giá cả:rẻ hơn 10kHoàn hảo cho việc học,  ",
+    "reviewContent": "Kiểu dáng:nhỏ gọn\n Độ bền:gỗ\n Độ an toàn:trẻ con có thể chơi\n Giá cả:rẻ hơn 10kHoàn hảo cho việc học,  ",
     "reviewContentList": [
       {
         "attribute": "Design",
@@ -6985,7 +6985,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn 10kHoàn hảo cho việc học,",
         "selected": null
       }
@@ -7127,7 +7127,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Độ an toàn:tốt\n 💲Giá cả:rẻ\n 🎨Thiết kế:đẹp\n với giá hơn 10k thì sản phẩm quá Ok. con mình rất thích.\n ",
+    "reviewContent": "Độ an toàn:tốt\n Giá cả:rẻ\n Thiết kế:đẹp\n với giá hơn 10k thì sản phẩm quá Ok. con mình rất thích.\n ",
     "reviewContentList": [
       {
         "attribute": "Safety",
@@ -7135,12 +7135,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
@@ -8604,7 +8604,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "rẻ đẹp bền \n Kiểu dáng:rỏ ràng \n 💲Giá cả:rẻ \n Độ an toàn:ok bằng gỗ to màu sắc đẹp  ",
+    "reviewContent": "rẻ đẹp bền \n Kiểu dáng:rỏ ràng \n Giá cả:rẻ \n Độ an toàn:ok bằng gỗ to màu sắc đẹp  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -8617,7 +8617,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },

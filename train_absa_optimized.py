@@ -40,7 +40,7 @@ logger = logging.getLogger("ABSA_Training")
 # "distilbert-base-uncased" (66M params) - nhanh, chất lượng khá
 # "phobert-base" (135M params) - tốt cho tiếng Việt
 
-MODEL_NAME = "distilroberta-base"  # ✅ Model cân bằng tốt
+MODEL_NAME = "distilroberta-base"  #  Model cân bằng tốt
 MAX_LEN = 64
 BATCH_SIZE = 8  # Tăng batch size để train nhanh hơn
 ACCUMULATION_STEPS = 4  # Gradient accumulation
@@ -73,13 +73,13 @@ BACKUP_METRICS_PATH = os.path.join(MODEL_DIR, f"model_metrics_backup_{datetime.n
 
 # Device
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-logger.info(f"🔥 Training on: {DEVICE}")
+logger.info(f" Training on: {DEVICE}")
 
 if DEVICE.type == "cpu":
     torch.set_num_threads(4)
-    logger.info("⚙️  CPU mode: 4 threads")
+    logger.info("️  CPU mode: 4 threads")
 else:
-    logger.info(f"🚀 GPU: {torch.cuda.get_device_name(0)}")
+    logger.info(f" GPU: {torch.cuda.get_device_name(0)}")
 
 # ============================================
 # MODEL DEFINITION
@@ -180,14 +180,14 @@ def load_data():
         raise ValueError(f"No aspect columns found. Expected one of: {ASPECTS}")
 
     # Lấy dữ liệu thô từ các cột aspect
-    raw_labels = df[aspect_cols].fillna(-1).values  # Đảm bảo NaN → -1
+    raw_labels = df[aspect_cols].fillna(-1).values  # Đảm bảo NaN  -1
 
-    # === MENTION LABELS: -1 → 0, còn lại → 1 ===
+    # === MENTION LABELS: -1  0, còn lại  1 ===
     labels_m = (raw_labels != -1).astype(int)  # 1 dòng!
 
-    # === SENTIMENT LABELS: -1 → 0, 0→0(NEG), 1→1(POS), 2→2(NEU) ===
-    labels_s = np.where(raw_labels == -1, 0, raw_labels)  # -1 → 0
-    # Không cần map thêm vì: 0→0, 1→1, 2→2 → ĐÚNG!
+    # === SENTIMENT LABELS: -1  0, 00(NEG), 11(POS), 22(NEU) ===
+    labels_s = np.where(raw_labels == -1, 0, raw_labels)  # -1  0
+    # Không cần map thêm vì: 00, 11, 22  ĐÚNG!
 
     logger.info(f"Loaded {len(texts)} samples")
     logger.info(f"Aspect columns: {aspect_cols}")
@@ -297,7 +297,7 @@ def evaluate(model, loader, device):
 def train_model():
     """Main training function"""
     logger.info("="*60)
-    logger.info("🚀 ABSA Model Training")
+    logger.info(" ABSA Model Training")
     logger.info("="*60)
     
     # Load data
@@ -310,10 +310,10 @@ def train_model():
         random_state=42
     )
     
-    logger.info(f"📊 Train: {len(X_train)}, Val: {len(X_val)}")
+    logger.info(f" Train: {len(X_train)}, Val: {len(X_val)}")
     
     # Tokenizer
-    logger.info(f"🔤 Loading tokenizer: {MODEL_NAME}")
+    logger.info(f" Loading tokenizer: {MODEL_NAME}")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     
     # Datasets
@@ -337,14 +337,14 @@ def train_model():
     )
     
     # Model
-    logger.info(f"🤖 Initializing model: {MODEL_NAME}")
+    logger.info(f" Initializing model: {MODEL_NAME}")
     model = ABSAModel().to(DEVICE)
     
     # Count parameters
     total_params = sum(p.numel() for p in model.parameters())
     trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
-    logger.info(f"📊 Total params: {total_params:,}")
-    logger.info(f"📊 Trainable params: {trainable_params:,}")
+    logger.info(f" Total params: {total_params:,}")
+    logger.info(f" Trainable params: {trainable_params:,}")
     
     # Optimizer & Scheduler
     optimizer = AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=0.01)
@@ -358,8 +358,8 @@ def train_model():
         num_training_steps=total_steps
     )
     
-    logger.info(f"⚙️  Total steps: {total_steps}")
-    logger.info(f"⚙️  Warmup steps: {warmup_steps}")
+    logger.info(f"️  Total steps: {total_steps}")
+    logger.info(f"️  Warmup steps: {warmup_steps}")
     
     # Training loop
     best_f1 = 0
@@ -367,11 +367,11 @@ def train_model():
     history = []
     
     logger.info("="*60)
-    logger.info("🏋️  Starting training...")
+    logger.info("️  Starting training...")
     logger.info("="*60)
     
     for epoch in range(EPOCHS):
-        logger.info(f"\n📈 Epoch {epoch+1}/{EPOCHS}")
+        logger.info(f"\n Epoch {epoch+1}/{EPOCHS}")
         
         # Train
         train_loss = train_epoch(
@@ -399,15 +399,15 @@ def train_model():
         if metrics["combined_f1"] > best_f1:
             best_f1 = metrics["combined_f1"]
             torch.save(model.state_dict(), NEW_MODEL_PATH)
-            logger.info(f"✅ New best model saved! F1: {best_f1:.4f}")
+            logger.info(f" New best model saved! F1: {best_f1:.4f}")
             patience_counter = 0
         else:
             patience_counter += 1
-            logger.info(f"⏳ No improvement. Patience: {patience_counter}/{EARLY_STOPPING_PATIENCE}")
+            logger.info(f" No improvement. Patience: {patience_counter}/{EARLY_STOPPING_PATIENCE}")
         
         # Early stopping
         if patience_counter >= EARLY_STOPPING_PATIENCE:
-            logger.info(f"🛑 Early stopping triggered!")
+            logger.info(f" Early stopping triggered!")
             break
     
     # Save metrics
@@ -432,17 +432,17 @@ def train_model():
             old_metrics = json.load(f)
         with open(BACKUP_METRICS_PATH, 'w') as f:
             json.dump(old_metrics, f, indent=2)
-        logger.info(f"💾 Backed up old metrics to {BACKUP_METRICS_PATH}")
+        logger.info(f" Backed up old metrics to {BACKUP_METRICS_PATH}")
     
     # Save new metrics
     with open(METRICS_PATH, 'w') as f:
         json.dump(final_metrics, f, indent=2)
     
     logger.info("="*60)
-    logger.info("✅ Training completed!")
-    logger.info(f"🎯 Best Combined F1: {best_f1:.4f}")
-    logger.info(f"💾 Model saved to: {NEW_MODEL_PATH}")
-    logger.info(f"📊 Metrics saved to: {METRICS_PATH}")
+    logger.info(" Training completed!")
+    logger.info(f" Best Combined F1: {best_f1:.4f}")
+    logger.info(f" Model saved to: {NEW_MODEL_PATH}")
+    logger.info(f" Metrics saved to: {METRICS_PATH}")
     logger.info("="*60)
     
     return final_metrics
@@ -453,15 +453,15 @@ def train_model():
 if __name__ == "__main__":
     try:
         metrics = train_model()
-        logger.info("\n🎉 Training finished successfully!")
+        logger.info("\n Training finished successfully!")
         logger.info(json.dumps(metrics, indent=2, ensure_ascii=False))
         
     except KeyboardInterrupt:
-        logger.info("\n⛔ Training interrupted by user")
+        logger.info("\n Training interrupted by user")
         sys.exit(1)
         
     except Exception as e:
-        logger.error(f"\n❌ Training failed: {e}")
+        logger.error(f"\n Training failed: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)

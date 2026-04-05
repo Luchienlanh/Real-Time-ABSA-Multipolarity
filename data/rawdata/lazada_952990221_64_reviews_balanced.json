@@ -3995,15 +3995,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:  Mẫu mã đẹp\n 🛡Độ bền:  Xịn dày\nthanks shop giao hàng nhanh - Gối chống trào ngược này dày nặng chắc tay ",
+    "reviewContent": "Thiết kế:  Mẫu mã đẹp\n Độ bền:  Xịn dày\nthanks shop giao hàng nhanh - Gối chống trào ngược này dày nặng chắc tay ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Mẫu mã đẹp",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Xịn dày\nthanks shop giao hàng nhanh - Gối chống trào ngược này dày nặng chắc tay",
         "selected": null
       }
@@ -4681,7 +4681,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đa năng và đa chức năng, \n 🎨Thiết kế:OK  ",
+    "reviewContent": "Đa năng và đa chức năng, \n Thiết kế:OK  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4689,7 +4689,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "OK",
         "selected": null
       }

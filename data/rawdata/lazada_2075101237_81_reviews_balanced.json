@@ -5609,11 +5609,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng： ",
+    "reviewContent": "Dễ sử dụng： ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "👌Dễ sử dụng：",
+        "content": "Dễ sử dụng：",
         "selected": null
       }
     ],
@@ -7040,15 +7040,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Kích thước hoàn hảo cho bữa ăn gia đình,\n 👌Dễ sử dụng:Dễ sử dụng và làm sạch,\n Tuyệt vời cho lẩu và hấp,  ",
+    "reviewContent": "Giá cả:Kích thước hoàn hảo cho bữa ăn gia đình,\n Dễ sử dụng:Dễ sử dụng và làm sạch,\n Tuyệt vời cho lẩu và hấp,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Kích thước hoàn hảo cho bữa ăn gia đình,",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "Dễ sử dụng và làm sạch,",
         "selected": null
       },
@@ -8998,7 +8998,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Nồi nấu đa năng và chất lượng cao,\n 🔋Dung lượng:Kích thước hoàn hảo cho bữa ăn gia đình,\n ",
+    "reviewContent": "Nồi nấu đa năng và chất lượng cao,\n Dung lượng:Kích thước hoàn hảo cho bữa ăn gia đình,\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -9006,7 +9006,7 @@
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "Kích thước hoàn hảo cho bữa ăn gia đình,",
         "selected": null
       }
@@ -9960,10 +9960,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:bddhddhehehehehwhwhwheh ",
+    "reviewContent": "Dung lượng:bddhddhehehehehwhwhwheh ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "bddhddhehehehehwhwhwheh",
         "selected": null
       }
@@ -10416,11 +10416,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đã nhận được hàng ,shop gói cẩn thận, hàng đẹp , đang dùng thử cũng ok lắm ạ. cảm ơn  shop ạ 💗💗💗 ",
+    "reviewContent": "đã nhận được hàng ,shop gói cẩn thận, hàng đẹp , đang dùng thử cũng ok lắm ạ. cảm ơn  shop ạ  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "đã nhận được hàng ,shop gói cẩn thận, hàng đẹp , đang dùng thử cũng ok lắm ạ. cảm ơn  shop ạ 💗💗💗",
+        "content": "đã nhận được hàng ,shop gói cẩn thận, hàng đẹp , đang dùng thử cũng ok lắm ạ. cảm ơn  shop ạ ",
         "selected": null
       }
     ],
@@ -10568,15 +10568,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Hiệu quả và tiết kiệm năng lượng, \n 🔋Dung lượng:Dễ sử dụng và làm sạch, Tuyệt vời cho lẩu và hấp, Kích thước hoàn hảo cho bữa ăn gia đình,  ",
+    "reviewContent": "Giá cả:Hiệu quả và tiết kiệm năng lượng, \n Dung lượng:Dễ sử dụng và làm sạch, Tuyệt vời cho lẩu và hấp, Kích thước hoàn hảo cho bữa ăn gia đình,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Hiệu quả và tiết kiệm năng lượng,",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "Dễ sử dụng và làm sạch, Tuyệt vời cho lẩu và hấp, Kích thước hoàn hảo cho bữa ăn gia đình,",
         "selected": null
       }

@@ -1084,21 +1084,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:ok\n 💲Giá cả:ok\n \n🍝Kết cấu: Sau khi dùng thì cho nhận xét như sauv gạo dở, ko thơm, ko ngọt, hạt ko dài như hình quảng cáo. chưa kể màu gạo ko trắng, để nguội thì cơm bị cứng chứ ko mềm. nói chung ko phải gạo st25 như quảng cáo. chỉ là gạo khác bỏ vào bao bì st25 mà thôi. ",
+    "reviewContent": "Bao bì:ok\n Giá cả:ok\n \nKết cấu: Sau khi dùng thì cho nhận xét như sauv gạo dở, ko thơm, ko ngọt, hạt ko dài như hình quảng cáo. chưa kể màu gạo ko trắng, để nguội thì cơm bị cứng chứ ko mềm. nói chung ko phải gạo st25 như quảng cáo. chỉ là gạo khác bỏ vào bao bì st25 mà thôi. ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "🍝Kết cấu: Sau khi dùng thì cho nhận xét như sauv gạo dở, ko thơm, ko ngọt, hạt ko dài như hình quảng cáo. chưa kể màu gạo ko trắng, để nguội thì cơm bị cứng chứ ko mềm. nói chung ko phải gạo st25 như quảng cáo. chỉ là gạo khác bỏ vào bao bì st25 mà thôi.",
+        "content": "Kết cấu: Sau khi dùng thì cho nhận xét như sauv gạo dở, ko thơm, ko ngọt, hạt ko dài như hình quảng cáo. chưa kể màu gạo ko trắng, để nguội thì cơm bị cứng chứ ko mềm. nói chung ko phải gạo st25 như quảng cáo. chỉ là gạo khác bỏ vào bao bì st25 mà thôi.",
         "selected": null
       }
     ],
@@ -1803,10 +1803,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:tệ, không giống như quảng cáo,  không ngon,  thấy thất vọng  ",
+    "reviewContent": "Chất lượng:tệ, không giống như quảng cáo,  không ngon,  thấy thất vọng  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tệ, không giống như quảng cáo,  không ngon,  thấy thất vọng",
         "selected": null
       }
@@ -1939,10 +1939,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:tệ, không ngon như quảng cáo,  thấy thât vọng  ",
+    "reviewContent": "Chất lượng:tệ, không ngon như quảng cáo,  thấy thât vọng  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tệ, không ngon như quảng cáo,  thấy thât vọng",
         "selected": null
       }
@@ -2872,11 +2872,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Dở, ăn không được. Tệ quá 😭😭😭 Bao bì nhìn cũng khác, không có hạn sử dụng ",
+    "reviewContent": "Dở, ăn không được. Tệ quá  Bao bì nhìn cũng khác, không có hạn sử dụng ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Dở, ăn không được. Tệ quá 😭😭😭 Bao bì nhìn cũng khác, không có hạn sử dụng",
+        "content": "Dở, ăn không được. Tệ quá  Bao bì nhìn cũng khác, không có hạn sử dụng",
         "selected": null
       }
     ],
@@ -4356,10 +4356,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👃Hương thơm:  is  ",
+    "reviewContent": "Hương thơm:  is  ",
     "reviewContentList": [
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "is",
         "selected": null
       }
@@ -4601,7 +4601,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "không phải gạo st25\n\n 🔍Chất lượng:cùi bắp.ăn như gạo nở\n 👃Hương thơm:không có mùi thơm của gạo st ",
+    "reviewContent": "không phải gạo st25\n\n Chất lượng:cùi bắp.ăn như gạo nở\n Hương thơm:không có mùi thơm của gạo st ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4609,12 +4609,12 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "cùi bắp.ăn như gạo nở",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "không có mùi thơm của gạo st",
         "selected": null
       }
@@ -5540,11 +5540,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gạo đã nấu ăn và hoàn toàn thất vọng.☹️ Bao thì đúng có chử ST 25 hiệu ông vua nhưng gạo thì chắc không đúng ST 25. hạt gạo không đều gạo củ, cơm rất khô không dẻo cũng không thấy ngon gì cả! ☹️ ",
+    "reviewContent": "Gạo đã nấu ăn và hoàn toàn thất vọng.️ Bao thì đúng có chử ST 25 hiệu ông vua nhưng gạo thì chắc không đúng ST 25. hạt gạo không đều gạo củ, cơm rất khô không dẻo cũng không thấy ngon gì cả! ️ ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Gạo đã nấu ăn và hoàn toàn thất vọng.☹️ Bao thì đúng có chử ST 25 hiệu ông vua nhưng gạo thì chắc không đúng ST 25. hạt gạo không đều gạo củ, cơm rất khô không dẻo cũng không thấy ngon gì cả! ☹️",
+        "content": "Gạo đã nấu ăn và hoàn toàn thất vọng.️ Bao thì đúng có chử ST 25 hiệu ông vua nhưng gạo thì chắc không đúng ST 25. hạt gạo không đều gạo củ, cơm rất khô không dẻo cũng không thấy ngon gì cả! ️",
         "selected": null
       }
     ],
@@ -6145,10 +6145,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:tạm ăn không ngon \n chỉ mang cái mác của báo bì st25 thôi chứ giá này thì k phải gạo st25\nthua gạo nàng Thơm  ",
+    "reviewContent": "Hương vị:tạm ăn không ngon \n chỉ mang cái mác của báo bì st25 thôi chứ giá này thì k phải gạo st25\nthua gạo nàng Thơm  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "tạm ăn không ngon",
         "selected": null
       },
@@ -6986,20 +6986,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:  Làm cơm tơi xốp và thơm,  👃Hương thơm:  Gạo hạt dài với kết cấu tuyệt vời,  ✅Chất lượng:  tạm ổn ",
+    "reviewContent": "Chất lượng:  Làm cơm tơi xốp và thơm,  Hương thơm:  Gạo hạt dài với kết cấu tuyệt vời,  Chất lượng:  tạm ổn ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Làm cơm tơi xốp và thơm,",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "Gạo hạt dài với kết cấu tuyệt vời,",
         "selected": null
       },
       {
-        "attribute": "✅Quality",
+        "attribute": "Quality",
         "content": "tạm ổn",
         "selected": null
       }
@@ -8502,25 +8502,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:đẹp \n 🍖Hương vị:Cơm ngon và thơm, \n 💲Giá cả:rẻ hơn thị trường \n 🍝Kết cấu:Làm cơm tơi xốp và thơm,  ",
+    "reviewContent": "Bao bì:đẹp \n Hương vị:Cơm ngon và thơm, \n Giá cả:rẻ hơn thị trường \n Kết cấu:Làm cơm tơi xốp và thơm,  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Cơm ngon và thơm,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn thị trường",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "Làm cơm tơi xốp và thơm,",
         "selected": null
       }
@@ -8662,7 +8662,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo cho các bữa ăn hàng ngày, Gạo hạt dài với kết cấu tuyệt vời, \n 💲Giá cả:  Giá cả phù hợp.Cho túi tiền.  📦Bao bì:  Hoặc đóng gói bao bì gọn đẹp.  ",
+    "reviewContent": "Hoàn hảo cho các bữa ăn hàng ngày, Gạo hạt dài với kết cấu tuyệt vời, \n Giá cả:  Giá cả phù hợp.Cho túi tiền.  Bao bì:  Hoặc đóng gói bao bì gọn đẹp.  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -8670,12 +8670,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Giá cả phù hợp.Cho túi tiền.",
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "Hoặc đóng gói bao bì gọn đẹp.",
         "selected": null
       }
@@ -8840,7 +8840,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo để làm sushi, Gạo hạt dài với kết cấu tuyệt vời, Lý tưởng cho ẩm thực châu Á, \n 📦Bao bì:đóng gói kĩ càng, nhãn mác đẹp\n 🍖Hương vị:gạo rất dẽo, thơm nhẹ\n 💲Giá cả:phải chăng, xứng đáng với số tiền bỏ ra\n 🍝Kết cấu:hạt gạo dài thon rất đẹp. Giao hàng nhanh, mọi người nên mua ",
+    "reviewContent": "Hoàn hảo để làm sushi, Gạo hạt dài với kết cấu tuyệt vời, Lý tưởng cho ẩm thực châu Á, \n Bao bì:đóng gói kĩ càng, nhãn mác đẹp\n Hương vị:gạo rất dẽo, thơm nhẹ\n Giá cả:phải chăng, xứng đáng với số tiền bỏ ra\n Kết cấu:hạt gạo dài thon rất đẹp. Giao hàng nhanh, mọi người nên mua ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -8848,22 +8848,22 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đóng gói kĩ càng, nhãn mác đẹp",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "gạo rất dẽo, thơm nhẹ",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "phải chăng, xứng đáng với số tiền bỏ ra",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "hạt gạo dài thon rất đẹp. Giao hàng nhanh, mọi người nên mua",
         "selected": null
       }
@@ -9173,30 +9173,30 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:  ok 🍖Hương vị:  ok 💲Giá cả:  ok 🍝Kết cấu:  ok 🔍Chất lượng:  ok hoàn hảo cho bữa ăn hàng ngày, Làm cơm tơi xốp và thơm,  Sản phẩm đúng mẫu quảng cáo , shipper thân thiện, đóng gói cẩn thận, giao hàng nhanh chóng, đằng được thường 5 sao  ",
+    "reviewContent": "Bao bì:  ok Hương vị:  ok Giá cả:  ok Kết cấu:  ok Chất lượng:  ok hoàn hảo cho bữa ăn hàng ngày, Làm cơm tơi xốp và thơm,  Sản phẩm đúng mẫu quảng cáo , shipper thân thiện, đóng gói cẩn thận, giao hàng nhanh chóng, đằng được thường 5 sao  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ok hoàn hảo cho bữa ăn hàng ngày, Làm cơm tơi xốp và thơm,",
         "selected": null
       },
@@ -10831,11 +10831,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao hàng nhanh có liên kết với Grab express \nChưa ăn nên tạm 5 sao đã...\nnhãn ghi Gạo Ông Vua...ST25...🤔❓⁉ ",
+    "reviewContent": "giao hàng nhanh có liên kết với Grab express \nChưa ăn nên tạm 5 sao đã...\nnhãn ghi Gạo Ông Vua...ST25...⁉ ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giao hàng nhanh có liên kết với Grab express \nChưa ăn nên tạm 5 sao đã...\nnhãn ghi Gạo Ông Vua...ST25...🤔❓⁉",
+        "content": "giao hàng nhanh có liên kết với Grab express \nChưa ăn nên tạm 5 sao đã...\nnhãn ghi Gạo Ông Vua...ST25...⁉",
         "selected": null
       }
     ],
@@ -11401,16 +11401,16 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  Gạo hạt dài với kết cấu tuyệt vời, Gạo chất lượng cao, Làm cơm tơi xốp và thơm, ĐI TRỐN NÓNG VỚI DEAL MÁT LẠNH TẠI K COFFEE Deal Mua 1 tặng 1 cực đã \n🧋 Trà sữa đậm đà béo ngậy, trân châu dai giòn\n👉 Chụp màn hình ưu đãi trong link & ghé quán K COFFEE gần nhất để nhận ưu đãi hời nhé!\n--------\n ",
+    "reviewContent": "Giá cả:  Gạo hạt dài với kết cấu tuyệt vời, Gạo chất lượng cao, Làm cơm tơi xốp và thơm, ĐI TRỐN NÓNG VỚI DEAL MÁT LẠNH TẠI K COFFEE Deal Mua 1 tặng 1 cực đã \n Trà sữa đậm đà béo ngậy, trân châu dai giòn\n Chụp màn hình ưu đãi trong link & ghé quán K COFFEE gần nhất để nhận ưu đãi hời nhé!\n--------\n ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Gạo hạt dài với kết cấu tuyệt vời, Gạo chất lượng cao, Làm cơm tơi xốp và thơm, ĐI TRỐN NÓNG VỚI DEAL MÁT LẠNH TẠI K COFFEE",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "Deal Mua 1 tặng 1 cực đã \n🧋 Trà sữa đậm đà béo ngậy, trân châu dai giòn\n👉 Chụp màn hình ưu đãi trong link & ghé quán K COFFEE gần nhất để nhận ưu đãi hời nhé!\n--------",
+        "content": "Deal Mua 1 tặng 1 cực đã \n Trà sữa đậm đà béo ngậy, trân châu dai giòn\n Chụp màn hình ưu đãi trong link & ghé quán K COFFEE gần nhất để nhận ưu đãi hời nhé!\n--------",
         "selected": null
       }
     ],
@@ -12202,15 +12202,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:đóng gói tốt, dính mưa nhưng vẫn ổn\n 💲Giá cả:rẻ hơn mua ở siêu thị ",
+    "reviewContent": "Bao bì:đóng gói tốt, dính mưa nhưng vẫn ổn\n Giá cả:rẻ hơn mua ở siêu thị ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đóng gói tốt, dính mưa nhưng vẫn ổn",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn mua ở siêu thị",
         "selected": null
       }
@@ -12609,20 +12609,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị: hương vị Ok hạt gạo hơi ngắn\n 📦Bao bì:bao thường như bao bì khác\n 🍝Kết cấu: ngắn hơn thơm lại xíu chân tay là gạo thơm lại hạt to hơn Thum lại xíu ",
+    "reviewContent": "Hương vị: hương vị Ok hạt gạo hơi ngắn\n Bao bì:bao thường như bao bì khác\n Kết cấu: ngắn hơn thơm lại xíu chân tay là gạo thơm lại hạt to hơn Thum lại xíu ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "hương vị Ok hạt gạo hơi ngắn",
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "bao thường như bao bì khác",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "ngắn hơn thơm lại xíu chân tay là gạo thơm lại hạt to hơn Thum lại xíu",
         "selected": null
       }

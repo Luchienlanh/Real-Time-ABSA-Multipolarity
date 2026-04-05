@@ -17,7 +17,7 @@ PRODUCT_IDS = ['Product A', 'Product B', 'Product C', 'Product D', 'Product E']
 PRODUCT_CATEGORIES = ['Electronics', 'Fashion', 'Home & Living', 'Beauty', 'Sports']
 
 def enrich_data():
-    print("🔄 Starting Data Enrichment...")
+    print(" Starting Data Enrichment...")
     
     # Load data with double-header handling
     try:
@@ -31,9 +31,9 @@ def enrich_data():
                 break
         
         df = pd.read_excel(INPUT_FILE, header=header_idx)
-        print(f"✅ Loaded {len(df)} rows from {INPUT_FILE}")
+        print(f" Loaded {len(df)} rows from {INPUT_FILE}")
     except Exception as e:
-        print(f"❌ Error loading file: {e}")
+        print(f" Error loading file: {e}")
         return None
     
     # Add random Product_ID
@@ -45,7 +45,7 @@ def enrich_data():
     # Save enriched data
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     df.to_excel(OUTPUT_FILE, index=False)
-    print(f"💾 Saved enriched data to {OUTPUT_FILE}")
+    print(f" Saved enriched data to {OUTPUT_FILE}")
     print(f"   - Added columns: Product_ID, Product_Category")
     print(f"   - Sample Product distribution: {df['Product_ID'].value_counts().to_dict()}")
     

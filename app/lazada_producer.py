@@ -21,10 +21,10 @@ def create_producer():
             value_serializer=lambda v: json.dumps(v, ensure_ascii=False).encode('utf-8')
         )
     except NoBrokersAvailable:
-        print("⚠️ Kafka not ready, cannot create producer.")
+        print("️ Kafka not ready, cannot create producer.")
         return None
     except Exception as e:
-        print(f"❌ Error creating producer: {e}")
+        print(f" Error creating producer: {e}")
         return None
 
 def send_reviews_to_kafka(product_id: str, reviews: List[Dict]):
@@ -35,7 +35,7 @@ def send_reviews_to_kafka(product_id: str, reviews: List[Dict]):
     if not producer:
         return False
     
-    print(f"📤 Sending {len(reviews)} reviews for Product {product_id} to Kafka...")
+    print(f" Sending {len(reviews)} reviews for Product {product_id} to Kafka...")
     
     import uuid
     for idx, review in enumerate(reviews):
@@ -56,5 +56,5 @@ def send_reviews_to_kafka(product_id: str, reviews: List[Dict]):
     
     producer.flush()
     producer.close()
-    print("✅ Sent successfully!")
+    print(" Sent successfully!")
     return True

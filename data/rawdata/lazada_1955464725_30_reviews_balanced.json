@@ -1248,10 +1248,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Price:  gooood price ",
+    "reviewContent": "Price:  gooood price ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "gooood price",
         "selected": null
       }
@@ -2803,7 +2803,7 @@
       {
         "reviewRateId": 448282763364725,
         "reviewTime": "4 months ago",
-        "reviewContent": "Cảm ơn quý khách đã tin tưởng lựa chọn mua hàng tại shop🥰 Shop hy vọng anh/chị sẽ có trải nghiệm tuyệt vời khi sử dụng sản phẩm và tiếp tục ủng hộ shop trong tương lai ạ. Nếu có vấn đề gì với sản phẩm thì chị cứ nhắn bên em hỗ trợ mình nhé ạ 🫶 Shop cảm ơn anh/chị nhiều nhé ạ 💗\n",
+        "reviewContent": "Cảm ơn quý khách đã tin tưởng lựa chọn mua hàng tại shop Shop hy vọng anh/chị sẽ có trải nghiệm tuyệt vời khi sử dụng sản phẩm và tiếp tục ủng hộ shop trong tương lai ạ. Nếu có vấn đề gì với sản phẩm thì chị cứ nhắn bên em hỗ trợ mình nhé ạ  Shop cảm ơn anh/chị nhiều nhé ạ \n",
         "reviewerName": "Lazada Guest",
         "reviewerBadge": null,
         "isFollowUp": false,
@@ -3366,11 +3366,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giá rẽ dùng làm sạch thực phẩm rất tốt. tối đã dung nhiều lần sẽ tiếp tục ủng hộ shop 👍👍👍👍👍👍👍",
+    "reviewContent": "giá rẽ dùng làm sạch thực phẩm rất tốt. tối đã dung nhiều lần sẽ tiếp tục ủng hộ shop ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giá rẽ dùng làm sạch thực phẩm rất tốt. tối đã dung nhiều lần sẽ tiếp tục ủng hộ shop 👍👍👍👍👍👍👍",
+        "content": "giá rẽ dùng làm sạch thực phẩm rất tốt. tối đã dung nhiều lần sẽ tiếp tục ủng hộ shop ",
         "selected": null
       }
     ],
@@ -3913,11 +3913,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giấm dùng tốt 👍👍👍👍đã dùng nhiều lần rồi.",
+    "reviewContent": "giấm dùng tốt đã dùng nhiều lần rồi.",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giấm dùng tốt 👍👍👍👍đã dùng nhiều lần rồi.",
+        "content": "giấm dùng tốt đã dùng nhiều lần rồi.",
         "selected": null
       }
     ],

@@ -1768,11 +1768,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Xài rất tiện lợi, giá rẻ, mn nên mua nha 👍🏻👍🏻👍🏻👍🏻👍🏻 ",
+    "reviewContent": "Xài rất tiện lợi, giá rẻ, mn nên mua nha  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Xài rất tiện lợi, giá rẻ, mn nên mua nha 👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "content": "Xài rất tiện lợi, giá rẻ, mn nên mua nha ",
         "selected": null
       }
     ],
@@ -1913,11 +1913,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giá cả hợp lí, chất lượng OK 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻 ",
+    "reviewContent": "Giá cả hợp lí, chất lượng OK  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Giá cả hợp lí, chất lượng OK 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "content": "Giá cả hợp lí, chất lượng OK ",
         "selected": null
       }
     ],
@@ -2519,10 +2519,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔧Dễ dàng lắp đặt:  Tiện lợi và thực tế, Giữ điện thoại và phụ kiện một cách an toàn, Hoàn hảo cho các chuyến đi xe máy,  ",
+    "reviewContent": "Dễ dàng lắp đặt:  Tiện lợi và thực tế, Giữ điện thoại và phụ kiện một cách an toàn, Hoàn hảo cho các chuyến đi xe máy,  ",
     "reviewContentList": [
       {
-        "attribute": "🔧Ease of Installation",
+        "attribute": "Ease of Installation",
         "content": "Tiện lợi và thực tế, Giữ điện thoại và phụ kiện một cách an toàn, Hoàn hảo cho các chuyến đi xe máy,",
         "selected": null
       }
@@ -3195,7 +3195,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tuyệt vời cho các hoạt động ngoài trời,Hoàn hảo cho các chuyến đi xe máy,\n 🛡️Độ bền:Giữ điện thoại và phụ kiện một cách an toàn,  ",
+    "reviewContent": "Tuyệt vời cho các hoạt động ngoài trời,Hoàn hảo cho các chuyến đi xe máy,\n ️Độ bền:Giữ điện thoại và phụ kiện một cách an toàn,  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3203,7 +3203,7 @@
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "Giữ điện thoại và phụ kiện một cách an toàn,",
         "selected": null
       }

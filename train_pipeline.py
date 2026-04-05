@@ -19,11 +19,11 @@ from Src.train_multinb_rf import MultinomialNBModel
 from Src.preprocessing import preprocess_text
 
 def run_training():
-    print("🚀 Starting Training Pipeline...")
+    print(" Starting Training Pipeline...")
     
     # 1. Load Data - Use relative path
     data_path = os.path.join(PROJECT_DIR, 'data', 'label', 'absa_grouped_vietnamese.xlsx')
-    print(f"📥 Loading data from: {data_path}")
+    print(f" Loading data from: {data_path}")
     
     # Handle the specific header structure of the file
     try:
@@ -36,9 +36,9 @@ def run_training():
                 break
         
         df = pd.read_excel(data_path, header=header_idx)
-        print(f"✅ Data loaded. Shape: {df.shape}")
+        print(f" Data loaded. Shape: {df.shape}")
     except Exception as e:
-        print(f"❌ Error loading data: {e}")
+        print(f" Error loading data: {e}")
         return
 
     # 2. Prepare Data for Model
@@ -60,9 +60,9 @@ def run_training():
     # For demonstration, let's take 'Chất lượng sản phẩm' as the label.
     # Values: 1 (Pos), 0 (Neu), -1 (Neg), 2 (N/A).
     
-    print("⚙️ Preprocessing data...")
+    print("️ Preprocessing data...")
     if 'reviewContent' not in df.columns:
-        print("❌ 'reviewContent' column not found.")
+        print(" 'reviewContent' column not found.")
         return
 
     # Flatten logic: Create a dataset of (text, label) pairs
@@ -71,7 +71,7 @@ def run_training():
     
     target_aspect = 'Chất lượng sản phẩm'
     if target_aspect not in df.columns:
-         print(f"❌ Aspect '{target_aspect}' not found for training target.")
+         print(f" Aspect '{target_aspect}' not found for training target.")
          return
 
     filtered = df[df[target_aspect] != 2].dropna(subset=['reviewContent', target_aspect])
@@ -82,7 +82,7 @@ def run_training():
         'label': filtered[target_aspect] # -1, 0, 1
     })
     
-    print(f"📊 Training samples: {len(train_df)}")
+    print(f" Training samples: {len(train_df)}")
 
     # 3. Preprocess Text
     print("Cleaning text...")
@@ -94,13 +94,13 @@ def run_training():
     
     if env_vncorenlp_path and os.path.exists(env_vncorenlp_path):
         vncorenlp_path = env_vncorenlp_path
-        print(f"🌍 Using VnCoreNLP from ENV: {vncorenlp_path}")
+        print(f" Using VnCoreNLP from ENV: {vncorenlp_path}")
     elif os.path.exists(local_vncorenlp_path):
         vncorenlp_path = local_vncorenlp_path
-        print(f"🏠 Using VnCoreNLP from LOCAL: {vncorenlp_path}")
+        print(f" Using VnCoreNLP from LOCAL: {vncorenlp_path}")
     else:
         vncorenlp_path = None
-        print("⚠️ VnCoreNLP not found, using basic preprocessing")
+        print("️ VnCoreNLP not found, using basic preprocessing")
     # Note: If user doesn't have VnCoreNLP jar at this exact path, it might fail. 
     # Let's try to run relevant preprocessing without full VnCoreNLP if possible, or assume it exists.
     # Inspecting parameters: `vncorenlp_path` is passed.
@@ -110,7 +110,7 @@ def run_training():
     
     try:
         # 4. Train Model
-        print("🧠 Training MultinomialNB Model...")
+        print(" Training MultinomialNB Model...")
         model = MultinomialNBModel(vncorenlp_path=vncorenlp_path, use_parallel=False)
         
         # Preprocess
@@ -131,7 +131,7 @@ def run_training():
             use_feature_selection=True
         )
         
-        print(f"✅ Training completed. Accuracy: {results.get('accuracy', 0.0):.4f}")
+        print(f" Training completed. Accuracy: {results.get('accuracy', 0.0):.4f}")
         
         # 5. Save Model
         output_dir = os.path.join(PROJECT_DIR, 'models', 'best_model')
@@ -139,13 +139,13 @@ def run_training():
         # The class `MultiNomialNBModel` creates a timestamped folder. We might want a fixed folder for the dashboard to load.
         # I'll modify the save logic or just rename after.
         saved_path = model.save_model(output_dir)
-        print(f"💾 Model saved to: {saved_path}")
+        print(f" Model saved to: {saved_path}")
         
         # Save a 'latest' pointer or copy files to a fixed 'latest' dir for the dashboard?
         # For simplicity, let dashboard pick the latest or valid one.
         
     except Exception as e:
-        print(f"❌ Training failed: {e}")
+        print(f" Training failed: {e}")
         import traceback
         traceback.print_exc()
 

@@ -1571,20 +1571,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:không ok cho lắm\n 💲Giá cả:ok\n 🥦Giá trị dinh dưỡng:cá ít và dễ nát ",
+    "reviewContent": "Hương vị:không ok cho lắm\n Giá cả:ok\n Giá trị dinh dưỡng:cá ít và dễ nát ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "không ok cho lắm",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "cá ít và dễ nát",
         "selected": null
       }
@@ -2315,11 +2315,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị： ",
+    "reviewContent": "Hương vị： ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "🍖Hương vị：",
+        "content": "Hương vị：",
         "selected": null
       }
     ],
@@ -2533,7 +2533,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hương vị Thái Lan chính gốc, Thời hạn sử dụng lâu đến năm 2024, Nguyên liệu chất lượng cao từ Thái Lan, \n Chất lượng:ok\n Giá Cả:hop ly\n Mùi vị:ok\n 🍖Hương vị:tuyet ",
+    "reviewContent": "Hương vị Thái Lan chính gốc, Thời hạn sử dụng lâu đến năm 2024, Nguyên liệu chất lượng cao từ Thái Lan, \n Chất lượng:ok\n Giá Cả:hop ly\n Mùi vị:ok\n Hương vị:tuyet ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2556,7 +2556,7 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "tuyet",
         "selected": null
       }
@@ -3902,10 +3902,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:cá xốt cà \n hsd đến 2028, cá hộp Thái. người quen mua nên mua ăn thử hiệu này. nếu hợp sẽ ủng hộ tiếp . nhận đủ 5 hộp  ",
+    "reviewContent": "Hương vị:cá xốt cà \n hsd đến 2028, cá hộp Thái. người quen mua nên mua ăn thử hiệu này. nếu hợp sẽ ủng hộ tiếp . nhận đủ 5 hộp  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "cá xốt cà",
         "selected": null
       },
@@ -4309,7 +4309,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:ngon \n Giá Cả:hợp lý \n Mùi vị:tự nhiên \n 🥦Giá trị dinh dưỡng:ok\n Hoàn hảo cho các bữa ăn nhanh, Ngon và đậm đà, tiên lợi cho bữa ăn sáng  ",
+    "reviewContent": "Chất lượng:ngon \n Giá Cả:hợp lý \n Mùi vị:tự nhiên \n Giá trị dinh dưỡng:ok\n Hoàn hảo cho các bữa ăn nhanh, Ngon và đậm đà, tiên lợi cho bữa ăn sáng  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -4327,7 +4327,7 @@
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "ok",
         "selected": null
       },
@@ -5692,10 +5692,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Hương vị Thái Lan chính gốc, Giá trị tuyệt vời cho số tiền bỏ ra, Nước sốt cà chua ngon,  ",
+    "reviewContent": "Hương vị:Hương vị Thái Lan chính gốc, Giá trị tuyệt vời cho số tiền bỏ ra, Nước sốt cà chua ngon,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Hương vị Thái Lan chính gốc, Giá trị tuyệt vời cho số tiền bỏ ra, Nước sốt cà chua ngon,",
         "selected": null
       }
@@ -5994,7 +5994,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gói combo tiện lợi, Thời hạn sử dụng lâu đến năm 2024, Nước sốt cà chua ngon, Ngon và đậm đà, \n 🥦Giá trị dinh dưỡng:ok rẻ\nhàng Thái  ",
+    "reviewContent": "Gói combo tiện lợi, Thời hạn sử dụng lâu đến năm 2024, Nước sốt cà chua ngon, Ngon và đậm đà, \n Giá trị dinh dưỡng:ok rẻ\nhàng Thái  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6002,7 +6002,7 @@
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "ok rẻ\nhàng Thái",
         "selected": null
       }
@@ -6267,21 +6267,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Ngon.\n 💲Giá cả:Hợp lý.\n 🥦Giá trị dinh dưỡng:Tốt.\nHàng đúng miêu tả. Chất lượng sản phẩm tốt trong tầm giá. Shipper nhiệt tình, vui vẻ, thân thiện, nhanh nhẹn. Tuyệt vời. 5 sao cho shop và shipper nha. 👍💯💯👍 ",
+    "reviewContent": "Hương vị:Ngon.\n Giá cả:Hợp lý.\n Giá trị dinh dưỡng:Tốt.\nHàng đúng miêu tả. Chất lượng sản phẩm tốt trong tầm giá. Shipper nhiệt tình, vui vẻ, thân thiện, nhanh nhẹn. Tuyệt vời. 5 sao cho shop và shipper nha.  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Ngon.",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Hợp lý.",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
-        "content": "Tốt.\nHàng đúng miêu tả. Chất lượng sản phẩm tốt trong tầm giá. Shipper nhiệt tình, vui vẻ, thân thiện, nhanh nhẹn. Tuyệt vời. 5 sao cho shop và shipper nha. 👍💯💯👍",
+        "attribute": "Nutritional Value",
+        "content": "Tốt.\nHàng đúng miêu tả. Chất lượng sản phẩm tốt trong tầm giá. Shipper nhiệt tình, vui vẻ, thân thiện, nhanh nhẹn. Tuyệt vời. 5 sao cho shop và shipper nha. ",
         "selected": null
       }
     ],

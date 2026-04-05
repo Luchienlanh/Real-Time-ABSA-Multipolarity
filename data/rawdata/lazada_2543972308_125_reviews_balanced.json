@@ -432,7 +432,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "chất lượng rất kém, đeo cảm giác rất khó chịu xấu, khẩu trang tệ nhất tôi mua, mua về  mất công đi vứt tốn tiền \n 🔍Hiệu quả lọc:  kém 🛡️Độ bền:  kém  😌Thoải mái:  không ",
+    "reviewContent": "chất lượng rất kém, đeo cảm giác rất khó chịu xấu, khẩu trang tệ nhất tôi mua, mua về  mất công đi vứt tốn tiền \n Hiệu quả lọc:  kém ️Độ bền:  kém  Thoải mái:  không ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -440,17 +440,17 @@
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "không",
         "selected": null
       }
@@ -985,15 +985,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền: không tốt 😌Thoải mái: quá tệ khi đeo rất là khó chịu hàng rất là mỏng ",
+    "reviewContent": "️Độ bền: không tốt Thoải mái: quá tệ khi đeo rất là khó chịu hàng rất là mỏng ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "không tốt",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "quá tệ khi đeo rất là khó chịu hàng rất là mỏng",
         "selected": null
       }
@@ -2608,20 +2608,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:tệ\n 😌Thoải mái:rất hôi đừng mua\n 🔍Hiệu quả lọc:không lọc gì đâu xuyên thấu luôn í ",
+    "reviewContent": "️Độ bền:tệ\n Thoải mái:rất hôi đừng mua\n Hiệu quả lọc:không lọc gì đâu xuyên thấu luôn í ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "tệ",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "rất hôi đừng mua",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "không lọc gì đâu xuyên thấu luôn í",
         "selected": null
       }
@@ -2886,10 +2886,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:tồi\n tốt nhất k nên mua để dùng nha k\nkhẩu trang gì mỏng dính như tờ giấy vs \ncòn có mùi hôi hôi\n ",
+    "reviewContent": "️Độ bền:tồi\n tốt nhất k nên mua để dùng nha k\nkhẩu trang gì mỏng dính như tờ giấy vs \ncòn có mùi hôi hôi\n ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "tồi",
         "selected": null
       },
@@ -3331,11 +3331,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "shop lm ăn như lồn, làm ăn gì kì z?\nGiao nhầm hàng cho khách mà coi được à?\nLừa đảo đánh giá 1 sao🙂 ",
+    "reviewContent": "shop lm ăn như lồn, làm ăn gì kì z?\nGiao nhầm hàng cho khách mà coi được à?\nLừa đảo đánh giá 1 sao ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "shop lm ăn như lồn, làm ăn gì kì z?\nGiao nhầm hàng cho khách mà coi được à?\nLừa đảo đánh giá 1 sao🙂",
+        "content": "shop lm ăn như lồn, làm ăn gì kì z?\nGiao nhầm hàng cho khách mà coi được à?\nLừa đảo đánh giá 1 sao",
         "selected": null
       }
     ],
@@ -4848,20 +4848,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:dễ rách \n 😌Thoải mái:đeo đau tai\n 🔍Hiệu quả lọc:Thiết kế 3D để vừa vặn hơn, Giá trị tuyệt vời cho giá cả, Tiện lợi và dễ sử dụng, 10 cái trong một gói,  ",
+    "reviewContent": "️Độ bền:dễ rách \n Thoải mái:đeo đau tai\n Hiệu quả lọc:Thiết kế 3D để vừa vặn hơn, Giá trị tuyệt vời cho giá cả, Tiện lợi và dễ sử dụng, 10 cái trong một gói,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "dễ rách",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "đeo đau tai",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "Thiết kế 3D để vừa vặn hơn, Giá trị tuyệt vời cho giá cả, Tiện lợi và dễ sử dụng, 10 cái trong một gói,",
         "selected": null
       }
@@ -5015,20 +5015,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:mỏng \n 😌Thoải mái:hôi nhựa \n 🔍Hiệu quả lọc:Mặt nạ đen trắng chất lượng cao, Giá trị tuyệt vời cho giá cả, Vừa vặn hoàn hảo cho người lớn, Phù hợp cho cả nam và nữ, Cung cấp sự bảo vệ tốt., Mềm mại và nhẹ nhàng trên da, Thoải mái và thoáng khí,  ",
+    "reviewContent": "️Độ bền:mỏng \n Thoải mái:hôi nhựa \n Hiệu quả lọc:Mặt nạ đen trắng chất lượng cao, Giá trị tuyệt vời cho giá cả, Vừa vặn hoàn hảo cho người lớn, Phù hợp cho cả nam và nữ, Cung cấp sự bảo vệ tốt., Mềm mại và nhẹ nhàng trên da, Thoải mái và thoáng khí,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "mỏng",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "hôi nhựa",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "Mặt nạ đen trắng chất lượng cao, Giá trị tuyệt vời cho giá cả, Vừa vặn hoàn hảo cho người lớn, Phù hợp cho cả nam và nữ, Cung cấp sự bảo vệ tốt., Mềm mại và nhẹ nhàng trên da, Thoải mái và thoáng khí,",
         "selected": null
       }
@@ -5291,20 +5291,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:eo ơi đừng mua đã mỏng mà lại không còn bền như ở ngoài giá cả lại bằng ở ngoài nữa đừng mua\n 😌Thoải mái:thoải mái cái éo về mẹ nó đeo ngứa cả mặt chưa được nổi 30 phút ngứa là ngứa\n 🔍Hiệu quả lọc:đ** đọc được cái l** gì hết ",
+    "reviewContent": "️Độ bền:eo ơi đừng mua đã mỏng mà lại không còn bền như ở ngoài giá cả lại bằng ở ngoài nữa đừng mua\n Thoải mái:thoải mái cái éo về mẹ nó đeo ngứa cả mặt chưa được nổi 30 phút ngứa là ngứa\n Hiệu quả lọc:đ** đọc được cái l** gì hết ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "eo ơi đừng mua đã mỏng mà lại không còn bền như ở ngoài giá cả lại bằng ở ngoài nữa đừng mua",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "thoải mái cái éo về mẹ nó đeo ngứa cả mặt chưa được nổi 30 phút ngứa là ngứa",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "đ** đọc được cái l** gì hết",
         "selected": null
       }
@@ -6472,10 +6472,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:hàng mỏng manh  ",
+    "reviewContent": "️Độ bền:hàng mỏng manh  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "hàng mỏng manh",
         "selected": null
       }
@@ -7503,7 +7503,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mỏng\n 🔍Hiệu quả lọc:  kém 😌Thoải mái:  chật 🛡️Độ bền:  thấp ",
+    "reviewContent": "mỏng\n Hiệu quả lọc:  kém Thoải mái:  chật ️Độ bền:  thấp ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7511,17 +7511,17 @@
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "chật",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "thấp",
         "selected": null
       }
@@ -8467,7 +8467,7 @@
       }
     ],
     "buyerId": 6528659,
-    "buyerName": "𝔭***𝔦",
+    "buyerName": "***",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": true,
@@ -8558,10 +8558,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Thoải mái và thoáng khí, Giá trị tuyệt vời cho giá cả, giao 1 gói đủ số lượng  ",
+    "reviewContent": "Thoải mái:Thoải mái và thoáng khí, Giá trị tuyệt vời cho giá cả, giao 1 gói đủ số lượng  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Thoải mái và thoáng khí, Giá trị tuyệt vời cho giá cả, giao 1 gói đủ số lượng",
         "selected": null
       }
@@ -8848,20 +8848,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:ok\n 😌Thoải mái:ok\n 🔍Hiệu quả lọc:ok\n thiếu một cái, Thoải mái và thoáng khí, Tiện lợi và dễ sử dụng.  ",
+    "reviewContent": "️Độ bền:ok\n Thoải mái:ok\n Hiệu quả lọc:ok\n thiếu một cái, Thoải mái và thoáng khí, Tiện lợi và dễ sử dụng.  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "ok",
         "selected": null
       },
@@ -9579,20 +9579,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:ok\n 🛡️Độ bền:ổn \n 🔍Hiệu quả lọc:Thoải mái và thoáng khí,  ",
+    "reviewContent": "Thoải mái:ok\n ️Độ bền:ổn \n Hiệu quả lọc:Thoải mái và thoáng khí,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "Thoải mái và thoáng khí,",
         "selected": null
       }
@@ -9698,10 +9698,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:  mỏng quá ",
+    "reviewContent": "️Độ bền:  mỏng quá ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "mỏng quá",
         "selected": null
       }
@@ -10343,11 +10343,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đơn được giao ở 1 nơi cách tôi ở gần 1km , trời mưa tầm tã đi lấy đơn ướt như chuột lột.  4☆ ",
+    "reviewContent": "Đơn được giao ở 1 nơi cách tôi ở gần 1km , trời mưa tầm tã đi lấy đơn ướt như chuột lột.  4 ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Đơn được giao ở 1 nơi cách tôi ở gần 1km , trời mưa tầm tã đi lấy đơn ướt như chuột lột.  4☆",
+        "content": "Đơn được giao ở 1 nơi cách tôi ở gần 1km , trời mưa tầm tã đi lấy đơn ướt như chuột lột.  4",
         "selected": null
       }
     ],
@@ -10452,20 +10452,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:sd thoải mái \n 🛡️An toàn:an toàn\n ✅Hiệu quả:hiệu quáThiết kế 3D để vừa vặn hơn, Cung cấp sự bảo vệ tốt., Vừa vặn hoàn hảo cho người lớn, Giá trị tuyệt vời cho giá cả, Phù hợp cho cả nam và nữ, Thoải mái và thoáng khí, Mềm mại và nhẹ nhàng trên da, 10 cái trong một gói,  ",
+    "reviewContent": "Thoải mái:sd thoải mái \n ️An toàn:an toàn\n Hiệu quả:hiệu quáThiết kế 3D để vừa vặn hơn, Cung cấp sự bảo vệ tốt., Vừa vặn hoàn hảo cho người lớn, Giá trị tuyệt vời cho giá cả, Phù hợp cho cả nam và nữ, Thoải mái và thoáng khí, Mềm mại và nhẹ nhàng trên da, 10 cái trong một gói,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "sd thoải mái",
         "selected": null
       },
       {
-        "attribute": "🛡️Safety",
+        "attribute": "️Safety",
         "content": "an toàn",
         "selected": null
       },
       {
-        "attribute": "✅Effectiveness",
+        "attribute": "Effectiveness",
         "content": "hiệu quáThiết kế 3D để vừa vặn hơn, Cung cấp sự bảo vệ tốt., Vừa vặn hoàn hảo cho người lớn, Giá trị tuyệt vời cho giá cả, Phù hợp cho cả nam và nữ, Thoải mái và thoáng khí, Mềm mại và nhẹ nhàng trên da, 10 cái trong một gói,",
         "selected": null
       }
@@ -14025,7 +14025,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tiện lợi và dễ sử dụng, Thoải mái và thoáng khí, Phù hợp cho cả nam và nữ, \n 😌Thoải mái:  oke 10 điểm nên mua nhé mọi người  ",
+    "reviewContent": "Tiện lợi và dễ sử dụng, Thoải mái và thoáng khí, Phù hợp cho cả nam và nữ, \n Thoải mái:  oke 10 điểm nên mua nhé mọi người  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -14033,7 +14033,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "oke 10 điểm nên mua nhé mọi người",
         "selected": null
       }
@@ -14801,15 +14801,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:10 cái trong một gói, \n 😌Thoải mái:Mặt nạ đen trắng chất lượng cao, Vừa vặn hoàn hảo cho người lớn, giá rẻ hơn các chỗ khác.  ",
+    "reviewContent": "️Độ bền:10 cái trong một gói, \n Thoải mái:Mặt nạ đen trắng chất lượng cao, Vừa vặn hoàn hảo cho người lớn, giá rẻ hơn các chỗ khác.  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "10 cái trong một gói,",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Mặt nạ đen trắng chất lượng cao, Vừa vặn hoàn hảo cho người lớn, giá rẻ hơn các chỗ khác.",
         "selected": null
       }
@@ -14997,10 +14997,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:tốt Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, Thoải mái và thoáng khí, Thiết kế 3D để vừa vặn hơn, 10 cái trong một gói,  ",
+    "reviewContent": "️Độ bền:tốt Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, Thoải mái và thoáng khí, Thiết kế 3D để vừa vặn hơn, 10 cái trong một gói,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "tốt Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, Thoải mái và thoáng khí, Thiết kế 3D để vừa vặn hơn, 10 cái trong một gói,",
         "selected": null
       }
@@ -15432,10 +15432,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:Thiết kế 3D để vừa vặn hơn, Mặt nạ đen trắng chất lượng cao, Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, giá rẻ so với các chỗ khác.  ",
+    "reviewContent": "️Độ bền:Thiết kế 3D để vừa vặn hơn, Mặt nạ đen trắng chất lượng cao, Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, giá rẻ so với các chỗ khác.  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "Thiết kế 3D để vừa vặn hơn, Mặt nạ đen trắng chất lượng cao, Tiện lợi và dễ sử dụng, Giá trị tuyệt vời cho giá cả, giá rẻ so với các chỗ khác.",
         "selected": null
       }
@@ -15913,7 +15913,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vừa vặn hoàn hảo cho người lớn, Mặt nạ đen trắng chất lượng cao, Giá trị tuyệt vời cho giá cả, Tiện lợi và dễ sử dụng, Mềm mại và nhẹ nhàng trên da, \n 🛡️Độ bền:10d\n 😌Thoải mái:10d\n 🔍Hiệu quả lọc:10d ",
+    "reviewContent": "Vừa vặn hoàn hảo cho người lớn, Mặt nạ đen trắng chất lượng cao, Giá trị tuyệt vời cho giá cả, Tiện lợi và dễ sử dụng, Mềm mại và nhẹ nhàng trên da, \n ️Độ bền:10d\n Thoải mái:10d\n Hiệu quả lọc:10d ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -15921,17 +15921,17 @@
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "10d",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "10d",
         "selected": null
       },
       {
-        "attribute": "🔍Filtration Efficiency",
+        "attribute": "Filtration Efficiency",
         "content": "10d",
         "selected": null
       }

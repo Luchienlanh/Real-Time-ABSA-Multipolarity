@@ -7,11 +7,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Quãng cáo lắm vào nhìn đẹp mắc chu có sử dụng được đâu , k hai lòng chất lượng 👎 ",
+    "reviewContent": "Quãng cáo lắm vào nhìn đẹp mắc chu có sử dụng được đâu , k hai lòng chất lượng  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Quãng cáo lắm vào nhìn đẹp mắc chu có sử dụng được đâu , k hai lòng chất lượng 👎",
+        "content": "Quãng cáo lắm vào nhìn đẹp mắc chu có sử dụng được đâu , k hai lòng chất lượng ",
         "selected": null
       }
     ],
@@ -128,11 +128,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đặc 2 cộng không sử dụng được chán thật 👎 ",
+    "reviewContent": "Đặc 2 cộng không sử dụng được chán thật  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Đặc 2 cộng không sử dụng được chán thật 👎",
+        "content": "Đặc 2 cộng không sử dụng được chán thật ",
         "selected": null
       }
     ],
@@ -1708,15 +1708,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔌Tính tương thích:nóng bỏng tay khi sạc đt \n 🛡Độ bền:chưa đc 1 tuần hỏng mẹ rồi \n ",
+    "reviewContent": "Tính tương thích:nóng bỏng tay khi sạc đt \n Độ bền:chưa đc 1 tuần hỏng mẹ rồi \n ",
     "reviewContentList": [
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "nóng bỏng tay khi sạc đt",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa đc 1 tuần hỏng mẹ rồi",
         "selected": null
       }
@@ -3447,15 +3447,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:ok trong tầm giá\n ♋Tương thích:Kết cấu tinh tế cho cảm giác cao cấp.,\n ",
+    "reviewContent": "Giá cả:ok trong tầm giá\n Tương thích:Kết cấu tinh tế cho cảm giác cao cấp.,\n ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok trong tầm giá",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "Kết cấu tinh tế cho cảm giác cao cấp.,",
         "selected": null
       }
@@ -3586,10 +3586,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:quá tuyệt vời.. OK  ",
+    "reviewContent": "Giá cả:quá tuyệt vời.. OK  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "quá tuyệt vời.. OK",
         "selected": null
       }
@@ -4240,25 +4240,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  rẻ như 0đồng 👌Dễ sử dụng:  ok ♋Tương thích:  teyl c, ip, micro c.  🛡Độ bền:  hy vọng bề.  Thiết kế đèn LED thu hút mắt, Sạc nhanh cho iPhone và các thiết bị khác, Giao hàng nhanh nữa. Ủng hộ 5* nhé.  ",
+    "reviewContent": "Giá cả:  rẻ như 0đồng Dễ sử dụng:  ok Tương thích:  teyl c, ip, micro c.  Độ bền:  hy vọng bề.  Thiết kế đèn LED thu hút mắt, Sạc nhanh cho iPhone và các thiết bị khác, Giao hàng nhanh nữa. Ủng hộ 5* nhé.  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ như 0đồng",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "teyl c, ip, micro c.",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "hy vọng bề.  Thiết kế đèn LED thu hút mắt, Sạc nhanh cho iPhone và các thiết bị khác, Giao hàng nhanh nữa. Ủng hộ 5* nhé.",
         "selected": null
       }
@@ -4423,7 +4423,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sạc nhanh với đèn LED, Thiết kế đèn LED thu hút mắt, Kết cấu tinh tế cho cảm giác cao cấp., \n 🛡Độ bền:cao\n 💲Giá cả:rẻ  ",
+    "reviewContent": "Sạc nhanh với đèn LED, Thiết kế đèn LED thu hút mắt, Kết cấu tinh tế cho cảm giác cao cấp., \n Độ bền:cao\n Giá cả:rẻ  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4431,12 +4431,12 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       }
@@ -4578,20 +4578,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:tuyệt vời \n 🛡Độ bền:đang sử dụng \n 👌Dễ sử dụng:rất dễ sử dụng Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp.,  ",
+    "reviewContent": "Giá cả:tuyệt vời \n Độ bền:đang sử dụng \n Dễ sử dụng:rất dễ sử dụng Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp.,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tuyệt vời",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "đang sử dụng",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "rất dễ sử dụng Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp.,",
         "selected": null
       }
@@ -4733,7 +4733,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giá tốt.\nhiệu suất cao.\n\n 🛡Độ bền:đợi kiểm chứng sau.\n 👌Dễ sử dụng:3 đầu sac.\n nên mua. ",
+    "reviewContent": "giá tốt.\nhiệu suất cao.\n\n Độ bền:đợi kiểm chứng sau.\n Dễ sử dụng:3 đầu sac.\n nên mua. ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4741,12 +4741,12 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "đợi kiểm chứng sau.",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "3 đầu sac.",
         "selected": null
       },
@@ -5038,15 +5038,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  0₫ 🛡Độ bền:  chưa biết Có nhiều màu sắc rực rỡ,  Hàng nhận đc với giá 0₫.Cảm ơn Shop.Hàng Free nhưng thấy đẹp lắm nhưng chưa biết xài OK ko. ",
+    "reviewContent": "Giá cả:  0₫ Độ bền:  chưa biết Có nhiều màu sắc rực rỡ,  Hàng nhận đc với giá 0₫.Cảm ơn Shop.Hàng Free nhưng thấy đẹp lắm nhưng chưa biết xài OK ko. ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "0₫",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa biết Có nhiều màu sắc rực rỡ,",
         "selected": null
       },
@@ -6053,7 +6053,7 @@
       }
     ],
     "buyerId": 6528659,
-    "buyerName": "𝔭***𝔦",
+    "buyerName": "***",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": true,
@@ -6278,7 +6278,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Bộ sạc loại C sang loại C tiện lợi, Truyền tải dòng điện an toàn và hiệu quả, đẹp mắt. \n\n ♋Tương thích:mọi thiết bị điện tử.  ",
+    "reviewContent": "Bộ sạc loại C sang loại C tiện lợi, Truyền tải dòng điện an toàn và hiệu quả, đẹp mắt. \n\n Tương thích:mọi thiết bị điện tử.  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6286,7 +6286,7 @@
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "mọi thiết bị điện tử.",
         "selected": null
       }
@@ -6440,25 +6440,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:ok ....\n 🛡Độ bền:ok ..\n 👌Dễ sử dụng:ok\n ♋Tương thích:ok ",
+    "reviewContent": "Giá cả:ok ....\n Độ bền:ok ..\n Dễ sử dụng:ok\n Tương thích:ok ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok ....",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ok ..",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "ok",
         "selected": null
       }
@@ -6589,25 +6589,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔌Tính tương thích:sử dụng được nhiều nguồn điện\n ♋Tương thích:iphone, samsung và oppo...\n 👌Dễ sử dụng:Vỏ TPE mềm và linh hoạt, Cáp bền và không bị rối, Thiết kế đèn LED thu hút mắt, Sạc nhanh với đèn LED, \n 💲Giá cả:tốt trong tầm giá đang 5* ",
+    "reviewContent": "Tính tương thích:sử dụng được nhiều nguồn điện\n Tương thích:iphone, samsung và oppo...\n Dễ sử dụng:Vỏ TPE mềm và linh hoạt, Cáp bền và không bị rối, Thiết kế đèn LED thu hút mắt, Sạc nhanh với đèn LED, \n Giá cả:tốt trong tầm giá đang 5* ",
     "reviewContentList": [
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "sử dụng được nhiều nguồn điện",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "iphone, samsung và oppo...",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "Vỏ TPE mềm và linh hoạt, Cáp bền và không bị rối, Thiết kế đèn LED thu hút mắt, Sạc nhanh với đèn LED,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tốt trong tầm giá đang 5*",
         "selected": null
       }
@@ -7004,25 +7004,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rất cạnh tranh \n 🛡Độ bền:chưa sử dụng chưa biết \n 👌Dễ sử dụng:rất dễ dùng\n ♋Tương thích:tốtCáp bền và không bị rối, Bộ sạc loại C sang loại C tiện lợi,  ",
+    "reviewContent": "Giá cả:rất cạnh tranh \n Độ bền:chưa sử dụng chưa biết \n Dễ sử dụng:rất dễ dùng\n Tương thích:tốtCáp bền và không bị rối, Bộ sạc loại C sang loại C tiện lợi,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rất cạnh tranh",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa sử dụng chưa biết",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "rất dễ dùng",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "tốtCáp bền và không bị rối, Bộ sạc loại C sang loại C tiện lợi,",
         "selected": null
       }
@@ -7256,20 +7256,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:giá cả cả giá cả tạm ổn \n\n 🛡Độ bền:nếu bạn chưa sử dụng chưa biết\n ♋Tương thích:chấn thương phức tạp ổn không có chức năng sạc nhanh ",
+    "reviewContent": "Giá cả:giá cả cả giá cả tạm ổn \n\n Độ bền:nếu bạn chưa sử dụng chưa biết\n Tương thích:chấn thương phức tạp ổn không có chức năng sạc nhanh ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả cả giá cả tạm ổn",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "nếu bạn chưa sử dụng chưa biết",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "chấn thương phức tạp ổn không có chức năng sạc nhanh",
         "selected": null
       }
@@ -8014,11 +8014,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp., Có nhiều màu sắc rực rỡ, Bộ sạc loại C sang loại C tiện lợi, Lõi đồng chất lượng cao, good 👍👍👍👍👍👍 ",
+    "reviewContent": "Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp., Có nhiều màu sắc rực rỡ, Bộ sạc loại C sang loại C tiện lợi, Lõi đồng chất lượng cao, good  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp., Có nhiều màu sắc rực rỡ, Bộ sạc loại C sang loại C tiện lợi, Lõi đồng chất lượng cao, good 👍👍👍👍👍👍",
+        "content": "Truyền tải dòng điện an toàn và hiệu quả, Kết cấu tinh tế cho cảm giác cao cấp., Có nhiều màu sắc rực rỡ, Bộ sạc loại C sang loại C tiện lợi, Lõi đồng chất lượng cao, good ",
         "selected": null
       }
     ],
@@ -8652,20 +8652,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rất cạnh tranh \n 🛡Độ bền:chấp nhận được \n ♋Tương thích:tốt  ",
+    "reviewContent": "Giá cả:rất cạnh tranh \n Độ bền:chấp nhận được \n Tương thích:tốt  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rất cạnh tranh",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chấp nhận được",
         "selected": null
       },
       {
-        "attribute": "♋Compatibility",
+        "attribute": "Compatibility",
         "content": "tốt",
         "selected": null
       }

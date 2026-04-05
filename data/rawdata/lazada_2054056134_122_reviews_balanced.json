@@ -1138,11 +1138,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Shop phục vụ kém 👎🏿👎🏿👎🏿\nGửi sản phẩm lỗi cho khách, 1 bên tai nghe ko hít ko sạc vài điện, ko sử dụng đc\nNhắn cho shop - chờ shop phản hồi mà shop ko thèm tl xử lý - dù đã nhắn nhiều lần\n\nAce cân nhắc vì ngoài kia còn nhiều shop bán lắm ",
+    "reviewContent": "Shop phục vụ kém \nGửi sản phẩm lỗi cho khách, 1 bên tai nghe ko hít ko sạc vài điện, ko sử dụng đc\nNhắn cho shop - chờ shop phản hồi mà shop ko thèm tl xử lý - dù đã nhắn nhiều lần\n\nAce cân nhắc vì ngoài kia còn nhiều shop bán lắm ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Shop phục vụ kém 👎🏿👎🏿👎🏿\nGửi sản phẩm lỗi cho khách, 1 bên tai nghe ko hít ko sạc vài điện, ko sử dụng đc\nNhắn cho shop - chờ shop phản hồi mà shop ko thèm tl xử lý - dù đã nhắn nhiều lần\n\nAce cân nhắc vì ngoài kia còn nhiều shop bán lắm",
+        "content": "Shop phục vụ kém \nGửi sản phẩm lỗi cho khách, 1 bên tai nghe ko hít ko sạc vài điện, ko sử dụng đc\nNhắn cho shop - chờ shop phản hồi mà shop ko thèm tl xử lý - dù đã nhắn nhiều lần\n\nAce cân nhắc vì ngoài kia còn nhiều shop bán lắm",
         "selected": null
       }
     ],
@@ -4476,20 +4476,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:nghe được 1h là báo hết mặc dù nạp full.\n 😌Thoải mái:ko phù hợp với tai nhỏ.\n 🎤Chất lượng âm thanh:quá kém đàm thoại thì ko được luôn bên kia nghe rất khó chịu. ",
+    "reviewContent": "Thời lượng pin:nghe được 1h là báo hết mặc dù nạp full.\n Thoải mái:ko phù hợp với tai nhỏ.\n Chất lượng âm thanh:quá kém đàm thoại thì ko được luôn bên kia nghe rất khó chịu. ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "nghe được 1h là báo hết mặc dù nạp full.",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ko phù hợp với tai nhỏ.",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "quá kém đàm thoại thì ko được luôn bên kia nghe rất khó chịu.",
         "selected": null
       }
@@ -4620,7 +4620,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hàng cho đứa bạn, nó bảo:\n 🎤Chất lượng âm thanh:âm thanh nó gây nhức đầu, đeo khoảng 30 phút là ko chịu nổi.\n 😌Thoải mái:ko thoải mái\n 🔋Thời lượng pin:khoảng 3 tiếng thui, dù bật âm lượng nhỏ. Chuôi sạc là cổng micro. Nói chung hàng này thì chỉ đc vậy thui. Có 1k mà. ",
+    "reviewContent": "Hàng cho đứa bạn, nó bảo:\n Chất lượng âm thanh:âm thanh nó gây nhức đầu, đeo khoảng 30 phút là ko chịu nổi.\n Thoải mái:ko thoải mái\n Thời lượng pin:khoảng 3 tiếng thui, dù bật âm lượng nhỏ. Chuôi sạc là cổng micro. Nói chung hàng này thì chỉ đc vậy thui. Có 1k mà. ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4628,17 +4628,17 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "âm thanh nó gây nhức đầu, đeo khoảng 30 phút là ko chịu nổi.",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ko thoải mái",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "khoảng 3 tiếng thui, dù bật âm lượng nhỏ. Chuôi sạc là cổng micro. Nói chung hàng này thì chỉ đc vậy thui. Có 1k mà.",
         "selected": null
       }
@@ -4969,10 +4969,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:bên trái nghe to bên phải nhỏ còn nghe hơi rè rè,chất lượng âm thanh không tốt lắm,nghe không hay. ",
+    "reviewContent": "Chất lượng âm thanh:bên trái nghe to bên phải nhỏ còn nghe hơi rè rè,chất lượng âm thanh không tốt lắm,nghe không hay. ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "bên trái nghe to bên phải nhỏ còn nghe hơi rè rè,chất lượng âm thanh không tốt lắm,nghe không hay.",
         "selected": null
       }
@@ -5774,10 +5774,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  kemTính năng khử tiếTính năng khử tiếng ồn hoạt độnnăbang koDễ sử dụng với điều khiển cảm ứng., Dễ sử dụng với điều khiển cảm ứng., Màn hình LED gaming ấn tượng.,  ",
+    "reviewContent": "Thời lượng pin:  kemTính năng khử tiếTính năng khử tiếng ồn hoạt độnnăbang koDễ sử dụng với điều khiển cảm ứng., Dễ sử dụng với điều khiển cảm ứng., Màn hình LED gaming ấn tượng.,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "kemTính năng khử tiếTính năng khử tiếng ồn hoạt độnnăbang koDễ sử dụng với điều khiển cảm ứng., Dễ sử dụng với điều khiển cảm ứng., Màn hình LED gaming ấn tượng.,",
         "selected": null
       }
@@ -6446,11 +6446,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "buồn quá một bên nghe được một bên không.mới nhận hàng mà thất vọng thật sự 😌 ",
+    "reviewContent": "buồn quá một bên nghe được một bên không.mới nhận hàng mà thất vọng thật sự  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "buồn quá một bên nghe được một bên không.mới nhận hàng mà thất vọng thật sự 😌",
+        "content": "buồn quá một bên nghe được một bên không.mới nhận hàng mà thất vọng thật sự ",
         "selected": null
       }
     ],
@@ -6936,10 +6936,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  kém  ",
+    "reviewContent": "Thời lượng pin:  kém  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "kém",
         "selected": null
       }
@@ -7408,7 +7408,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tuổi thọ pin lâu dài.,\n 😌Thoải mái:Thoải mái khi đeo trong thời gian dài.,\n ",
+    "reviewContent": "Tuổi thọ pin lâu dài.,\n Thoải mái:Thoải mái khi đeo trong thời gian dài.,\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7416,7 +7416,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Thoải mái khi đeo trong thời gian dài.,",
         "selected": null
       }
@@ -7522,11 +7522,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "hàng giao nhanh,đúng với hình nhưng chất lượng tai nghe lỏ không được tốt như mong đợi,âm nghe được nhỏ dù bật hết âm thanh,khó kết nối,bị cấn dễ chuyển cảm ứng,bề mặt hộp tai nghe dễ bị trầy xước,đôi lúc tai nghe không tự xạc pin,nam châm tai nghe dởm, hàng ổn nhưng chất lượng thì chắc chỉ cỡ 5/10🗿 ",
+    "reviewContent": "hàng giao nhanh,đúng với hình nhưng chất lượng tai nghe lỏ không được tốt như mong đợi,âm nghe được nhỏ dù bật hết âm thanh,khó kết nối,bị cấn dễ chuyển cảm ứng,bề mặt hộp tai nghe dễ bị trầy xước,đôi lúc tai nghe không tự xạc pin,nam châm tai nghe dởm, hàng ổn nhưng chất lượng thì chắc chỉ cỡ 5/10 ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "hàng giao nhanh,đúng với hình nhưng chất lượng tai nghe lỏ không được tốt như mong đợi,âm nghe được nhỏ dù bật hết âm thanh,khó kết nối,bị cấn dễ chuyển cảm ứng,bề mặt hộp tai nghe dễ bị trầy xước,đôi lúc tai nghe không tự xạc pin,nam châm tai nghe dởm, hàng ổn nhưng chất lượng thì chắc chỉ cỡ 5/10🗿",
+        "content": "hàng giao nhanh,đúng với hình nhưng chất lượng tai nghe lỏ không được tốt như mong đợi,âm nghe được nhỏ dù bật hết âm thanh,khó kết nối,bị cấn dễ chuyển cảm ứng,bề mặt hộp tai nghe dễ bị trầy xước,đôi lúc tai nghe không tự xạc pin,nam châm tai nghe dởm, hàng ổn nhưng chất lượng thì chắc chỉ cỡ 5/10",
         "selected": null
       }
     ],
@@ -7631,15 +7631,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  cũng khá là hao pin đấy\n 🎤Chất lượng âm thanh:  tốt. Chất lượng âm thanh tuyệt vời!, \nBluetoot: lúc tốt lúc không\n3,5 sao vì pin và kết nối Bluetooth là phần quan trọng nên trừ 1 điểm cho chất lượng ",
+    "reviewContent": "Thời lượng pin:  cũng khá là hao pin đấy\n Chất lượng âm thanh:  tốt. Chất lượng âm thanh tuyệt vời!, \nBluetoot: lúc tốt lúc không\n3,5 sao vì pin và kết nối Bluetooth là phần quan trọng nên trừ 1 điểm cho chất lượng ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "cũng khá là hao pin đấy",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt. Chất lượng âm thanh tuyệt vời!, \nBluetoot: lúc tốt lúc không\n3,5 sao vì pin và kết nối Bluetooth là phần quan trọng nên trừ 1 điểm cho chất lượng",
         "selected": null
       }
@@ -8619,11 +8619,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mùi đóng gói\nchất liệu nhựa\n😣🙄🙄cái nút nhựa đệm tai (cái tặng kèm 2 đôi ấy) chất liệu khá tệ và mềm không như mong đợi\n\nnghe ổn, mở mức loa lớn nhất thì  hơi....ờm ờm... cách một khoảng vẫn nghe được\n\ntai nghe to nên tôi hơi khó đeo🤡\nthời lượng thì chưa test, qua nhận được hàng\nshop đóng gói nhanh...\n\nKết nối Bluetooth mượt mà., Dễ sử dụng với điều khiển cảm ứng.,  ",
+    "reviewContent": "mùi đóng gói\nchất liệu nhựa\ncái nút nhựa đệm tai (cái tặng kèm 2 đôi ấy) chất liệu khá tệ và mềm không như mong đợi\n\nnghe ổn, mở mức loa lớn nhất thì  hơi....ờm ờm... cách một khoảng vẫn nghe được\n\ntai nghe to nên tôi hơi khó đeo\nthời lượng thì chưa test, qua nhận được hàng\nshop đóng gói nhanh...\n\nKết nối Bluetooth mượt mà., Dễ sử dụng với điều khiển cảm ứng.,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mùi đóng gói\nchất liệu nhựa\n😣🙄🙄cái nút nhựa đệm tai (cái tặng kèm 2 đôi ấy) chất liệu khá tệ và mềm không như mong đợi\n\nnghe ổn, mở mức loa lớn nhất thì  hơi....ờm ờm... cách một khoảng vẫn nghe được\n\ntai nghe to nên tôi hơi khó đeo🤡\nthời lượng thì chưa test, qua nhận được hàng\nshop đóng gói nhanh...\n\nKết nối Bluetooth mượt mà., Dễ sử dụng với điều khiển cảm ứng.,",
+        "content": "mùi đóng gói\nchất liệu nhựa\ncái nút nhựa đệm tai (cái tặng kèm 2 đôi ấy) chất liệu khá tệ và mềm không như mong đợi\n\nnghe ổn, mở mức loa lớn nhất thì  hơi....ờm ờm... cách một khoảng vẫn nghe được\n\ntai nghe to nên tôi hơi khó đeo\nthời lượng thì chưa test, qua nhận được hàng\nshop đóng gói nhanh...\n\nKết nối Bluetooth mượt mà., Dễ sử dụng với điều khiển cảm ứng.,",
         "selected": null
       }
     ],
@@ -11275,20 +11275,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:lâu dài\n 😌Thoải mái:đeo ko đau tai\n 🎤Chất lượng âm thanh:tạm được, âm thanh hơn trung bình. thua tai nghe x55\n Kết nối Bluetooth dễ dàng và nhanh lẹ \nThoải mái khi đeo trong thời gian dài.,\n ",
+    "reviewContent": "Thời lượng pin:lâu dài\n Thoải mái:đeo ko đau tai\n Chất lượng âm thanh:tạm được, âm thanh hơn trung bình. thua tai nghe x55\n Kết nối Bluetooth dễ dàng và nhanh lẹ \nThoải mái khi đeo trong thời gian dài.,\n ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "lâu dài",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "đeo ko đau tai",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tạm được, âm thanh hơn trung bình. thua tai nghe x55",
         "selected": null
       },
@@ -11399,20 +11399,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Battery Life:Good\n 😌Comfort:Good\n 🎤Sound Quality:Good\n \nPrice: Good ",
+    "reviewContent": "Battery Life:Good\n Comfort:Good\n Sound Quality:Good\n \nPrice: Good ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "Good",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Good",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Good",
         "selected": null
       },
@@ -12275,10 +12275,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:được  ",
+    "reviewContent": "Chất lượng âm thanh:được  ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "được",
         "selected": null
       }
@@ -12493,10 +12493,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:mau hết pin ",
+    "reviewContent": "Thời lượng pin:mau hết pin ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "mau hết pin",
         "selected": null
       }
@@ -12856,20 +12856,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:10/10\n 🔋Thời lượng pin:8/10\n 🎤Chất lượng âm thanh:10/10 ",
+    "reviewContent": "Thoải mái:10/10\n Thời lượng pin:8/10\n Chất lượng âm thanh:10/10 ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "10/10",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "8/10",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "10/10",
         "selected": null
       }
@@ -13996,10 +13996,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  okTuổi thọ pin lâu dài., Tính năng khử tiếng ồn hoạt động rất tốt.,  ",
+    "reviewContent": "Thời lượng pin:  okTuổi thọ pin lâu dài., Tính năng khử tiếng ồn hoạt động rất tốt.,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "okTuổi thọ pin lâu dài., Tính năng khử tiếng ồn hoạt động rất tốt.,",
         "selected": null
       }
@@ -16053,11 +16053,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kiểu dáng:Sang xịn mịn 😍😍😍\n Thời lượng pin:ok sử dụng lâu \n Chất lượng âm thanh:ổn áp lắm \nk nghĩ tai nghe xịn vậy mà giá bằng bát phở đâu nha bà con nghe đã cái tai lắm , shop giao hàng nhanh  ",
+    "reviewContent": "Kiểu dáng:Sang xịn mịn \n Thời lượng pin:ok sử dụng lâu \n Chất lượng âm thanh:ổn áp lắm \nk nghĩ tai nghe xịn vậy mà giá bằng bát phở đâu nha bà con nghe đã cái tai lắm , shop giao hàng nhanh  ",
     "reviewContentList": [
       {
         "attribute": "Design",
-        "content": "Sang xịn mịn 😍😍😍",
+        "content": "Sang xịn mịn ",
         "selected": null
       },
       {
@@ -17122,7 +17122,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Dễ sử dụng với điều khiển cảm ứng., Thoải mái khi đeo trong thời gian dài., \n 🔋Thời lượng pin:ổn \n 😌Thoải mái:tot\n 🎤Chất lượng âm thanh:tốt \n ",
+    "reviewContent": "Dễ sử dụng với điều khiển cảm ứng., Thoải mái khi đeo trong thời gian dài., \n Thời lượng pin:ổn \n Thoải mái:tot\n Chất lượng âm thanh:tốt \n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -17130,17 +17130,17 @@
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tot",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt",
         "selected": null
       }
@@ -17904,10 +17904,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin: trâu Dễ sử dụng với điều khiển cảm ứng.,  cảm ơn shop và a shipper nhiệt tình  ",
+    "reviewContent": "Thời lượng pin: trâu Dễ sử dụng với điều khiển cảm ứng.,  cảm ơn shop và a shipper nhiệt tình  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "trâu Dễ sử dụng với điều khiển cảm ứng.,  cảm ơn shop và a shipper nhiệt tình",
         "selected": null
       }

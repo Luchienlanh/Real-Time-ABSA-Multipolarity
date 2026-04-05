@@ -276,15 +276,15 @@ def train_model_multipolarity(
     if device is None:
         device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    print(f"🚀 PhoBERT Multi-Polarity ABSA Training")
-    print(f"📱 Device: {device}")
+    print(f" PhoBERT Multi-Polarity ABSA Training")
+    print(f" Device: {device}")
     
     # Load tokenizer
-    print("📥 Loading PhoBERT tokenizer...")
+    print(" Loading PhoBERT tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
     
     # Load data
-    print(f"📊 Loading data from {data_path}...")
+    print(f" Loading data from {data_path}...")
     texts, labels_m, labels_s = load_data_multipolarity(data_path)
     print(f"   Total samples: {len(texts)}")
     print(f"   Labels shape - Mention: {labels_m.shape}, Sentiment: {labels_s.shape}")
@@ -307,7 +307,7 @@ def train_model_multipolarity(
     val_loader = DataLoader(val_dataset, batch_size=batch_size)
     
     # Create model
-    print("🧠 Creating PhoBERT Multi-Polarity ABSA model...")
+    print(" Creating PhoBERT Multi-Polarity ABSA model...")
     model = PhoBERTForABSAMultiPolarity(num_aspects=len(ASPECTS))
     model = model.to(device)
     
@@ -330,7 +330,7 @@ def train_model_multipolarity(
     patience_counter = 0
     
     for epoch in range(epochs):
-        print(f"\n📈 Epoch {epoch + 1}/{epochs}")
+        print(f"\n Epoch {epoch + 1}/{epochs}")
         
         # === TRAINING ===
         model.train()
@@ -446,7 +446,7 @@ def train_model_multipolarity(
         if combined_f1 > best_val_f1:
             best_val_f1 = combined_f1
             patience_counter = 0
-            print(f"   ✅ New best model! Saving...")
+            print(f"    New best model! Saving...")
             
             os.makedirs(output_dir, exist_ok=True)
             
@@ -475,15 +475,15 @@ def train_model_multipolarity(
                 json.dump(config, f, ensure_ascii=False, indent=2)
         else:
             patience_counter += 1
-            print(f"   ⏳ No improvement. Patience: {patience_counter}/{patience}")
+            print(f"    No improvement. Patience: {patience_counter}/{patience}")
             
             # Early stopping
             if patience_counter >= patience:
-                print(f"   🛑 Early stopping triggered!")
+                print(f"    Early stopping triggered!")
                 break
     
-    print(f"\n🎉 Training complete! Best F1: {best_val_f1:.4f}")
-    print(f"📁 Model saved to: {output_dir}")
+    print(f"\n Training complete! Best F1: {best_val_f1:.4f}")
+    print(f" Model saved to: {output_dir}")
     
     return output_dir
 
@@ -518,15 +518,15 @@ def train_model_kfold(
     if device is None:
         device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    print(f"🚀 PhoBERT Multi-Polarity ABSA Training with {n_folds}-Fold CV")
-    print(f"📱 Device: {device}")
+    print(f" PhoBERT Multi-Polarity ABSA Training with {n_folds}-Fold CV")
+    print(f" Device: {device}")
     
     # Load tokenizer
-    print("📥 Loading PhoBERT tokenizer...")
+    print(" Loading PhoBERT tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
     
     # Load data
-    print(f"📊 Loading data from {data_path}...")
+    print(f" Loading data from {data_path}...")
     texts, labels_m, labels_s = load_data_multipolarity(data_path)
     texts = np.array(texts)  # Convert to numpy for indexing
     
@@ -551,7 +551,7 @@ def train_model_kfold(
     print(f"{'='*60}")
     
     for fold, (train_idx, val_idx) in enumerate(kfold.split(texts)):
-        print(f"\n📂 FOLD {fold + 1}/{n_folds}")
+        print(f"\n FOLD {fold + 1}/{n_folds}")
         print(f"   Train samples: {len(train_idx)}, Val samples: {len(val_idx)}")
         
         # Split data for this fold
@@ -687,7 +687,7 @@ def train_model_kfold(
             best_overall_f1 = combined_f1
             best_fold = fold + 1
             best_model_state = model.state_dict().copy()
-            print(f"   ✅ New best model! (Fold {fold+1})")
+            print(f"    New best model! (Fold {fold+1})")
         
         # Clean up
         del model
@@ -743,8 +743,8 @@ def train_model_kfold(
     with open(os.path.join(output_dir, 'config.json'), 'w', encoding='utf-8') as f:
         json.dump(config, f, ensure_ascii=False, indent=2)
     
-    print(f"\n🎉 K-Fold Training complete!")
-    print(f"📁 Best model (Fold {best_fold}) saved to: {output_dir}")
+    print(f"\n K-Fold Training complete!")
+    print(f" Best model (Fold {best_fold}) saved to: {output_dir}")
     
     return {
         'output_dir': output_dir,
@@ -847,7 +847,7 @@ if __name__ == "__main__":
     
     # Check if folder exists
     if not os.path.exists(DATA_PATH):
-        print(f"⚠️ Labeled data folder not found at {DATA_PATH}")
+        print(f"️ Labeled data folder not found at {DATA_PATH}")
         print(f"Please run auto_label_absa.py first!")
         sys.exit(1)
 
@@ -856,7 +856,7 @@ if __name__ == "__main__":
     N_FOLDS = 5
     
     if USE_KFOLD:
-        print(f"\n📊 Using {N_FOLDS}-Fold Cross-Validation")
+        print(f"\n Using {N_FOLDS}-Fold Cross-Validation")
         train_model_kfold(
             data_path=DATA_PATH,
             output_dir=OUTPUT_DIR,
@@ -866,7 +866,7 @@ if __name__ == "__main__":
             learning_rate=3e-5
         )
     else:
-        print("\n📊 Using Standard Train/Test Split (80/20)")
+        print("\n Using Standard Train/Test Split (80/20)")
         train_model_multipolarity(
             data_path=DATA_PATH,
             output_dir=OUTPUT_DIR,
@@ -876,7 +876,7 @@ if __name__ == "__main__":
         )
     
     # Test prediction
-    print("\n🔍 Testing prediction...")
+    print("\n Testing prediction...")
     test_texts = [
         "Áo đẹp nhưng vải hơi mỏng. Giao hàng nhanh!",
         "Sản phẩm tốt, giá hợp lý."

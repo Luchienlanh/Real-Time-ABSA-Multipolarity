@@ -5511,10 +5511,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:ok tốt  ",
+    "reviewContent": "Giá cả:ok tốt  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok tốt",
         "selected": null
       }
@@ -8737,7 +8737,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:  Ngon và thơm,  Giá Cả:  ok Mùi vị: tạm 🍖Hương vị:  Chuẩn bị nhanh chóng và dễ dàng,  💲Giá cả:  ok Hương vị Thái Lan chính gốc, Hoàn hảo cho các bữa ăn nhanh, Thành phần chất lượng cao, Chuẩn bị nhanh chóng và dễ dàng,  ",
+    "reviewContent": "Chất lượng:  Ngon và thơm,  Giá Cả:  ok Mùi vị: tạm Hương vị:  Chuẩn bị nhanh chóng và dễ dàng,  Giá cả:  ok Hương vị Thái Lan chính gốc, Hoàn hảo cho các bữa ăn nhanh, Thành phần chất lượng cao, Chuẩn bị nhanh chóng và dễ dàng,  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -8755,12 +8755,12 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Chuẩn bị nhanh chóng và dễ dàng,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },

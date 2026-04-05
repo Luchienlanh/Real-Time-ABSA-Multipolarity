@@ -883,11 +883,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao hàng đầy đủ,đóng gói đẹp chắc chắn nhưng giao trễ hẹn trừ 1⭐",
+    "reviewContent": "giao hàng đầy đủ,đóng gói đẹp chắc chắn nhưng giao trễ hẹn trừ 1",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giao hàng đầy đủ,đóng gói đẹp chắc chắn nhưng giao trễ hẹn trừ 1⭐",
+        "content": "giao hàng đầy đủ,đóng gói đẹp chắc chắn nhưng giao trễ hẹn trừ 1",
         "selected": null
       }
     ],
@@ -3098,15 +3098,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ngon, tơi, xốp\n 💲Giá cả:mua lúc khuyến mãi nên rẻ nha ",
+    "reviewContent": "Hương vị:ngon, tơi, xốp\n Giá cả:mua lúc khuyến mãi nên rẻ nha ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon, tơi, xốp",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "mua lúc khuyến mãi nên rẻ nha",
         "selected": null
       }
@@ -3662,15 +3662,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  Bữa ăn tiện lợi và sẵn sàng ăn!, \n 💲Giá cả:  Tuyệt vời cho những người có hạn chế về chế độ ăn uống!,  ",
+    "reviewContent": "Hương vị:  Bữa ăn tiện lợi và sẵn sàng ăn!, \n Giá cả:  Tuyệt vời cho những người có hạn chế về chế độ ăn uống!,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Bữa ăn tiện lợi và sẵn sàng ăn!,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Tuyệt vời cho những người có hạn chế về chế độ ăn uống!,",
         "selected": null
       }
@@ -4773,11 +4773,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mua cơm chiên + cơm hầm nhưng cơm chiên thì đúng & đủ số lượng còn cơm hầm thì ko 😅\nđặt hàng từ trưa là chiều nhận đc vì cơm chiên đc cấp đông nên giao hoả tốc. ",
+    "reviewContent": "mua cơm chiên + cơm hầm nhưng cơm chiên thì đúng & đủ số lượng còn cơm hầm thì ko \nđặt hàng từ trưa là chiều nhận đc vì cơm chiên đc cấp đông nên giao hoả tốc. ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mua cơm chiên + cơm hầm nhưng cơm chiên thì đúng & đủ số lượng còn cơm hầm thì ko 😅\nđặt hàng từ trưa là chiều nhận đc vì cơm chiên đc cấp đông nên giao hoả tốc. ",
+        "content": "mua cơm chiên + cơm hầm nhưng cơm chiên thì đúng & đủ số lượng còn cơm hầm thì ko \nđặt hàng từ trưa là chiều nhận đc vì cơm chiên đc cấp đông nên giao hoả tốc. ",
         "selected": null
       }
     ],

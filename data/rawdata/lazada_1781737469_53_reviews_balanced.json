@@ -7,10 +7,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị: tệ k ngờ nó lại tệ kinh khủng như vậy.vừa chát vừa đắng khó ăn kinh khủng giờ k biết nên xử lí sao với mớ này . ",
+    "reviewContent": "Hương vị: tệ k ngờ nó lại tệ kinh khủng như vậy.vừa chát vừa đắng khó ăn kinh khủng giờ k biết nên xử lí sao với mớ này . ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "tệ k ngờ nó lại tệ kinh khủng như vậy.vừa chát vừa đắng khó ăn kinh khủng giờ k biết nên xử lí sao với mớ này .",
         "selected": null
       }
@@ -2331,15 +2331,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:shop gói trong hộp giấy nhưng không có bọc chống sốc, 2 hũ 500g óc chó hơi vụn\n 🍖Hương vị:không gắt dầu, ngon ",
+    "reviewContent": "Bao bì:shop gói trong hộp giấy nhưng không có bọc chống sốc, 2 hũ 500g óc chó hơi vụn\n Hương vị:không gắt dầu, ngon ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "shop gói trong hộp giấy nhưng không có bọc chống sốc, 2 hũ 500g óc chó hơi vụn",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "không gắt dầu, ngon",
         "selected": null
       }
@@ -2781,7 +2781,7 @@
       }
     ],
     "buyerId": 200071938269,
-    "buyerName": "🌟👪🌟",
+    "buyerName": "",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,
@@ -4212,20 +4212,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:đắng, không béo, không ngon\n 💲Giá cả:giá rẻ nhưng mua rất phí tiền\n ✅Chất lượng:sẽ không mua lại sản phẩm này ",
+    "reviewContent": "Hương vị:đắng, không béo, không ngon\n Giá cả:giá rẻ nhưng mua rất phí tiền\n Chất lượng:sẽ không mua lại sản phẩm này ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "đắng, không béo, không ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá rẻ nhưng mua rất phí tiền",
         "selected": null
       },
       {
-        "attribute": "✅Quality",
+        "attribute": "Quality",
         "content": "sẽ không mua lại sản phẩm này",
         "selected": null
       }
@@ -4379,11 +4379,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:tốt 👍Thành phần lành mạnh và tự nhiên.Màu vàng hấp dẫn., , \n   Cảm ơn Vietin mart rất nhiều!  ",
+    "reviewContent": "Chất lượng:tốt Thành phần lành mạnh và tự nhiên.Màu vàng hấp dẫn., , \n   Cảm ơn Vietin mart rất nhiều!  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
-        "content": "tốt 👍Thành phần lành mạnh và tự nhiên.Màu vàng hấp dẫn., ,",
+        "content": "tốt Thành phần lành mạnh và tự nhiên.Màu vàng hấp dẫn., ,",
         "selected": null
       },
       {
@@ -5190,15 +5190,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:bình thường \n 🍖Hương vị:bình thường \n Chất lượng:bình thường\n Giá Cả:hợp lý theo ý tôi 🙂 ",
+    "reviewContent": "Bao bì:bình thường \n Hương vị:bình thường \n Chất lượng:bình thường\n Giá Cả:hợp lý theo ý tôi  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "bình thường",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "bình thường",
         "selected": null
       },
@@ -5209,7 +5209,7 @@
       },
       {
         "attribute": "Price",
-        "content": "hợp lý theo ý tôi 🙂",
+        "content": "hợp lý theo ý tôi ",
         "selected": null
       }
     ],

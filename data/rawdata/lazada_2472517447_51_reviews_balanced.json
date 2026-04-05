@@ -141,11 +141,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hàng giả, quét mã qr ko lên 🥲🥲🥲, làm ăn ko có đạo đức ",
+    "reviewContent": "Hàng giả, quét mã qr ko lên , làm ăn ko có đạo đức ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Hàng giả, quét mã qr ko lên 🥲🥲🥲, làm ăn ko có đạo đức",
+        "content": "Hàng giả, quét mã qr ko lên , làm ăn ko có đạo đức",
         "selected": null
       }
     ],
@@ -2643,7 +2643,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hiệu quả:Giúp dưỡng ẩm, làm da min màng, làm sáng da, giúp da trông tươi trẻ tràn đầy sức sống mới.\n Giá Cả:Đang giảm giá mạnh nên mua để sử dụng dần.\n 💲Giá cả:Săn được giá rẻ đến không ngờ.\n 🥘Thành phần:Retinol Cream là sản phẩm lành tính, sử dụng qua không có bị kích ứng và thấm vào da nhanh, cảm giác êm dịu, mát da. ",
+    "reviewContent": "Hiệu quả:Giúp dưỡng ẩm, làm da min màng, làm sáng da, giúp da trông tươi trẻ tràn đầy sức sống mới.\n Giá Cả:Đang giảm giá mạnh nên mua để sử dụng dần.\n Giá cả:Săn được giá rẻ đến không ngờ.\n Thành phần:Retinol Cream là sản phẩm lành tính, sử dụng qua không có bị kích ứng và thấm vào da nhanh, cảm giác êm dịu, mát da. ",
     "reviewContentList": [
       {
         "attribute": "Effectiveness",
@@ -2656,12 +2656,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Săn được giá rẻ đến không ngờ.",
         "selected": null
       },
       {
-        "attribute": "🥘Ingredients",
+        "attribute": "Ingredients",
         "content": "Retinol Cream là sản phẩm lành tính, sử dụng qua không có bị kích ứng và thấm vào da nhanh, cảm giác êm dịu, mát da.",
         "selected": null
       }
@@ -3528,7 +3528,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hiệu quả:Làm mờ nếp nhăn và sáng da.\n Giá Cả:Giá cả phải chăng.\n 🥘Thành phần:Làm da cảm thấy mềm mại và mờ nếp nhăn. ",
+    "reviewContent": "Hiệu quả:Làm mờ nếp nhăn và sáng da.\n Giá Cả:Giá cả phải chăng.\n Thành phần:Làm da cảm thấy mềm mại và mờ nếp nhăn. ",
     "reviewContentList": [
       {
         "attribute": "Effectiveness",
@@ -3541,7 +3541,7 @@
         "selected": null
       },
       {
-        "attribute": "🥘Ingredients",
+        "attribute": "Ingredients",
         "content": "Làm da cảm thấy mềm mại và mờ nếp nhăn.",
         "selected": null
       }
@@ -5048,7 +5048,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Cải thiện kết cấu da, Collagen tăng cường độ đàn hồi của da, \n 💲Giá cả:Rẻ hơn thị trường  ",
+    "reviewContent": "Cải thiện kết cấu da, Collagen tăng cường độ đàn hồi của da, \n Giá cả:Rẻ hơn thị trường  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5056,7 +5056,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Rẻ hơn thị trường",
         "selected": null
       }

@@ -3471,10 +3471,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:  hàng giao nhanh , chất luong tốt sẽ mua ủng hộ tiep  ",
+    "reviewContent": "Dễ sử dụng:  hàng giao nhanh , chất luong tốt sẽ mua ủng hộ tiep  ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "hàng giao nhanh , chất luong tốt sẽ mua ủng hộ tiep",
         "selected": null
       }
@@ -3739,15 +3739,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:okThêm kết cấu và độ dày, Giữ nếp mạnh cả ngày, \n 💪Độ giữ nếp:ok ",
+    "reviewContent": "Dễ sử dụng:okThêm kết cấu và độ dày, Giữ nếp mạnh cả ngày, \n Độ giữ nếp:ok ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "okThêm kết cấu và độ dày, Giữ nếp mạnh cả ngày,",
         "selected": null
       },
       {
-        "attribute": "💪Hold Strength",
+        "attribute": "Hold Strength",
         "content": "ok",
         "selected": null
       }
@@ -6266,11 +6266,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sáp vuốt tóc nam Gatsby Styling Wax Hard Free Mat Hard Power strikes Ultimate Shaggy 75g 👌👌",
+    "reviewContent": "Sáp vuốt tóc nam Gatsby Styling Wax Hard Free Mat Hard Power strikes Ultimate Shaggy 75g ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Sáp vuốt tóc nam Gatsby Styling Wax Hard Free Mat Hard Power strikes Ultimate Shaggy 75g 👌👌",
+        "content": "Sáp vuốt tóc nam Gatsby Styling Wax Hard Free Mat Hard Power strikes Ultimate Shaggy 75g ",
         "selected": null
       }
     ],
@@ -6309,7 +6309,7 @@
       }
     ],
     "buyerId": 200202369473,
-    "buyerName": "𝗡𝗴𝘂𝘆𝗲̂̃𝗻",
+    "buyerName": "̂̃",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,

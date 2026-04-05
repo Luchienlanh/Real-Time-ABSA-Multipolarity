@@ -412,15 +412,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  thơm  🥦Giá trị dinh dưỡng:  cao cho bé Phù hợp cho trẻ trên một tuổi, Dung tích 800g tiện lợi cho viec mang theo\nGiá cả quá rẻ ạ\nSẽ mua lại  ",
+    "reviewContent": "Hương vị:  thơm  Giá trị dinh dưỡng:  cao cho bé Phù hợp cho trẻ trên một tuổi, Dung tích 800g tiện lợi cho viec mang theo\nGiá cả quá rẻ ạ\nSẽ mua lại  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "cao cho bé",
         "selected": null
       },
@@ -1460,15 +1460,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🥦Giá trị dinh dưỡng:  cao 🍖Hương vị: dễ uống  Công thức sữa chất lượng cao, Tốt cho tiêu hoá của bé ",
+    "reviewContent": "Giá trị dinh dưỡng:  cao Hương vị: dễ uống  Công thức sữa chất lượng cao, Tốt cho tiêu hoá của bé ",
     "reviewContentList": [
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "dễ uống",
         "selected": null
       },
@@ -1615,20 +1615,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  Ngon 🥦Giá trị dinh dưỡng: Tốt 😋Tiêu hóa: Tốt Giao hàng nhanh, đóng gói kĩ càng, chất lượng phù hợp giá xiền, mấy đứa cháu đều dùng tốt ",
+    "reviewContent": "Hương vị:  Ngon Giá trị dinh dưỡng: Tốt Tiêu hóa: Tốt Giao hàng nhanh, đóng gói kĩ càng, chất lượng phù hợp giá xiền, mấy đứa cháu đều dùng tốt ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Ngon",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Tốt",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "Tốt",
         "selected": null
       },

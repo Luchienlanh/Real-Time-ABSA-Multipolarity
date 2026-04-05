@@ -1748,20 +1748,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ngon,tốt\n 🥦Giá trị dinh dưỡng:phù hợp cho pé bị suy dinh dưỡng \n 😋Tiêu hóa:tiêu hoá tốt cho trẻ nhỏ ",
+    "reviewContent": "Hương vị:ngon,tốt\n Giá trị dinh dưỡng:phù hợp cho pé bị suy dinh dưỡng \n Tiêu hóa:tiêu hoá tốt cho trẻ nhỏ ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon,tốt",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "phù hợp cho pé bị suy dinh dưỡng",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "tiêu hoá tốt cho trẻ nhỏ",
         "selected": null
       }
@@ -1926,20 +1926,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Ngọt ngào và bổ dưỡng, \n 🥦Giá trị dinh dưỡng:Hỗ trợ tiêu hóa khỏe mạnh, \n 😋Tiêu hóa:tốt ",
+    "reviewContent": "Hương vị:Ngọt ngào và bổ dưỡng, \n Giá trị dinh dưỡng:Hỗ trợ tiêu hóa khỏe mạnh, \n Tiêu hóa:tốt ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Ngọt ngào và bổ dưỡng,",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Hỗ trợ tiêu hóa khỏe mạnh,",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "tốt",
         "selected": null
       }
@@ -2081,20 +2081,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Cao\n 🥦Giá trị dinh dưỡng:Tốt\n 😋Tiêu hóa:Tốt cho bé Phù hợp cho trẻHỗ trợ tiêu hóa khỏe mạnh,  ",
+    "reviewContent": "Hương vị:Cao\n Giá trị dinh dưỡng:Tốt\n Tiêu hóa:Tốt cho bé Phù hợp cho trẻHỗ trợ tiêu hóa khỏe mạnh,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Cao",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Tốt",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "Tốt cho bé Phù hợp cho trẻHỗ trợ tiêu hóa khỏe mạnh,",
         "selected": null
       }
@@ -2236,15 +2236,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  vani 🥦Giá trị dinh dưỡng:  tốt Hôm nay nhận được bao bì mới, date xa đến 4/26. Hàng giao đầy đủ ",
+    "reviewContent": "Hương vị:  vani Giá trị dinh dưỡng:  tốt Hôm nay nhận được bao bì mới, date xa đến 4/26. Hàng giao đầy đủ ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "vani",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "tốt",
         "selected": null
       },
@@ -2391,7 +2391,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gồm 48 hộp trong một thùng, Phù hợp cho trẻ dưới 1 tuổi, Tiện lợi dùng liền, \n 🥦Giá trị dinh dưỡng:rất nhiều dinh dưỡng ",
+    "reviewContent": "Gồm 48 hộp trong một thùng, Phù hợp cho trẻ dưới 1 tuổi, Tiện lợi dùng liền, \n Giá trị dinh dưỡng:rất nhiều dinh dưỡng ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2399,7 +2399,7 @@
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "rất nhiều dinh dưỡng",
         "selected": null
       }
@@ -3725,20 +3725,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Ngon\n 🥦Giá trị dinh dưỡng:Cao\n 😋Tiêu hóa:Tốt cho bé  ",
+    "reviewContent": "Hương vị:Ngon\n Giá trị dinh dưỡng:Cao\n Tiêu hóa:Tốt cho bé  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Ngon",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Cao",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "Tốt cho bé",
         "selected": null
       }
@@ -3880,11 +3880,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao nhanh, đóng gói cẩn thận, mua được giá ok, sữa ngon con mình rất thích không có gì chê nên mua nha 😎😎😎😎 ",
+    "reviewContent": "giao nhanh, đóng gói cẩn thận, mua được giá ok, sữa ngon con mình rất thích không có gì chê nên mua nha  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giao nhanh, đóng gói cẩn thận, mua được giá ok, sữa ngon con mình rất thích không có gì chê nên mua nha 😎😎😎😎",
+        "content": "giao nhanh, đóng gói cẩn thận, mua được giá ok, sữa ngon con mình rất thích không có gì chê nên mua nha ",
         "selected": null
       }
     ],
@@ -4750,20 +4750,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:bé rất thích,hết sẽ ủng hộ shop tiếp\n 🥦Giá trị dinh dưỡng:ok\n 😋Tiêu hóa:ổn nha\n giá căn sale rất ổn ",
+    "reviewContent": "Hương vị:bé rất thích,hết sẽ ủng hộ shop tiếp\n Giá trị dinh dưỡng:ok\n Tiêu hóa:ổn nha\n giá căn sale rất ổn ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "bé rất thích,hết sẽ ủng hộ shop tiếp",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "ổn nha",
         "selected": null
       },
@@ -5335,20 +5335,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ngon thơm\n 🥦Giá trị dinh dưỡng:cao, thành phần dinh dưỡng tốt\n 😋Tiêu hóa:tốt ",
+    "reviewContent": "Hương vị:ngon thơm\n Giá trị dinh dưỡng:cao, thành phần dinh dưỡng tốt\n Tiêu hóa:tốt ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon thơm",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "cao, thành phần dinh dưỡng tốt",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "tốt",
         "selected": null
       }

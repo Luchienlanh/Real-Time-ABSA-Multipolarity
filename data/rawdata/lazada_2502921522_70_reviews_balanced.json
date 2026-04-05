@@ -1018,11 +1018,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "bảng màu mắt thì bị bể 🥺 ôi trời  ",
+    "reviewContent": "bảng màu mắt thì bị bể  ôi trời  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "bảng màu mắt thì bị bể 🥺 ôi trời",
+        "content": "bảng màu mắt thì bị bể  ôi trời",
         "selected": null
       }
     ],
@@ -4244,10 +4244,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:Đệm silicone cho sự thoải mái thêm.,  ",
+    "reviewContent": "Độ bền:Đệm silicone cho sự thoải mái thêm.,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Đệm silicone cho sự thoải mái thêm.,",
         "selected": null
       }
@@ -5442,15 +5442,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:nên mua\n 👌Dễ sử dụng:nên mua \n ",
+    "reviewContent": "Độ bền:nên mua\n Dễ sử dụng:nên mua \n ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "nên mua",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "nên mua",
         "selected": null
       }
@@ -8660,10 +8660,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:Có cả màu đen và hồng, Cho phép kiểm soát chính xác trong quá trình áp dụng, Kích thước nhỏ gọn, dễ mang theo, Hoàn hảo để đạt được vẻ ngoài lông mi cong,  ",
+    "reviewContent": "Độ bền:Có cả màu đen và hồng, Cho phép kiểm soát chính xác trong quá trình áp dụng, Kích thước nhỏ gọn, dễ mang theo, Hoàn hảo để đạt được vẻ ngoài lông mi cong,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Có cả màu đen và hồng, Cho phép kiểm soát chính xác trong quá trình áp dụng, Kích thước nhỏ gọn, dễ mang theo, Hoàn hảo để đạt được vẻ ngoài lông mi cong,",
         "selected": null
       }
@@ -9207,10 +9207,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:okGiá trị tuyệt vời cho giá cả,  ",
+    "reviewContent": "Dễ sử dụng:okGiá trị tuyệt vời cho giá cả,  ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "okGiá trị tuyệt vời cho giá cả,",
         "selected": null
       }

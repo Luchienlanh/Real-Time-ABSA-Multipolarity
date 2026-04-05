@@ -504,10 +504,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:chưa biết \n đặt Xxl giao xl \n 😌Thoải mái:chưa biết Eo có thể điều chỉnh với dây rút,  ",
+    "reviewContent": "️Độ bền:chưa biết \n đặt Xxl giao xl \n Thoải mái:chưa biết Eo có thể điều chỉnh với dây rút,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa biết",
         "selected": null
       },
@@ -517,7 +517,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "chưa biết Eo có thể điều chỉnh với dây rút,",
         "selected": null
       }
@@ -2856,15 +2856,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📏Vừa vặn:rất vừa với người mình.\n 🛡️Độ bền:cần thời gian, chất vải phom giáng và đường may thấy đẹp, shop trả hàng nhanh giá cả quá là hợp lý, có ý định mua quần thể thao sẽ tìm shop để đặt thêm. ",
+    "reviewContent": "Vừa vặn:rất vừa với người mình.\n ️Độ bền:cần thời gian, chất vải phom giáng và đường may thấy đẹp, shop trả hàng nhanh giá cả quá là hợp lý, có ý định mua quần thể thao sẽ tìm shop để đặt thêm. ",
     "reviewContentList": [
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "rất vừa với người mình.",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "cần thời gian, chất vải phom giáng và đường may thấy đẹp, shop trả hàng nhanh giá cả quá là hợp lý, có ý định mua quần thể thao sẽ tìm shop để đặt thêm.",
         "selected": null
       }
@@ -3464,7 +3464,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "cũng ổn so với giá\n 😌Thoải mái:vải co giãn\n 📏Vừa vặn:ok\n hơi mùi vải\n 🛡️Độ bền:mặc thử thời gian sẽ đánh giá tiếp ",
+    "reviewContent": "cũng ổn so với giá\n Thoải mái:vải co giãn\n Vừa vặn:ok\n hơi mùi vải\n ️Độ bền:mặc thử thời gian sẽ đánh giá tiếp ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3472,12 +3472,12 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "vải co giãn",
         "selected": null
       },
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "ok",
         "selected": null
       },
@@ -3487,7 +3487,7 @@
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "mặc thử thời gian sẽ đánh giá tiếp",
         "selected": null
       }
@@ -3652,10 +3652,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📏Vừa vặn:  shop đóng gói cẩn thận giao hàng nhanh, nhân viên giao hàng nhiệt tình thân thiện, quần mặc vừa, rất đẹp. Tặng shop 5 sa0Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,  ",
+    "reviewContent": "Vừa vặn:  shop đóng gói cẩn thận giao hàng nhanh, nhân viên giao hàng nhiệt tình thân thiện, quần mặc vừa, rất đẹp. Tặng shop 5 sa0Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,  ",
     "reviewContentList": [
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "shop đóng gói cẩn thận giao hàng nhanh, nhân viên giao hàng nhiệt tình thân thiện, quần mặc vừa, rất đẹp. Tặng shop 5 sa0Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,",
         "selected": null
       }
@@ -5161,20 +5161,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:thời gian trả lời \n 😌Thoải mái:good \n 📏Vừa vặn:chuẩn sizeVải thoáng khí và co giãn, Hoàn hảo cho các hoạt động thể thao,  ",
+    "reviewContent": "️Độ bền:thời gian trả lời \n Thoải mái:good \n Vừa vặn:chuẩn sizeVải thoáng khí và co giãn, Hoàn hảo cho các hoạt động thể thao,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "thời gian trả lời",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "good",
         "selected": null
       },
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "chuẩn sizeVải thoáng khí và co giãn, Hoàn hảo cho các hoạt động thể thao,",
         "selected": null
       }
@@ -5596,20 +5596,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:chắc chắc chắn\n 😌Thoải mái:rất thoải mái\n 📏Vừa vặn:size chính xác\n Thoải mái khi mặc, Vừa vặn hoàn hảo, Eo có thể điều chỉnh với dây rút, Tùy chọn màu sắc đa dạng, Vải thoáng khí và co giãn,\n ",
+    "reviewContent": "️Độ bền:chắc chắc chắn\n Thoải mái:rất thoải mái\n Vừa vặn:size chính xác\n Thoải mái khi mặc, Vừa vặn hoàn hảo, Eo có thể điều chỉnh với dây rút, Tùy chọn màu sắc đa dạng, Vải thoáng khí và co giãn,\n ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chắc chắc chắn",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "rất thoải mái",
         "selected": null
       },
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "size chính xác",
         "selected": null
       },
@@ -5768,11 +5768,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Túi khóa kéo bên tiện lợi, Vừa vặn hoàn hảo, không được ưng ý vì ko có chữ chạy bên cạnh như mẫu, và cảm tường ko phải chất gió như đợt trước mình đã mua😂😂😂 ",
+    "reviewContent": "Túi khóa kéo bên tiện lợi, Vừa vặn hoàn hảo, không được ưng ý vì ko có chữ chạy bên cạnh như mẫu, và cảm tường ko phải chất gió như đợt trước mình đã mua ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Túi khóa kéo bên tiện lợi, Vừa vặn hoàn hảo, không được ưng ý vì ko có chữ chạy bên cạnh như mẫu, và cảm tường ko phải chất gió như đợt trước mình đã mua😂😂😂",
+        "content": "Túi khóa kéo bên tiện lợi, Vừa vặn hoàn hảo, không được ưng ý vì ko có chữ chạy bên cạnh như mẫu, và cảm tường ko phải chất gió như đợt trước mình đã mua",
         "selected": null
       }
     ],
@@ -5902,7 +5902,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vừa vặn hoàn hảo, Chất liệu chất lượng cao, \n 😌Thoải mái:dễ chịu hài lòng ,cho shop 5 sao  ",
+    "reviewContent": "Vừa vặn hoàn hảo, Chất liệu chất lượng cao, \n Thoải mái:dễ chịu hài lòng ,cho shop 5 sao  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5910,7 +5910,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "dễ chịu hài lòng ,cho shop 5 sao",
         "selected": null
       }
@@ -6175,15 +6175,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📏Vừa vặn:ok nha shop\n 😌Thoải mái:Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,\n Thoải mái khi mặc,  ",
+    "reviewContent": "Vừa vặn:ok nha shop\n Thoải mái:Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,\n Thoải mái khi mặc,  ",
     "reviewContentList": [
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "ok nha shop",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Túi khóa kéo bên tiện lợi, Vải thoáng khí và co giãn,",
         "selected": null
       },

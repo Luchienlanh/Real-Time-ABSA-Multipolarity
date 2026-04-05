@@ -1382,11 +1382,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:gạo như gạo củ k có mùi thơm và cơm k.ngọt🫠 tôi ăn st25 nhiều r nhưng st25 này quá dỡ\nmà k có trách nhiệm vs sp mình báb luôn😡😡\n ",
+    "reviewContent": "Chất lượng:gạo như gạo củ k có mùi thơm và cơm k.ngọt tôi ăn st25 nhiều r nhưng st25 này quá dỡ\nmà k có trách nhiệm vs sp mình báb luôn\n ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
-        "content": "gạo như gạo củ k có mùi thơm và cơm k.ngọt🫠 tôi ăn st25 nhiều r nhưng st25 này quá dỡ\nmà k có trách nhiệm vs sp mình báb luôn😡😡",
+        "attribute": "Quality",
+        "content": "gạo như gạo củ k có mùi thơm và cơm k.ngọt tôi ăn st25 nhiều r nhưng st25 này quá dỡ\nmà k có trách nhiệm vs sp mình báb luôn",
         "selected": null
       }
     ],
@@ -2660,7 +2660,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Cân thiếu không đủ trọng lượng. Gian thương.\nGạo thua hàng dạt . Đúng là lũ này làm ăn ko có tâm . Gạo có mùi hôi. Bán kiểu này nhanh giàu nhưng ko có đức. Lazada cần khoá mấy người bán hàng thất đức như vậy ra khỏi sàn.\n 🔍Chất lượng:  Cực Tệ \n 👃Hương thơm:  HÔI\n 💲Giá cả:  Đắt ",
+    "reviewContent": "Cân thiếu không đủ trọng lượng. Gian thương.\nGạo thua hàng dạt . Đúng là lũ này làm ăn ko có tâm . Gạo có mùi hôi. Bán kiểu này nhanh giàu nhưng ko có đức. Lazada cần khoá mấy người bán hàng thất đức như vậy ra khỏi sàn.\n Chất lượng:  Cực Tệ \n Hương thơm:  HÔI\n Giá cả:  Đắt ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2668,17 +2668,17 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Cực Tệ",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "HÔI",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Đắt",
         "selected": null
       }
@@ -3567,7 +3567,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Ko phải ST25 \n 🔍Chất lượng:  tệ\n 👃Hương thơm:  ko thơm ",
+    "reviewContent": "Ko phải ST25 \n Chất lượng:  tệ\n Hương thơm:  ko thơm ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3575,12 +3575,12 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tệ",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "ko thơm",
         "selected": null
       }
@@ -5173,7 +5173,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "gạo dở. k ngon.\n 💲Giá cả:chất lượng như này là mắc hơn ngoài nhiều\n 👃Hương thơm:k thơm. mùi giống gạo mới.\n ",
+    "reviewContent": "gạo dở. k ngon.\n Giá cả:chất lượng như này là mắc hơn ngoài nhiều\n Hương thơm:k thơm. mùi giống gạo mới.\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5181,12 +5181,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "chất lượng như này là mắc hơn ngoài nhiều",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "k thơm. mùi giống gạo mới.",
         "selected": null
       }
@@ -6975,15 +6975,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:ST25 nhưng không phải gạo ST25\n 💲Giá cả:rẻ  ",
+    "reviewContent": "Bao bì:ST25 nhưng không phải gạo ST25\n Giá cả:rẻ  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "ST25 nhưng không phải gạo ST25",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       }
@@ -7307,15 +7307,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:yGạo chất lượng cao, Giá trị tuyệt vời cho số tiền bỏ ra,\n 💲Giá cả:giá ổn, sale như nhà KHÔNG Phải GẠO ST25\n ",
+    "reviewContent": "Chất lượng:yGạo chất lượng cao, Giá trị tuyệt vời cho số tiền bỏ ra,\n Giá cả:giá ổn, sale như nhà KHÔNG Phải GẠO ST25\n ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "yGạo chất lượng cao, Giá trị tuyệt vời cho số tiền bỏ ra,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá ổn, sale như nhà KHÔNG Phải GẠO ST25",
         "selected": null
       }
@@ -9056,20 +9056,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:ko phải st25 nha, nhìn hạt gạo biết liền\n 💲Giá cả:rẻ thiệt\n 👃Hương thơm:chưa nấu chưa biết ",
+    "reviewContent": "Chất lượng:ko phải st25 nha, nhìn hạt gạo biết liền\n Giá cả:rẻ thiệt\n Hương thơm:chưa nấu chưa biết ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ko phải st25 nha, nhìn hạt gạo biết liền",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ thiệt",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "chưa nấu chưa biết",
         "selected": null
       }
@@ -9490,10 +9490,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:k ngon,k biết có phải st25 thật k gạo quá nát,st25 mua chỗ khác 10 hột như 10.còn ở đây gạo nấu lên khô k ngon ",
+    "reviewContent": "Chất lượng:k ngon,k biết có phải st25 thật k gạo quá nát,st25 mua chỗ khác 10 hột như 10.còn ở đây gạo nấu lên khô k ngon ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "k ngon,k biết có phải st25 thật k gạo quá nát,st25 mua chỗ khác 10 hột như 10.còn ở đây gạo nấu lên khô k ngon",
         "selected": null
       }
@@ -9624,7 +9624,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gạo ST25 thật hạt thon dài và trong, thơm nhẹ. Gạo của shop trộn tùm lum, nhiều hạt gãy, bạc bụng, ăn bình thường. Gạo của shop mà nói ngon nhất thế giới người ta cười cho! Để bên cạnh bao gạo ST25 mua ở shop TL Rice nhìn mới thấy nó khác xa nhau! Từ hạt gạo cho tới bao bì.\n 💲Giá cả:so với chất lượng không hề rẻ!\n ",
+    "reviewContent": "Gạo ST25 thật hạt thon dài và trong, thơm nhẹ. Gạo của shop trộn tùm lum, nhiều hạt gãy, bạc bụng, ăn bình thường. Gạo của shop mà nói ngon nhất thế giới người ta cười cho! Để bên cạnh bao gạo ST25 mua ở shop TL Rice nhìn mới thấy nó khác xa nhau! Từ hạt gạo cho tới bao bì.\n Giá cả:so với chất lượng không hề rẻ!\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -9632,7 +9632,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "so với chất lượng không hề rẻ!",
         "selected": null
       }
@@ -9763,7 +9763,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "ăn cũng tạm, nhưng không giống loại st25 của quân đội hồi trước từng ăn\n 👃Hương thơm:ok ",
+    "reviewContent": "ăn cũng tạm, nhưng không giống loại st25 của quân đội hồi trước từng ăn\n Hương thơm:ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -9771,7 +9771,7 @@
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "ok",
         "selected": null
       }
@@ -10082,15 +10082,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Giá trị tuyệt vời cho số tiền bỏ ra, \n 🔍Chất lượng:Chất lượng hạt đồng đều,  ",
+    "reviewContent": "Giá cả:Giá trị tuyệt vời cho số tiền bỏ ra, \n Chất lượng:Chất lượng hạt đồng đều,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Giá trị tuyệt vời cho số tiền bỏ ra,",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Chất lượng hạt đồng đều,",
         "selected": null
       }
@@ -10657,20 +10657,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:ok\n 🔍Chất lượng:chưa dùng\n 👃Hương thơm:chưa dùng ",
+    "reviewContent": "Giá cả:ok\n Chất lượng:chưa dùng\n Hương thơm:chưa dùng ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "chưa dùng",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "chưa dùng",
         "selected": null
       }
@@ -11433,11 +11433,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đóng gói sơ xài, gạo ko thơm, nấu lên ko dẻo lắm, chỉ tạm đc thôi ⭐⭐⭐ ",
+    "reviewContent": "đóng gói sơ xài, gạo ko thơm, nấu lên ko dẻo lắm, chỉ tạm đc thôi  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "đóng gói sơ xài, gạo ko thơm, nấu lên ko dẻo lắm, chỉ tạm đc thôi ⭐⭐⭐",
+        "content": "đóng gói sơ xài, gạo ko thơm, nấu lên ko dẻo lắm, chỉ tạm đc thôi ",
         "selected": null
       }
     ],
@@ -11651,10 +11651,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:  gạo đụt giống lúa bị sập  ",
+    "reviewContent": "Chất lượng:  gạo đụt giống lúa bị sập  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "gạo đụt giống lúa bị sập",
         "selected": null
       }
@@ -12196,20 +12196,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:gạo lên giá nên mắc\n 🔍Chất lượng:không phải gạo st 25 nhưng tạm ổn\n 👃Hương thơm:không mùi ",
+    "reviewContent": "Giá cả:gạo lên giá nên mắc\n Chất lượng:không phải gạo st 25 nhưng tạm ổn\n Hương thơm:không mùi ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "gạo lên giá nên mắc",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "không phải gạo st 25 nhưng tạm ổn",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "không mùi",
         "selected": null
       }
@@ -12351,20 +12351,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:gạo lên giá ngày trước mua có 84k/5kg thôi\n 🔍Chất lượng:tạm ổn\n 👃Hương thơm:không hương\n\ngạo này không phải ST25 nhưng ăn tạm được ",
+    "reviewContent": "Giá cả:gạo lên giá ngày trước mua có 84k/5kg thôi\n Chất lượng:tạm ổn\n Hương thơm:không hương\n\ngạo này không phải ST25 nhưng ăn tạm được ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "gạo lên giá ngày trước mua có 84k/5kg thôi",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tạm ổn",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "không hương\n\ngạo này không phải ST25 nhưng ăn tạm được",
         "selected": null
       }
@@ -13086,20 +13086,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:ổn\n 🔍Chất lượng:ổn\n 👃Hương thơm:ổn\n\nGạo ăn cũng tạm ổn không ngon không dở. Vậy là tạm được rồi.  ",
+    "reviewContent": "Giá cả:ổn\n Chất lượng:ổn\n Hương thơm:ổn\n\nGạo ăn cũng tạm ổn không ngon không dở. Vậy là tạm được rồi.  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "ổn\n\nGạo ăn cũng tạm ổn không ngon không dở. Vậy là tạm được rồi.",
         "selected": null
       }
@@ -14682,20 +14682,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:đẹp , gọn gàng \n 🍖Hương vị:có mùi thơm nhẹ , chưa nấu nên chưa biết nhưng hạt gạo trắng, trong , đẹp hạt \n 💲Giá cả:hợp lý , có giảm giá  ",
+    "reviewContent": "Bao bì:đẹp , gọn gàng \n Hương vị:có mùi thơm nhẹ , chưa nấu nên chưa biết nhưng hạt gạo trắng, trong , đẹp hạt \n Giá cả:hợp lý , có giảm giá  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đẹp , gọn gàng",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "có mùi thơm nhẹ , chưa nấu nên chưa biết nhưng hạt gạo trắng, trong , đẹp hạt",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý , có giảm giá",
         "selected": null
       }
@@ -15630,7 +15630,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao hàng nhanh, chât\n 🔍Chất lượng:gạo ngon, sẽ mua ủng hộ shop  ",
+    "reviewContent": "giao hàng nhanh, chât\n Chất lượng:gạo ngon, sẽ mua ủng hộ shop  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -15638,7 +15638,7 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "gạo ngon, sẽ mua ủng hộ shop",
         "selected": null
       }

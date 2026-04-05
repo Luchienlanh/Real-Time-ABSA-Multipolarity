@@ -1109,7 +1109,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Khóa điều chỉnh tiện lợi, Cung cấp một môi trường ấm áp và ấm cúng, Thoải mái cho cả bé và bố mẹ, \n 😌Thoải mái:ok\n 🛡️An toàn:ok\n 🛡️Độ bền:ok ",
+    "reviewContent": "Khóa điều chỉnh tiện lợi, Cung cấp một môi trường ấm áp và ấm cúng, Thoải mái cho cả bé và bố mẹ, \n Thoải mái:ok\n ️An toàn:ok\n ️Độ bền:ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -1117,17 +1117,17 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Safety",
+        "attribute": "️Safety",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ok",
         "selected": null
       }
@@ -2743,10 +2743,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Khóa điều chỉnh tiện lợi, Phù hợp cho trẻ 18-24 tháng, Hoàn hảo cho các hoạt động ngoài trời, Thoải mái cho cả bé và bố mẹ,  ",
+    "reviewContent": "Thoải mái:Khóa điều chỉnh tiện lợi, Phù hợp cho trẻ 18-24 tháng, Hoàn hảo cho các hoạt động ngoài trời, Thoải mái cho cả bé và bố mẹ,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Khóa điều chỉnh tiện lợi, Phù hợp cho trẻ 18-24 tháng, Hoàn hảo cho các hoạt động ngoài trời, Thoải mái cho cả bé và bố mẹ,",
         "selected": null
       }
@@ -3168,10 +3168,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Vải thoáng khí cho sự thoải mái, Tiện lợi cho các bậc cha mẹ khi di chuyển,  ",
+    "reviewContent": "Thoải mái:Vải thoáng khí cho sự thoải mái, Tiện lợi cho các bậc cha mẹ khi di chuyển,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Vải thoáng khí cho sự thoải mái, Tiện lợi cho các bậc cha mẹ khi di chuyển,",
         "selected": null
       }
@@ -3302,15 +3302,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Rất thoải mái cho bé\n 🛡️An toàn:Đáng tin cậy ",
+    "reviewContent": "Thoải mái:Rất thoải mái cho bé\n ️An toàn:Đáng tin cậy ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Rất thoải mái cho bé",
         "selected": null
       },
       {
-        "attribute": "🛡️Safety",
+        "attribute": "️Safety",
         "content": "Đáng tin cậy",
         "selected": null
       }
@@ -3843,11 +3843,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "cũng là e bé mà nó lạ lắm :)))))) em bé này hơi lắm lông xíu nà 😂😂😂 ",
+    "reviewContent": "cũng là e bé mà nó lạ lắm :)))))) em bé này hơi lắm lông xíu nà  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "cũng là e bé mà nó lạ lắm :)))))) em bé này hơi lắm lông xíu nà 😂😂😂",
+        "content": "cũng là e bé mà nó lạ lắm :)))))) em bé này hơi lắm lông xíu nà ",
         "selected": null
       }
     ],
@@ -4394,21 +4394,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Durability:Seems good quality. \n 😌Comfort:Convenient adjustable buckles, Comfortable for both baby and parent, \n 🛡️Safety:Secure and padded for safety, Breathable fabric for comfort, \n\nReasonable price 💕💕💕\nRecommend.  ",
+    "reviewContent": "️Durability:Seems good quality. \n Comfort:Convenient adjustable buckles, Comfortable for both baby and parent, \n ️Safety:Secure and padded for safety, Breathable fabric for comfort, \n\nReasonable price \nRecommend.  ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "Seems good quality.",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Convenient adjustable buckles, Comfortable for both baby and parent,",
         "selected": null
       },
       {
-        "attribute": "🛡️Safety",
-        "content": "Secure and padded for safety, Breathable fabric for comfort, \n\nReasonable price 💕💕💕\nRecommend.",
+        "attribute": "️Safety",
+        "content": "Secure and padded for safety, Breathable fabric for comfort, \n\nReasonable price \nRecommend.",
         "selected": null
       }
     ],

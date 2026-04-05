@@ -59,19 +59,19 @@ MERGED_DATA = '/opt/airflow/project/data/label/merged_training_data.csv'
 
 # Check if new data exists
 if os.path.exists(NEW_DATA):
-    print('📊 New training data found!')
+    print(' New training data found!')
     # merge_datasets needs to be robust to CSV. 
     # But since we want to force use the new Mistral data, let's just use it directly for training
     # or ensure merge_datasets handles it.
     # For now, let's simplify: Just use the new data directly to ensure high quality input.
     import shutil
     shutil.copy(NEW_DATA, MERGED_DATA)
-    print(f'✅ Using new Mistral data directly: {MERGED_DATA}')
+    print(f' Using new Mistral data directly: {MERGED_DATA}')
 else:
     print('ℹ️ New Mistral data not found, checking generic new data')
     # Fallback to old logic or just warn
     shutil.copy(OLD_DATA, MERGED_DATA)
-    print(f'✅ Using original data: {OLD_DATA}')
+    print(f' Using original data: {OLD_DATA}')
 "
         ''',
     )
@@ -103,7 +103,7 @@ should_update, new_f1, old_f1 = train_and_compare(
 with open('/tmp/model_comparison_result.txt', 'w') as f:
     f.write(f'{should_update},{new_f1:.4f},{old_f1:.4f}')
 
-print(f'\\n📊 Final Result:')
+print(f'\\n Final Result:')
 print(f'   Should update: {should_update}')
 print(f'   New F1: {new_f1:.4f}')
 print(f'   Old F1: {old_f1:.4f}')
@@ -124,14 +124,14 @@ print(f'   Old F1: {old_f1:.4f}')
                 OLD_F1=$(echo $RESULT | cut -d',' -f3)
                 
                 if [ "$UPDATED" = "True" ]; then
-                    echo "🎉 SUCCESS: Model updated!"
+                    echo " SUCCESS: Model updated!"
                     echo "   New F1: $NEW_F1 (was: $OLD_F1)"
                 else
                     echo "ℹ️ Model NOT updated (new model not significantly better)"
                     echo "   New F1: $NEW_F1, Old F1: $OLD_F1"
                 fi
             else
-                echo "⚠️ Comparison result file not found"
+                echo "️ Comparison result file not found"
             fi
             echo "Training pipeline completed!"
         ''',
@@ -151,11 +151,11 @@ from absa_predictor import PhoBERTPredictor, SENTIMENT_MAP
 predictor = PhoBERTPredictor()
 if predictor.load_model():
     result = predictor.predict_single('Sản phẩm tốt, giao hàng nhanh')
-    print('✅ Inference test passed!')
+    print(' Inference test passed!')
     for asp, val in list(result.items())[:3]:
         print(f'  {asp}: {SENTIMENT_MAP.get(val, val)}')
 else:
-    print('❌ Model loading failed!')
+    print(' Model loading failed!')
     exit(1)
 "
         ''',

@@ -275,7 +275,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thương hiệu đáng tin cậy, Thiết kế dễ thương, New words\n\n1: accelerate: đẩy nhanh, tăng tốc\n\n2: deliberate: có cân nhắc, kĩ lưỡng\n\n3: expenditure: chi phí, sự tiêu dùng\n\n4: ironic: mỉa mai, châm biếm \n\n5: sluggish: lờ đờ, chậm chạp\n\n6: susceptible: dễ mắc phải, dễ bị tổn thương\n\n7:  prospect: viễn cảnh\n\n8: solitary: cô độc\n\n9: improverished: nghèo túng\n\n10: intervene in = interfere with: can thiệp vào\n 💧Khả năng thấm hút:  tốt ",
+    "reviewContent": "Thương hiệu đáng tin cậy, Thiết kế dễ thương, New words\n\n1: accelerate: đẩy nhanh, tăng tốc\n\n2: deliberate: có cân nhắc, kĩ lưỡng\n\n3: expenditure: chi phí, sự tiêu dùng\n\n4: ironic: mỉa mai, châm biếm \n\n5: sluggish: lờ đờ, chậm chạp\n\n6: susceptible: dễ mắc phải, dễ bị tổn thương\n\n7:  prospect: viễn cảnh\n\n8: solitary: cô độc\n\n9: improverished: nghèo túng\n\n10: intervene in = interfere with: can thiệp vào\n Khả năng thấm hút:  tốt ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -283,7 +283,7 @@
         "selected": null
       },
       {
-        "attribute": "💧Absorbency",
+        "attribute": "Absorbency",
         "content": "tốt",
         "selected": null
       }
@@ -693,10 +693,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:  is going on a trip with us to get her food for her dinner tonight so  ",
+    "reviewContent": "Thoải mái:  is going on a trip with us to get her food for her dinner tonight so  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "is going on a trip with us to get her food for her dinner tonight so",
         "selected": null
       }
@@ -1685,7 +1685,7 @@
       }
     ],
     "buyerId": 200784480083,
-    "buyerName": "Phương Anh 😋",
+    "buyerName": "Phương Anh ",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,
@@ -1776,7 +1776,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vừa vặn và thoải mái, Siêu thấm hút, \n 😌Thoải mái:  ok 💧Khả năng thấm hút:  tốt Nên mua cho bé sài nha ",
+    "reviewContent": "Vừa vặn và thoải mái, Siêu thấm hút, \n Thoải mái:  ok Khả năng thấm hút:  tốt Nên mua cho bé sài nha ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -1784,12 +1784,12 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "💧Absorbency",
+        "attribute": "Absorbency",
         "content": "tốt",
         "selected": null
       },
@@ -2909,15 +2909,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:vừa vặn với bé \n 💧Khả năng thấm hút:thấm hút tốt \n mình cho bé xài từ nhỏ đến lớn là Huggies thấy ok. \nHàng Lazada giao chậm thường xuyên nên đánh giá 4  × ",
+    "reviewContent": "Thoải mái:vừa vặn với bé \n Khả năng thấm hút:thấm hút tốt \n mình cho bé xài từ nhỏ đến lớn là Huggies thấy ok. \nHàng Lazada giao chậm thường xuyên nên đánh giá 4  × ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "vừa vặn với bé",
         "selected": null
       },
       {
-        "attribute": "💧Absorbency",
+        "attribute": "Absorbency",
         "content": "thấm hút tốt",
         "selected": null
       },
@@ -3210,20 +3210,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Bao bì tiện lợi, \n 📏Vừa vặn:Chất liệu siêu mềm, \n 💧Khả năng thấm hút:Giá trị tuyệt vời cho số tiền bỏ ra,  ",
+    "reviewContent": "Thoải mái:Bao bì tiện lợi, \n Vừa vặn:Chất liệu siêu mềm, \n Khả năng thấm hút:Giá trị tuyệt vời cho số tiền bỏ ra,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Bao bì tiện lợi,",
         "selected": null
       },
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "Chất liệu siêu mềm,",
         "selected": null
       },
       {
-        "attribute": "💧Absorbency",
+        "attribute": "Absorbency",
         "content": "Giá trị tuyệt vời cho số tiền bỏ ra,",
         "selected": null
       }
@@ -3622,20 +3622,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:Dễ sử dụng, \n 📏Vừa vặn:Siêu thấm hút, \n 💧Khả năng thấm hút:Thương hiệu đáng tin cậy,  ",
+    "reviewContent": "Thoải mái:Dễ sử dụng, \n Vừa vặn:Siêu thấm hút, \n Khả năng thấm hút:Thương hiệu đáng tin cậy,  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Dễ sử dụng,",
         "selected": null
       },
       {
-        "attribute": "📏Fit",
+        "attribute": "Fit",
         "content": "Siêu thấm hút,",
         "selected": null
       },
       {
-        "attribute": "💧Absorbency",
+        "attribute": "Absorbency",
         "content": "Thương hiệu đáng tin cậy,",
         "selected": null
       }

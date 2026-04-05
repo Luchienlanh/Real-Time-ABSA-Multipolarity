@@ -48,13 +48,13 @@ def trigger_producer(**context):
     
     # Option A: Use pre-crawled reviews if provided
     if reviews_data:
-        print(f"📦 Received {len(reviews_data)} pre-crawled reviews from Streamlit")
+        print(f" Received {len(reviews_data)} pre-crawled reviews from Streamlit")
         reviews = reviews_data
     
     # Option B: Crawl from URL if no reviews provided
     elif product_url and product_url != 'https://www.lazada.vn/products/...':
         from lazada_crawler import crawl_reviews
-        print(f"🔍 Crawling reviews from: {product_url}")
+        print(f" Crawling reviews from: {product_url}")
         
         reviews, error = crawl_reviews(
             product_url=product_url,
@@ -66,7 +66,7 @@ def trigger_producer(**context):
         )
         
         if error:
-            print(f"⚠️ Crawl warning: {error}")
+            print(f"️ Crawl warning: {error}")
     
     if not reviews:
         raise Exception("No reviews to process! Provide either 'reviews' data or a valid 'product_url'.")
@@ -99,17 +99,17 @@ def trigger_producer(**context):
         
         final_count = len(df)
         if final_count < initial_count:
-            print(f"⚠️ Removed {initial_count - final_count} duplicate reviews via Pandas.")
+            print(f"️ Removed {initial_count - final_count} duplicate reviews via Pandas.")
             
         # Save to CSV Buffer (User Request)
         buffer_file = os.path.join(PROJECT_DIR, 'data', 'crawled_reviews_buffer.csv')
         os.makedirs(os.path.dirname(buffer_file), exist_ok=True)
         df.to_csv(buffer_file, index=False, encoding='utf-8-sig')
-        print(f"💾 Saved unique reviews to buffer: {buffer_file}")
+        print(f" Saved unique reviews to buffer: {buffer_file}")
         
         reviews = df.to_dict('records')
 
-    print(f"📊 Processing {len(reviews)} unique reviews")
+    print(f" Processing {len(reviews)} unique reviews")
     
     # Clear old predictions
     os.makedirs(PREDICTIONS_DIR, exist_ok=True)
@@ -118,13 +118,13 @@ def trigger_producer(**context):
         try:
             os.remove(pred_file)
         except OSError as e:
-            print(f"⚠️ Could not remove old predictions (PermissionError): {e}")
+            print(f"️ Could not remove old predictions (PermissionError): {e}")
             try:
                 # Try to truncate if delete fails
                 with open(pred_file, 'w'): pass
-                print("✅ Truncated old prediction file instead.")
+                print(" Truncated old prediction file instead.")
             except:
-                print("❌ Could not truncate file either. Old data may persist.")
+                print(" Could not truncate file either. Old data may persist.")
     
     # Send to Kafka
     success = send_reviews_to_kafka(product_id, reviews)
@@ -136,7 +136,7 @@ def trigger_producer(**context):
     context['ti'].xcom_push(key='product_id', value=product_id)
     context['ti'].xcom_push(key='review_count', value=len(reviews))
     
-    print(f"✅ Sent {len(reviews)} reviews for product {product_id}")
+    print(f" Sent {len(reviews)} reviews for product {product_id}")
 
 
 def wait_for_consumer(**context):
@@ -156,7 +156,7 @@ def wait_for_consumer(**context):
     def print_results(data_chunk):
         # Print Detailed Predictions (Per Review)
         print("\n" + "="*50)
-        print(f"📝 DETAILED PREDICTIONS ({len(data_chunk)} reviews)")
+        print(f" DETAILED PREDICTIONS ({len(data_chunk)} reviews)")
         print("="*50)
         
         ASPECTS = [
@@ -192,7 +192,7 @@ def wait_for_consumer(**context):
         print("\n" + "="*50)
         
         # Print Prediction Summary
-        print(f"📊 PREDICTION RESULTS SUMMARY")
+        print(f" PREDICTION RESULTS SUMMARY")
         print("="*50)
         
         # Initialize counts for POS, NEU, NEG
@@ -221,11 +221,11 @@ def wait_for_consumer(**context):
                     data = json.load(f)
                 
                 if len(data) >= expected_count:
-                    print(f"✅ Consumer finished! Processed {len(data)} reviews.")
+                    print(f" Consumer finished! Processed {len(data)} reviews.")
                     print_results(data)
                     return True
                     
-                print(f"⏳ Processed {len(data)}/{expected_count}...")
+                print(f" Processed {len(data)}/{expected_count}...")
             except json.JSONDecodeError:
                 pass
         
@@ -234,7 +234,7 @@ def wait_for_consumer(**context):
         elapsed += poll_interval
     
     # Timeout occurred
-    print(f"⚠️ Timeout! Printing partial results ({len(data) if 'data' in locals() else 0}/{expected_count})...")
+    print(f"️ Timeout! Printing partial results ({len(data) if 'data' in locals() else 0}/{expected_count})...")
     if 'data' in locals() and data:
         print_results(data)
         
@@ -271,11 +271,11 @@ def aggregate_results(**context):
     try:
         with open(summary_file, 'w', encoding='utf-8') as f:
             json.dump(summary, f, ensure_ascii=False, indent=2)
-        print(f"✅ Aggregation complete! Summary saved to {summary_file}")
+        print(f" Aggregation complete! Summary saved to {summary_file}")
     except PermissionError:
-        print(f"⚠️ PermissionError: Could not save summary to {summary_file}. Printing to stdout instead.")
+        print(f"️ PermissionError: Could not save summary to {summary_file}. Printing to stdout instead.")
     except Exception as e:
-        print(f"⚠️ Error saving summary: {e}")
+        print(f"️ Error saving summary: {e}")
     
     print(json.dumps(summary, indent=2, ensure_ascii=False))
 

@@ -86,10 +86,10 @@ def create_session(cookies_path: Optional[str] = None) -> requests.Session:
                 cj = cookielib.MozillaCookieJar(cookies_path)
                 cj.load(ignore_discard=True, ignore_expires=True)
                 session.cookies.update(cj)
-                print(f"✅ Loaded cookies from {cookies_path} (Netscape)")
+                print(f" Loaded cookies from {cookies_path} (Netscape)")
                 cookies_loaded = True
             except Exception as e:
-                print(f"⚠️ Netscape format failed: {e}")
+                print(f"️ Netscape format failed: {e}")
         
         # Try JSON format
         if not cookies_loaded:
@@ -101,13 +101,13 @@ def create_session(cookies_path: Optional[str] = None) -> requests.Session:
                         cookies = json.load(f)
                     for c in cookies:
                         session.cookies.set(c['name'], c['value'], domain=c.get('domain', ''))
-                    print(f"✅ Loaded cookies from {json_path} (JSON)")
+                    print(f" Loaded cookies from {json_path} (JSON)")
                     cookies_loaded = True
                 except Exception as e:
-                    print(f"⚠️ JSON format failed: {e}")
+                    print(f"️ JSON format failed: {e}")
         
         if not cookies_loaded:
-            print("⚠️ Could not load cookies from any format")
+            print("️ Could not load cookies from any format")
     
     return session
 
@@ -139,7 +139,7 @@ def get_product_info(product_url: str, session: requests.Session) -> Dict:
                     'url': product_url
                 }
     except Exception as e:
-        print(f"⚠️ Error getting product info: {e}")
+        print(f"️ Error getting product info: {e}")
     
     # Fallback
     return {
@@ -181,7 +181,7 @@ def crawl_reviews(
     if not item_id:
         return [], "Không tìm thấy item_id trong URL!"
     
-    print(f"🚀 Bắt đầu crawl reviews cho item_id: {item_id}")
+    print(f" Bắt đầu crawl reviews cho item_id: {item_id}")
 
     
     session = create_session(cookies_path)
@@ -193,7 +193,7 @@ def crawl_reviews(
     # Update: Use filter="0" (All reviews) to ensure we get data
     # Previous logic splitting by stars (1,3,4,5) failed for some products
     rating_filter = 0
-    print(f"⭐ Crawling All reviews (filter={rating_filter})...")
+    print(f" Crawling All reviews (filter={rating_filter})...")
     
     page = 1
     
@@ -210,7 +210,7 @@ def crawl_reviews(
             response = session.get(api_url, params=params, timeout=30)
             
             if response.status_code != 200:
-                print(f"❌ HTTP {response.status_code}")
+                print(f" HTTP {response.status_code}")
                 break
             
             data = response.json()
@@ -236,21 +236,21 @@ def crawl_reviews(
                 if len(all_reviews) >= max_reviews:
                     break
             
-            print(f"  → Page {page}: lấy được {len(items)} reviews. Tổng: {len(all_reviews)}")
+            print(f"   Page {page}: lấy được {len(items)} reviews. Tổng: {len(all_reviews)}")
             page += 1
             time.sleep(random.uniform(delay_min, delay_max))
             
         except requests.exceptions.RequestException as e:
-            print(f"❌ Lỗi request: {e}")
+            print(f" Lỗi request: {e}")
             break
         except json.JSONDecodeError as e:
-            print(f"❌ Lỗi parse JSON: {e}")
+            print(f" Lỗi parse JSON: {e}")
             break
         except Exception as e:
-            print(f"❌ Lỗi không xác định: {e}")
+            print(f" Lỗi không xác định: {e}")
             break
             
-    print(f"✅ Đã crawl tổng cộng {len(all_reviews)} reviews.")
+    print(f" Đã crawl tổng cộng {len(all_reviews)} reviews.")
     
     if not all_reviews:
         return [], "Không lấy được review nào. Có thể cần cookies hợp lệ."
@@ -258,7 +258,7 @@ def crawl_reviews(
     # Shuffle to mix reviews from different ratings
     random.shuffle(all_reviews)
     
-    print(f"✅ HOÀN TẤT! Đã crawl {len(all_reviews)} reviews (đa dạng rating)")
+    print(f" HOÀN TẤT! Đã crawl {len(all_reviews)} reviews (đa dạng rating)")
     return all_reviews[:max_reviews], ""
 
 

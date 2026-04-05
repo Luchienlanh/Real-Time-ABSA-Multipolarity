@@ -139,7 +139,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Variation2:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Variation1:20000mAh",
+    "skuInfo": "Variation2:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Variation1:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -378,7 +378,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -648,7 +648,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -757,7 +757,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -1416,7 +1416,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -1527,7 +1527,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -1834,20 +1834,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:vừa đủ\n 🔋Dung lượng:cao\n 👜Tính di động:hơi to chút ",
+    "reviewContent": "Tốc độ sạc:vừa đủ\n Dung lượng:cao\n Tính di động:hơi to chút ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "vừa đủ",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "hơi to chút",
         "selected": null
       }
@@ -1919,7 +1919,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -2391,20 +2391,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:nhỏ gọn nặng tay\n ⚡Tốc độ sạc:sạc vào 43% đến 100% 54p\n 🔋Dung lượng:20000mah\n sạc ra kén sạc. con magic 5 pro sạc củ sạc k chính hãng đều lên sạc siêu nhanh max 50w, nhưng con này thì không , chỉ hiện sạc siêu nhanh ",
+    "reviewContent": "Tính di động:nhỏ gọn nặng tay\n Tốc độ sạc:sạc vào 43% đến 100% 54p\n Dung lượng:20000mah\n sạc ra kén sạc. con magic 5 pro sạc củ sạc k chính hãng đều lên sạc siêu nhanh max 50w, nhưng con này thì không , chỉ hiện sạc siêu nhanh ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "nhỏ gọn nặng tay",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "sạc vào 43% đến 100% 54p",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20000mah",
         "selected": null
       },
@@ -2504,7 +2504,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -2638,7 +2638,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:[Nâng cấp mới⭐Cáp thu gọn 65CM] Màn hình màu TFT công suất cao 165W hiển thị thông minh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:[Nâng cấp mớiCáp thu gọn 65CM] Màn hình màu TFT công suất cao 165W hiển thị thông minh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928306",
     "configSku": "3206746554_VNAMZ",
@@ -2697,20 +2697,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:kích thước vừa phải cho dung lượng 20.000 mah\n ⚡Tốc độ sạc:input 65w, output max 130w đa cổng\n 🔋Dung lượng:20.000 mah\n Pin săn sale giá quá rẻ cho 1 cục pin 20.000 mah có sạc nhanh max 130w. Sạc bằng dây cáp 240w movespeed bản dây silicon + cục sạc theo máy iqoo neo 10, movespeed 140w (màu vàng), movespeed 200w (màu xanh), anker zolo 140w, cuktech 10 ultra, cuktech 30 ultra, choetech 65w, bull 67w đều max input 60-65w. Output max c1 100w, c2 30w. Màng hình hơi tối, shop đóng gói hơi tệ (không có chống sốc), cần cải thiện khâu đóng gói hàng. Hàng không bảo hành các bác lưu ý khi mua nên test kỹ trong thời gian 15 ngày nếu có lỗi còn thời gian đổi trả theo chính sách Lazada\n ",
+    "reviewContent": "Tính di động:kích thước vừa phải cho dung lượng 20.000 mah\n Tốc độ sạc:input 65w, output max 130w đa cổng\n Dung lượng:20.000 mah\n Pin săn sale giá quá rẻ cho 1 cục pin 20.000 mah có sạc nhanh max 130w. Sạc bằng dây cáp 240w movespeed bản dây silicon + cục sạc theo máy iqoo neo 10, movespeed 140w (màu vàng), movespeed 200w (màu xanh), anker zolo 140w, cuktech 10 ultra, cuktech 30 ultra, choetech 65w, bull 67w đều max input 60-65w. Output max c1 100w, c2 30w. Màng hình hơi tối, shop đóng gói hơi tệ (không có chống sốc), cần cải thiện khâu đóng gói hàng. Hàng không bảo hành các bác lưu ý khi mua nên test kỹ trong thời gian 15 ngày nếu có lỗi còn thời gian đổi trả theo chính sách Lazada\n ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "kích thước vừa phải cho dung lượng 20.000 mah",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "input 65w, output max 130w đa cổng",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20.000 mah",
         "selected": null
       },
@@ -2857,20 +2857,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:hơi nặng \n ⚡Tốc độ sạc:rất nhanh\n 🔋Dung lượng:20000\n chưa sử dụng nhưng giá này quá rẻ mong là bền ",
+    "reviewContent": "Tính di động:hơi nặng \n Tốc độ sạc:rất nhanh\n Dung lượng:20000\n chưa sử dụng nhưng giá này quá rẻ mong là bền ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "hơi nặng",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "rất nhanh",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20000",
         "selected": null
       },
@@ -3017,20 +3017,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:  hơi to nhưng vẫn ổn ⚡Tốc độ sạc:  nhanh  🔋Dung lượng:  cao 20000 mah Săn sale được giá rẻ nên quá ok, ugreen lại có thương hiệu nên quá ok rồi.\n ",
+    "reviewContent": "Tính di động:  hơi to nhưng vẫn ổn Tốc độ sạc:  nhanh  Dung lượng:  cao 20000 mah Săn sale được giá rẻ nên quá ok, ugreen lại có thương hiệu nên quá ok rồi.\n ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "hơi to nhưng vẫn ổn",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "nhanh",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "cao 20000 mah",
         "selected": null
       },
@@ -3118,7 +3118,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -3177,11 +3177,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sạc nhanh 130W, An toàn và đáng tin cậy, Hub Orico về đáy anh em ơiii\n\nAi nhanh tay thì còn ạ, 8in1 hay 6in1 đang về đáy, mời anh em vào xúc con hub phù hợp nhu cầu ạ 👇 ",
+    "reviewContent": "Sạc nhanh 130W, An toàn và đáng tin cậy, Hub Orico về đáy anh em ơiii\n\nAi nhanh tay thì còn ạ, 8in1 hay 6in1 đang về đáy, mời anh em vào xúc con hub phù hợp nhu cầu ạ  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Sạc nhanh 130W, An toàn và đáng tin cậy, Hub Orico về đáy anh em ơiii\n\nAi nhanh tay thì còn ạ, 8in1 hay 6in1 đang về đáy, mời anh em vào xúc con hub phù hợp nhu cầu ạ 👇",
+        "content": "Sạc nhanh 130W, An toàn và đáng tin cậy, Hub Orico về đáy anh em ơiii\n\nAi nhanh tay thì còn ạ, 8in1 hay 6in1 đang về đáy, mời anh em vào xúc con hub phù hợp nhu cầu ạ ",
         "selected": null
       }
     ],
@@ -3355,7 +3355,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -3500,7 +3500,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -3559,20 +3559,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Portability:  gọn nhẹ, dễ mang đi ⚡Charging Speed:  tốc độ sạc cao. Tối đa 100w. Hiển thị tốc độ sạc 🔋Capacity:  High capacity 20000mAh Săn sale giá khoảng 500k quá yêu ",
+    "reviewContent": "Portability:  gọn nhẹ, dễ mang đi Charging Speed:  tốc độ sạc cao. Tối đa 100w. Hiển thị tốc độ sạc Capacity:  High capacity 20000mAh Săn sale giá khoảng 500k quá yêu ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "gọn nhẹ, dễ mang đi",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "tốc độ sạc cao. Tối đa 100w. Hiển thị tốc độ sạc",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "High capacity 20000mAh",
         "selected": null
       },
@@ -3851,7 +3851,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -3910,20 +3910,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:  20000mah ⚡Tốc độ sạc:  100w 👜Tính di động:  gọn nhẹ Cục sạc này thì còn gì để chê đâu ạ? Tiếc đợt sale không vợt nhiều huhu. \nAi thích thì cứ mua đi ạ. Chứ chần chừ lại tiếc ",
+    "reviewContent": "Dung lượng:  20000mah Tốc độ sạc:  100w Tính di động:  gọn nhẹ Cục sạc này thì còn gì để chê đâu ạ? Tiếc đợt sale không vợt nhiều huhu. \nAi thích thì cứ mua đi ạ. Chứ chần chừ lại tiếc ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20000mah",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "100w",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "gọn nhẹ",
         "selected": null
       },
@@ -4011,7 +4011,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -4324,7 +4324,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -4383,15 +4383,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:nhỏ gọn vuông\n ⚡Tốc độ sạc:in 65w out 95w\n sạc vào 65w trong 30%pin sau đó 45w tới 90% vào chu trình sạc đầy\nTrong quá trình sạc vào sử dụng củ sạc 120w xiaomi bị ngắt sạc lại ở 45w và 7w\n ",
+    "reviewContent": "Tính di động:nhỏ gọn vuông\n Tốc độ sạc:in 65w out 95w\n sạc vào 65w trong 30%pin sau đó 45w tới 90% vào chu trình sạc đầy\nTrong quá trình sạc vào sử dụng củ sạc 120w xiaomi bị ngắt sạc lại ở 45w và 7w\n ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "nhỏ gọn vuông",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "in 65w out 95w",
         "selected": null
       },
@@ -4548,7 +4548,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -4693,7 +4693,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -4897,20 +4897,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:Tiện lợi & đi động \n ⚡Tốc độ sạc:Nhanh như độ trở mặt của người yêu cũ \n 🔋Dung lượng:cho 1 ngày dài tác chiến Sạc nhanh 130W, Dung lượng cao 20000mAh, Ổn định  ",
+    "reviewContent": "Tính di động:Tiện lợi & đi động \n Tốc độ sạc:Nhanh như độ trở mặt của người yêu cũ \n Dung lượng:cho 1 ngày dài tác chiến Sạc nhanh 130W, Dung lượng cao 20000mAh, Ổn định  ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "Tiện lợi & đi động",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "Nhanh như độ trở mặt của người yêu cũ",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "cho 1 ngày dài tác chiến Sạc nhanh 130W, Dung lượng cao 20000mAh, Ổn định",
         "selected": null
       }
@@ -5220,20 +5220,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:Sạc UFCS Lên được 65W\n 🔋Dung lượng:Cao, sạc được 4 lần máy\n 👜Tính di động:gọn nhẹ, dễ mang theo so với các cục 20k khác ",
+    "reviewContent": "Tốc độ sạc:Sạc UFCS Lên được 65W\n Dung lượng:Cao, sạc được 4 lần máy\n Tính di động:gọn nhẹ, dễ mang theo so với các cục 20k khác ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "Sạc UFCS Lên được 65W",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "Cao, sạc được 4 lần máy",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "gọn nhẹ, dễ mang theo so với các cục 20k khác",
         "selected": null
       }
@@ -5316,7 +5316,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -5375,7 +5375,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng bền bỉ, Giá trị tuyệt vời, An toàn và đáng tin cậy, \n 🔋Dung lượng:  Dung lượng chuẩn ",
+    "reviewContent": "Chất lượng bền bỉ, Giá trị tuyệt vời, An toàn và đáng tin cậy, \n Dung lượng:  Dung lượng chuẩn ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5383,7 +5383,7 @@
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "Dung lượng chuẩn",
         "selected": null
       }
@@ -5525,20 +5525,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:  ok 🔋Dung lượng:  ok 👜Tính di động:  ok \nSản phẩm có chất lượng tốt, thiết kế đẹp và dễ sử dụng. Giá cả hợp lý so với tính năng mang lại. Hiệu suất ổn định, đáp ứng tốt nhu cầu hàng ngày. Giao hàng nhanh, đóng gói cẩn thận. Đáng để mua và trải nghiệm, rất hài lòng với sản phẩm. ",
+    "reviewContent": "Tốc độ sạc:  ok Dung lượng:  ok Tính di động:  ok \nSản phẩm có chất lượng tốt, thiết kế đẹp và dễ sử dụng. Giá cả hợp lý so với tính năng mang lại. Hiệu suất ổn định, đáp ứng tốt nhu cầu hàng ngày. Giao hàng nhanh, đóng gói cẩn thận. Đáng để mua và trải nghiệm, rất hài lòng với sản phẩm. ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "ok",
         "selected": null
       },
@@ -5626,7 +5626,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -5685,20 +5685,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:   Mang đi du lịch ⚡Tốc độ sạc:   Nhanh 100w 🔋Dung lượng:   20000mah, thức tế chuyển đổi: 11000mah Tuy là hàng nằm ở Trung Hoa đại lục, nhưng nhờ hệ thống logistics phủ sóng tốt, mà hàng hoá về tới Việt Nam trong thời gian sớm hơn dự kiến.\nChất lượng về Ugreen quá ổn ạ. ",
+    "reviewContent": "Tính di động:   Mang đi du lịch Tốc độ sạc:   Nhanh 100w Dung lượng:   20000mah, thức tế chuyển đổi: 11000mah Tuy là hàng nằm ở Trung Hoa đại lục, nhưng nhờ hệ thống logistics phủ sóng tốt, mà hàng hoá về tới Việt Nam trong thời gian sớm hơn dự kiến.\nChất lượng về Ugreen quá ổn ạ. ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "Mang đi du lịch",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "Nhanh 100w",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20000mah, thức tế chuyển đổi: 11000mah",
         "selected": null
       },
@@ -5855,7 +5855,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -6000,7 +6000,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -6145,7 +6145,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -6204,10 +6204,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:  thuận lợi di chuyển, là phương án tốt khi pin laptop bị chai khi tính phương án thay pin, dùng sạc dự phòng tiện lợi, dùng được cho cả điện thoại ",
+    "reviewContent": "Tính di động:  thuận lợi di chuyển, là phương án tốt khi pin laptop bị chai khi tính phương án thay pin, dùng sạc dự phòng tiện lợi, dùng được cho cả điện thoại ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "thuận lợi di chuyển, là phương án tốt khi pin laptop bị chai khi tính phương án thay pin, dùng sạc dự phòng tiện lợi, dùng được cho cả điện thoại",
         "selected": null
       }
@@ -6290,7 +6290,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -6435,7 +6435,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -6494,20 +6494,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:cầm vừa tay mà mỗi tội hơi đầm\n ⚡Tốc độ sạc:45w theo nhu cầu mình là ổn áp rồi. tùy nhu cầu ai thích nhanh thì 100 hay 130 nha\n 🔋Dung lượng:20k thì quá xịn xò rồi..  săn sale 313k nha mn ",
+    "reviewContent": "Tính di động:cầm vừa tay mà mỗi tội hơi đầm\n Tốc độ sạc:45w theo nhu cầu mình là ổn áp rồi. tùy nhu cầu ai thích nhanh thì 100 hay 130 nha\n Dung lượng:20k thì quá xịn xò rồi..  săn sale 313k nha mn ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "cầm vừa tay mà mỗi tội hơi đầm",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "45w theo nhu cầu mình là ổn áp rồi. tùy nhu cầu ai thích nhanh thì 100 hay 130 nha",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20k thì quá xịn xò rồi..  săn sale 313k nha mn",
         "selected": null
       }
@@ -6649,21 +6649,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:tốc độ sạc nhanh\n 👜Tính di động:dễ cầm nắm, di chuyển\n màn hình tft hơi tối, nhìn ban đêm thì rõ còn trời nắng thì chịu luôn 😅 ",
+    "reviewContent": "Tốc độ sạc:tốc độ sạc nhanh\n Tính di động:dễ cầm nắm, di chuyển\n màn hình tft hơi tối, nhìn ban đêm thì rõ còn trời nắng thì chịu luôn  ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "tốc độ sạc nhanh",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "dễ cầm nắm, di chuyển",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "màn hình tft hơi tối, nhìn ban đêm thì rõ còn trời nắng thì chịu luôn 😅",
+        "content": "màn hình tft hơi tối, nhìn ban đêm thì rõ còn trời nắng thì chịu luôn ",
         "selected": null
       }
     ],
@@ -6804,10 +6804,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:Độ bền：độ bền để thời gian trả lời\n Thẩm mỹ：đẹp tốt chắc chắn rất nặng\nThời gian phản hồi：ok rất tốt. sản phẩm rất tốt tôi rất thích  ",
+    "reviewContent": "Tính di động:Độ bền：độ bền để thời gian trả lời\n Thẩm mỹ：đẹp tốt chắc chắn rất nặng\nThời gian phản hồi：ok rất tốt. sản phẩm rất tốt tôi rất thích  ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "Độ bền：độ bền để thời gian trả lời",
         "selected": null
       },
@@ -6977,20 +6977,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:  ok ⚡Tốc độ sạc:  nhanh 🔋Dung lượng:  20k Giao đúng như mô tả hàng sale tmall pb725, giao hàng nhanh, đóng gói tạm được, thời gian đánh giá lại ",
+    "reviewContent": "Tính di động:  ok Tốc độ sạc:  nhanh Dung lượng:  20k Giao đúng như mô tả hàng sale tmall pb725, giao hàng nhanh, đóng gói tạm được, thời gian đánh giá lại ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "nhanh",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "20k",
         "selected": null
       },
@@ -7078,7 +7078,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minh★Công suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:Màn hình kỹ thuật số thông minhCông suất cao 100W] Thích hợp cho laptop/Apple 15/16 sạc nhanh/có thể vượt qua kiểm tra an ninh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928304",
     "configSku": "3206746554_VNAMZ",
@@ -7282,20 +7282,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:  mang tính di dộng cao, dễ dàng di chuyển ⚡Tốc độ sạc:  sạc nhanh tiết kiệm thời gian 🔋Dung lượng:  lớn thoãi mái sử dụng mọi nhu cầu ",
+    "reviewContent": "Tính di động:  mang tính di dộng cao, dễ dàng di chuyển Tốc độ sạc:  sạc nhanh tiết kiệm thời gian Dung lượng:  lớn thoãi mái sử dụng mọi nhu cầu ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "mang tính di dộng cao, dễ dàng di chuyển",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "sạc nhanh tiết kiệm thời gian",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "lớn thoãi mái sử dụng mọi nhu cầu",
         "selected": null
       }
@@ -7424,7 +7424,7 @@
     "originPrice": null,
     "salesPrice": null,
     "promotion": null,
-    "skuInfo": "Phân loại màu sắc:[Nâng cấp mới⭐Cáp thu gọn 65CM] Màn hình màu TFT công suất cao 165W hiển thị thông minh, Dung lượng pin:20000mAh",
+    "skuInfo": "Phân loại màu sắc:[Nâng cấp mớiCáp thu gọn 65CM] Màn hình màu TFT công suất cao 165W hiển thị thông minh, Dung lượng pin:20000mAh",
     "tags": null,
     "skuId": "15325928306",
     "configSku": "3206746554_VNAMZ",

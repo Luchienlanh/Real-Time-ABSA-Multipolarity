@@ -47,12 +47,12 @@ def clean_text_udf(batch_iter: Iterator[pd.Series]) -> Iterator[pd.Series]:
         yield series.apply(clean_text)
 
 if __name__ == "__main__":
-    print("🚀 Starting Spark Processor...")
+    print(" Starting Spark Processor...")
     
     spark = get_spark_session()
     
     # Mock data creation for testing (Create 1000 rows)
-    print("📊 Generating mock data...")
+    print(" Generating mock data...")
     data = [
         ("Sản phẩm tuyệt vời! <br> Giao hàng nhanh.",), 
         ("Chất lượng KÉM... không đáng tiền!!!",), 
@@ -65,7 +65,7 @@ if __name__ == "__main__":
     df = df.repartition(2)
     
     # Apply UDF in parallel
-    print("⚡ Processing data with Pandas UDF...")
+    print(" Processing data with Pandas UDF...")
     df_clean = df.withColumn("clean_text", clean_text_udf("raw_text"))
     
     # Show results
@@ -76,4 +76,4 @@ if __name__ == "__main__":
     df_clean.explain()
     
     spark.stop()
-    print("✅ Processing complete.")
+    print(" Processing complete.")

@@ -43,11 +43,11 @@ def check_and_train_model():
         for subdir in subdirs:
             potential_model = os.path.join(MODEL_PATH, subdir, 'model.pkl')
             if os.path.exists(potential_model):
-                print(f"✅ Found existing model at {potential_model}")
+                print(f" Found existing model at {potential_model}")
                 return potential_model
     
     if not os.path.exists(model_file):
-        print("⚠️ No model found. Running training pipeline...")
+        print("️ No model found. Running training pipeline...")
         # Import and run training
         # Import and run training
         sys.path.insert(0, BASE_DIR)
@@ -75,12 +75,12 @@ def create_consumer(max_retries=5, retry_delay=5):
                 auto_offset_reset='earliest',
                 value_deserializer=lambda v: json.loads(v.decode('utf-8'))
             )
-            print(f"✅ Consumer connected to Kafka, subscribed to '{INPUT_TOPIC}'")
+            print(f" Consumer connected to Kafka, subscribed to '{INPUT_TOPIC}'")
             return consumer
         except NoBrokersAvailable:
-            print(f"⏳ Attempt {attempt + 1}/{max_retries}: Kafka not ready, retrying in {retry_delay}s...")
+            print(f" Attempt {attempt + 1}/{max_retries}: Kafka not ready, retrying in {retry_delay}s...")
             time.sleep(retry_delay)
-    raise Exception("❌ Could not connect to Kafka")
+    raise Exception(" Could not connect to Kafka")
 
 def create_output_producer():
     """Create producer for output topic."""
@@ -93,7 +93,7 @@ def run_consumer():
     """Main consumer loop."""
     # Step 1: Ensure model exists
     model_path = check_and_train_model()
-    print(f"🧠 Using model: {model_path}")
+    print(f" Using model: {model_path}")
     
     # Load model
     # NOTE: In a real scenario, we'd load the model here
@@ -102,7 +102,7 @@ def run_consumer():
     consumer = create_consumer()
     producer = create_output_producer()
     
-    print("🔄 Waiting for messages...")
+    print(" Waiting for messages...")
     
     processed_count = 0
     for message in consumer:
@@ -131,7 +131,7 @@ def run_consumer():
         
         processed_count += 1
         if processed_count % 10 == 0:
-            print(f"📊 Processed {processed_count} reviews...")
+            print(f" Processed {processed_count} reviews...")
     
     consumer.close()
     producer.close()

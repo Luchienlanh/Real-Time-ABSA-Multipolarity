@@ -299,10 +299,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:không hợp lý, bỏ công chơi còn phải trả phí, bỏ tiền mua cho rồi, chơi làm gì tốn thời gian ",
+    "reviewContent": "Giá cả:không hợp lý, bỏ công chơi còn phải trả phí, bỏ tiền mua cho rồi, chơi làm gì tốn thời gian ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "không hợp lý, bỏ công chơi còn phải trả phí, bỏ tiền mua cho rồi, chơi làm gì tốn thời gian",
         "selected": null
       }
@@ -408,7 +408,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "bịch gạo bị rách lũng đổ gạo ra ngoài  kô tốt như lần trước.\n 📦Bao bì:bao bì bị rách có dáng miềng băng keo lại. ",
+    "reviewContent": "bịch gạo bị rách lũng đổ gạo ra ngoài  kô tốt như lần trước.\n Bao bì:bao bì bị rách có dáng miềng băng keo lại. ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -416,7 +416,7 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "bao bì bị rách có dáng miềng băng keo lại.",
         "selected": null
       }
@@ -1600,40 +1600,40 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:ok\n 🍖Hương vị:khô và cứng \n 💲Giá cả:mắc \n 🍝Kết cấu:ok\n 🔍Chất lượng:không ngon\n ✅Chất lượng:dỡ\n 👃Hương thơm:không có  ",
+    "reviewContent": "Bao bì:ok\n Hương vị:khô và cứng \n Giá cả:mắc \n Kết cấu:ok\n Chất lượng:không ngon\n Chất lượng:dỡ\n Hương thơm:không có  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "khô và cứng",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "mắc",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "không ngon",
         "selected": null
       },
       {
-        "attribute": "✅Quality",
+        "attribute": "Quality",
         "content": "dỡ",
         "selected": null
       },
       {
-        "attribute": "👃Aroma",
+        "attribute": "Aroma",
         "content": "không có",
         "selected": null
       }
@@ -2066,10 +2066,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:đắt gấp vài lần mua ngoài. phí ship quá cao. tốn thời gian ",
+    "reviewContent": "Giá cả:đắt gấp vài lần mua ngoài. phí ship quá cao. tốn thời gian ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "đắt gấp vài lần mua ngoài. phí ship quá cao. tốn thời gian",
         "selected": null
       }
@@ -2284,10 +2284,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  Gạo rất dở, ko ngon như mọi lần  ",
+    "reviewContent": "Hương vị:  Gạo rất dở, ko ngon như mọi lần  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Gạo rất dở, ko ngon như mọi lần",
         "selected": null
       }
@@ -3774,15 +3774,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ok\n 📦Bao bì:ok ",
+    "reviewContent": "Hương vị:ok\n Bao bì:ok ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "ok",
         "selected": null
       }
@@ -5425,10 +5425,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:bình thường  ",
+    "reviewContent": "Hương vị:bình thường  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "bình thường",
         "selected": null
       }
@@ -7617,7 +7617,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sản phẩm sử dụng chất lượng như quảng cáo, tiếp tục ủng hộ shop lần sau\n 📦Bao bì:đc\n 🍖Hương vị:ngon, dẻo\n 💲Giá cả:hơi cao ",
+    "reviewContent": "Sản phẩm sử dụng chất lượng như quảng cáo, tiếp tục ủng hộ shop lần sau\n Bao bì:đc\n Hương vị:ngon, dẻo\n Giá cả:hơi cao ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7625,17 +7625,17 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đc",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon, dẻo",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hơi cao",
         "selected": null
       }
@@ -7900,11 +7900,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "chưa ăn thử nhưng mà bị woa á nhận đc 1kg gạo ÷))) cũng cũng đi ha 😠 ",
+    "reviewContent": "chưa ăn thử nhưng mà bị woa á nhận đc 1kg gạo ÷))) cũng cũng đi ha  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "chưa ăn thử nhưng mà bị woa á nhận đc 1kg gạo ÷))) cũng cũng đi ha 😠",
+        "content": "chưa ăn thử nhưng mà bị woa á nhận đc 1kg gạo ÷))) cũng cũng đi ha ",
         "selected": null
       }
     ],
@@ -9623,10 +9623,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:  Hạn sử dụng 6 tháng, Gạo không biến đổi gen và an toàn, Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Không chất tạo hương/tẩy trắng,  ",
+    "reviewContent": "Bao bì:  Hạn sử dụng 6 tháng, Gạo không biến đổi gen và an toàn, Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Không chất tạo hương/tẩy trắng,  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "Hạn sử dụng 6 tháng, Gạo không biến đổi gen và an toàn, Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Không chất tạo hương/tẩy trắng,",
         "selected": null
       }
@@ -9950,11 +9950,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Gạo không biến đổi gen và an toàn, Không dư lượng hóa chất, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Nên ngâm gạo trước khi nấu, Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng\n👁️👅👁️👂🏻\n__🫶🏻 ",
+    "reviewContent": "Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Gạo không biến đổi gen và an toàn, Không dư lượng hóa chất, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Nên ngâm gạo trước khi nấu, Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng\n️️\n__ ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Gạo không biến đổi gen và an toàn, Không dư lượng hóa chất, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Nên ngâm gạo trước khi nấu, Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng\n👁️👅👁️👂🏻\n__🫶🏻",
+        "content": "Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Gạo không biến đổi gen và an toàn, Không dư lượng hóa chất, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Cơm mềm dẻo ngon miệng, Gạo dẻo dài, hương thơm tự nhiên, Nên ngâm gạo trước khi nấu, Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng\n️️\n__",
         "selected": null
       }
     ],
@@ -10431,7 +10431,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng, \n 💲Giá cả:  tưới nước trồng cây nhận gạo free 🍖Hương vị:  thơm  📦Bao bì:  đẹp mắt  ✅Chất lượng:  tuyệt vời  ",
+    "reviewContent": "Thương hiệu Việt Nam chính hãng, Không chất tạo hương/tẩy trắng, \n Giá cả:  tưới nước trồng cây nhận gạo free Hương vị:  thơm  Bao bì:  đẹp mắt  Chất lượng:  tuyệt vời  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -10439,22 +10439,22 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tưới nước trồng cây nhận gạo free",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm",
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đẹp mắt",
         "selected": null
       },
       {
-        "attribute": "✅Quality",
+        "attribute": "Quality",
         "content": "tuyệt vời",
         "selected": null
       }
@@ -10886,15 +10886,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:sạch sẽ \n 💲Giá cả:0đ\n có công trồng lúa, có ngày nên cơm . , shop đóng gói và giao hàng nhanh lẹ. , gạo thơm dẻo, cảm ơn lzdThương hiệu Việt Nam chính hãng, \nGạo dẻo dài, hương thơm tự nhiên,  ",
+    "reviewContent": "Bao bì:sạch sẽ \n Giá cả:0đ\n có công trồng lúa, có ngày nên cơm . , shop đóng gói và giao hàng nhanh lẹ. , gạo thơm dẻo, cảm ơn lzdThương hiệu Việt Nam chính hãng, \nGạo dẻo dài, hương thơm tự nhiên,  ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "sạch sẽ",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "0đ",
         "selected": null
       },
@@ -11041,11 +11041,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Lần thứ 2 nhận gạo ngon của Lazland 🥰 gạo nấu thơm, ăn hơi dẻo, vừa miệng với người răng yếu như Ba và Mẹ mình. Chăm chỉ tưới cây là có 1 kí gạo ăn 😹 tuy không nhiều nhưng có quà là vui rùi 😚😚 Cảm ơn Lex và anh ship giao hàng thần tốc 🥹!  ",
+    "reviewContent": "Lần thứ 2 nhận gạo ngon của Lazland  gạo nấu thơm, ăn hơi dẻo, vừa miệng với người răng yếu như Ba và Mẹ mình. Chăm chỉ tưới cây là có 1 kí gạo ăn  tuy không nhiều nhưng có quà là vui rùi  Cảm ơn Lex và anh ship giao hàng thần tốc !  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Lần thứ 2 nhận gạo ngon của Lazland 🥰 gạo nấu thơm, ăn hơi dẻo, vừa miệng với người răng yếu như Ba và Mẹ mình. Chăm chỉ tưới cây là có 1 kí gạo ăn 😹 tuy không nhiều nhưng có quà là vui rùi 😚😚 Cảm ơn Lex và anh ship giao hàng thần tốc 🥹!",
+        "content": "Lần thứ 2 nhận gạo ngon của Lazland  gạo nấu thơm, ăn hơi dẻo, vừa miệng với người răng yếu như Ba và Mẹ mình. Chăm chỉ tưới cây là có 1 kí gạo ăn  tuy không nhiều nhưng có quà là vui rùi  Cảm ơn Lex và anh ship giao hàng thần tốc !",
         "selected": null
       }
     ],
@@ -11320,7 +11320,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Gạo không biến đổi gen và an toàn, Không chất tạo hương/tẩy trắng, Không dư lượng hóa chất, Hạn sử dụng 6 tháng, \n\n 📦Bao bì:đóng gói nó bị ồn cũng đẹp \n 🍖Hương vị:gạo thơm dẻo ăn được \n 💲Giá cả:giá cả ổn trả phí vận chuyển thôi \n 🍝Kết cấu:được dạ ăn được \n ",
+    "reviewContent": "Gạo không biến đổi gen và an toàn, Không chất tạo hương/tẩy trắng, Không dư lượng hóa chất, Hạn sử dụng 6 tháng, \n\n Bao bì:đóng gói nó bị ồn cũng đẹp \n Hương vị:gạo thơm dẻo ăn được \n Giá cả:giá cả ổn trả phí vận chuyển thôi \n Kết cấu:được dạ ăn được \n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -11328,22 +11328,22 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đóng gói nó bị ồn cũng đẹp",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "gạo thơm dẻo ăn được",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả ổn trả phí vận chuyển thôi",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "được dạ ăn được",
         "selected": null
       }
@@ -11798,7 +11798,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hạn sử dụng 6 tháng, Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Không chất tạo hương/tẩy trắng, Không dư lượng hóa chất, \n\n 📦Bao bì:thì cũng đẹp \n 🍖Hương vị: mới dẻo ngon \n 💲Giá cả:giá cả cũng ổn chỉ trả phí ship thôi \n 🍝Kết cấu:dạ ăn được \n 🔍Chất lượng:chất lượng được ",
+    "reviewContent": "Hạn sử dụng 6 tháng, Gạo hữu cơ từ Đồng Bằng Sông Cửu Long, Không chất tạo hương/tẩy trắng, Không dư lượng hóa chất, \n\n Bao bì:thì cũng đẹp \n Hương vị: mới dẻo ngon \n Giá cả:giá cả cũng ổn chỉ trả phí ship thôi \n Kết cấu:dạ ăn được \n Chất lượng:chất lượng được ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -11806,27 +11806,27 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "thì cũng đẹp",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "mới dẻo ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả cũng ổn chỉ trả phí ship thôi",
         "selected": null
       },
       {
-        "attribute": "🍝Texture",
+        "attribute": "Texture",
         "content": "dạ ăn được",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "chất lượng được",
         "selected": null
       }
@@ -12312,7 +12312,7 @@
       }
     ],
     "buyerId": 200616464295,
-    "buyerName": "Nee💋",
+    "buyerName": "Nee",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,
@@ -13418,20 +13418,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:đẹp\n 🍖Hương vị:thơm ngon\n 💲Giá cả:giá tốt\n tưới cây Lazada hơn 1 tháng được quà gạo này. gạo ngon ",
+    "reviewContent": "Bao bì:đẹp\n Hương vị:thơm ngon\n Giá cả:giá tốt\n tưới cây Lazada hơn 1 tháng được quà gạo này. gạo ngon ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá tốt",
         "selected": null
       },

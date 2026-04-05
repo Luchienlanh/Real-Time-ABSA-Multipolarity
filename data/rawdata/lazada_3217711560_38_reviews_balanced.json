@@ -432,20 +432,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền:chờ thời gian\n 💲Giá cả:săn sale 11.11 giá tốt\n 🔌Tính tương thích:tốt 3 mode ",
+    "reviewContent": "️Độ bền:chờ thời gian\n Giá cả:săn sale 11.11 giá tốt\n Tính tương thích:tốt 3 mode ",
     "reviewContentList": [
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chờ thời gian",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "săn sale 11.11 giá tốt",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "tốt 3 mode",
         "selected": null
       }
@@ -1938,7 +1938,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thiết kế nhẹ, Các phím phản hồi nhanh, màn led đẹp hiển thị ngon \n 💲Giá cả:  quá tốt 🛡️Độ bền:  tốt 🔌Tính tương thích:  tốt ",
+    "reviewContent": "Thiết kế nhẹ, Các phím phản hồi nhanh, màn led đẹp hiển thị ngon \n Giá cả:  quá tốt ️Độ bền:  tốt Tính tương thích:  tốt ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -1946,17 +1946,17 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "quá tốt",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "tốt",
         "selected": null
       }
@@ -2098,25 +2098,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "\nBộ phím Aula S75 Pro + Chuột Sc620 + Pad chuột , săn deal thủng đáy chỉ có 550k 🤣🤣🤣 \nQuá êm luôn, keycap kèm phím (hình1) chỉ xuyên led chữ, không có hoa văn nên mua keycap khác(clip) về gắn trông led lủng okela hơn. \nChuột thì ngon choét, có app chỉnh đủ thứ, dpi lên đến 12.000 luôn. \n 💲Giá cả:Rẻ vcb\n 🛡️Độ bền:Dùng lâu mới biết\n 🔌Tính tương thích:Ngon luôn 3 mod, kết nối mọi thiết bị ",
+    "reviewContent": "\nBộ phím Aula S75 Pro + Chuột Sc620 + Pad chuột , săn deal thủng đáy chỉ có 550k  \nQuá êm luôn, keycap kèm phím (hình1) chỉ xuyên led chữ, không có hoa văn nên mua keycap khác(clip) về gắn trông led lủng okela hơn. \nChuột thì ngon choét, có app chỉnh đủ thứ, dpi lên đến 12.000 luôn. \n Giá cả:Rẻ vcb\n ️Độ bền:Dùng lâu mới biết\n Tính tương thích:Ngon luôn 3 mod, kết nối mọi thiết bị ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Bộ phím Aula S75 Pro + Chuột Sc620 + Pad chuột , săn deal thủng đáy chỉ có 550k 🤣🤣🤣 \nQuá êm luôn, keycap kèm phím (hình1) chỉ xuyên led chữ, không có hoa văn nên mua keycap khác(clip) về gắn trông led lủng okela hơn. \nChuột thì ngon choét, có app chỉnh đủ thứ, dpi lên đến 12.000 luôn.",
+        "content": "Bộ phím Aula S75 Pro + Chuột Sc620 + Pad chuột , săn deal thủng đáy chỉ có 550k  \nQuá êm luôn, keycap kèm phím (hình1) chỉ xuyên led chữ, không có hoa văn nên mua keycap khác(clip) về gắn trông led lủng okela hơn. \nChuột thì ngon choét, có app chỉnh đủ thứ, dpi lên đến 12.000 luôn.",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Rẻ vcb",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "Dùng lâu mới biết",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "Ngon luôn 3 mod, kết nối mọi thiết bị",
         "selected": null
       }
@@ -3731,20 +3731,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  rẻ 🛡️Độ bền:  tốt 🔌Tính tương thích:  chuẩn Sản ohaamr rất đẹp, tôi râdt thsich, tôi sẽ đặt nữa  ",
+    "reviewContent": "Giá cả:  rẻ ️Độ bền:  tốt Tính tương thích:  chuẩn Sản ohaamr rất đẹp, tôi râdt thsich, tôi sẽ đặt nữa  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "chuẩn",
         "selected": null
       },
@@ -3891,10 +3891,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔌Tính tương thích:  3 chế độ, dễ dang kết nối, giá cả săn sale rất rẻ, độ bền chờ thêm  mới đánh giá chính xác được. Chất liệu khá ổn trong tầm giá  ",
+    "reviewContent": "Tính tương thích:  3 chế độ, dễ dang kết nối, giá cả săn sale rất rẻ, độ bền chờ thêm  mới đánh giá chính xác được. Chất liệu khá ổn trong tầm giá  ",
     "reviewContentList": [
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "3 chế độ, dễ dang kết nối, giá cả săn sale rất rẻ, độ bền chờ thêm  mới đánh giá chính xác được. Chất liệu khá ổn trong tầm giá",
         "selected": null
       }
@@ -4326,20 +4326,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔌Tính tương thích:  caoooooo nha lắp đâu cũng nhận 🛡️Độ bền:  dùng thấy ok hahaha keoe hahaha  💲Giá cả:  hợp lý, sale quá rẻ luônnnnnn đó nha ",
+    "reviewContent": "Tính tương thích:  caoooooo nha lắp đâu cũng nhận ️Độ bền:  dùng thấy ok hahaha keoe hahaha  Giá cả:  hợp lý, sale quá rẻ luônnnnnn đó nha ",
     "reviewContentList": [
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "caoooooo nha lắp đâu cũng nhận",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "dùng thấy ok hahaha keoe hahaha",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý, sale quá rẻ luônnnnnn đó nha",
         "selected": null
       }
@@ -4649,20 +4649,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:mua đợt sale nên giá rẻ\n 🛡️Độ bền:phải dùng thêm thời gian mới đánh giá đc.\n 🔌Tính tương thích:tương thích tốt ",
+    "reviewContent": "Giá cả:mua đợt sale nên giá rẻ\n ️Độ bền:phải dùng thêm thời gian mới đánh giá đc.\n Tính tương thích:tương thích tốt ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "mua đợt sale nên giá rẻ",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "phải dùng thêm thời gian mới đánh giá đc.",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "tương thích tốt",
         "selected": null
       }
@@ -5384,15 +5384,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:săn sale siêu rẻ\n 🔌Tính tương thích:xài cực êm khi thay phím\n gõ mượt mà chất lượng cao, xứng giá tiền ",
+    "reviewContent": "Giá cả:săn sale siêu rẻ\n Tính tương thích:xài cực êm khi thay phím\n gõ mượt mà chất lượng cao, xứng giá tiền ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "săn sale siêu rẻ",
         "selected": null
       },
       {
-        "attribute": "🔌Compatibility",
+        "attribute": "Compatibility",
         "content": "xài cực êm khi thay phím",
         "selected": null
       },

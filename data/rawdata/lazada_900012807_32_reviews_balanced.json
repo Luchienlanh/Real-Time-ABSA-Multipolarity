@@ -533,20 +533,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:  màu sắc tươi mới\n 🛡️Độ bền:  sử dụng được lâu dài\n 😌Thoải mái:  phù hợp với nhiều loại hoạt động ",
+    "reviewContent": "Thiết kế:  màu sắc tươi mới\n ️Độ bền:  sử dụng được lâu dài\n Thoải mái:  phù hợp với nhiều loại hoạt động ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "màu sắc tươi mới",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "sử dụng được lâu dài",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "phù hợp với nhiều loại hoạt động",
         "selected": null
       }
@@ -1363,20 +1363,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:  OK\n 🛡️Độ bền:  OK\n 😌Thoải mái:  okCó sẵn các kích cỡ khác nhau, Dễ dàng phân biệt đội tuyển, Tuyệt vời cho thể thao đồng đội, Được làm từ vật liệu bền,  ",
+    "reviewContent": "Thiết kế:  OK\n ️Độ bền:  OK\n Thoải mái:  okCó sẵn các kích cỡ khác nhau, Dễ dàng phân biệt đội tuyển, Tuyệt vời cho thể thao đồng đội, Được làm từ vật liệu bền,  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "OK",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "OK",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "okCó sẵn các kích cỡ khác nhau, Dễ dàng phân biệt đội tuyển, Tuyệt vời cho thể thao đồng đội, Được làm từ vật liệu bền,",
         "selected": null
       }
@@ -1616,11 +1616,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊ok",
+    "reviewContent": "ok",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊ok",
+        "content": "ok",
         "selected": null
       }
     ],
@@ -1768,20 +1768,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:  đúng mẫu\n 🛡️Độ bền:  chưa sử dụng nên chưa đánh giá\n 😌Thoải mái:  OK ",
+    "reviewContent": "Thiết kế:  đúng mẫu\n ️Độ bền:  chưa sử dụng nên chưa đánh giá\n Thoải mái:  OK ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đúng mẫu",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa sử dụng nên chưa đánh giá",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "OK",
         "selected": null
       }

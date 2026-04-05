@@ -2026,11 +2026,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "hình mẫu thì có 12 khối gỗ ở 12 con số, nhưng giao hàng thì lại ko có khối gỗ, thất vọng 😡 ",
+    "reviewContent": "hình mẫu thì có 12 khối gỗ ở 12 con số, nhưng giao hàng thì lại ko có khối gỗ, thất vọng  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "hình mẫu thì có 12 khối gỗ ở 12 con số, nhưng giao hàng thì lại ko có khối gỗ, thất vọng 😡",
+        "content": "hình mẫu thì có 12 khối gỗ ở 12 con số, nhưng giao hàng thì lại ko có khối gỗ, thất vọng ",
         "selected": null
       }
     ],
@@ -9345,7 +9345,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Design:  ok Durability:  hopefully will last long Safety:  ok 💲Price:  ok 🎨Design:  ok 🛡Durability:  ok 🛡️Durability:  ok 👌Ease of Use:  ok \nColorful and engaging, great gift for toddlers, the quality meets the price. ",
+    "reviewContent": "Design:  ok Durability:  hopefully will last long Safety:  ok Price:  ok Design:  ok Durability:  ok ️Durability:  ok Ease of Use:  ok \nColorful and engaging, great gift for toddlers, the quality meets the price. ",
     "reviewContentList": [
       {
         "attribute": "Design",
@@ -9363,27 +9363,27 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "ok",
         "selected": null
       },
@@ -11170,7 +11170,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Kích thước hoàn hảo cho tay nhỏ, Dễ chơi và học, \n 💲Giá cả:phải chăng ",
+    "reviewContent": "Kích thước hoàn hảo cho tay nhỏ, Dễ chơi và học, \n Giá cả:phải chăng ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -11178,7 +11178,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "phải chăng",
         "selected": null
       }

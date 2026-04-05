@@ -3901,7 +3901,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:  dởm Kiểu dáng:  xấu Giá Cả:  phí ship mắc  Độ bền:  dễ hư  Độ an toàn:  cũng  🛡Độ bền:  không bền 👜Tính di động:  khôngCác mảnh nam châm đảm bảo sự ổn định trong khi chơi., Có sẵn trong nhiều màu sắc hấp dẫn.,  mất miếng nam châm ko hút đc hư ",
+    "reviewContent": "Chất lượng:  dởm Kiểu dáng:  xấu Giá Cả:  phí ship mắc  Độ bền:  dễ hư  Độ an toàn:  cũng  Độ bền:  không bền Tính di động:  khôngCác mảnh nam châm đảm bảo sự ổn định trong khi chơi., Có sẵn trong nhiều màu sắc hấp dẫn.,  mất miếng nam châm ko hút đc hư ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -3929,12 +3929,12 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "không bền",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "khôngCác mảnh nam châm đảm bảo sự ổn định trong khi chơi., Có sẵn trong nhiều màu sắc hấp dẫn.,  mất miếng nam châm ko hút đc hư",
         "selected": null
       }
@@ -4513,11 +4513,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Shop uy tín... giao hàng đúng yêu cầu.. ❤\nNhanh chóng.. chất lượng... như hình quảng cáo . ",
+    "reviewContent": "Shop uy tín... giao hàng đúng yêu cầu.. \nNhanh chóng.. chất lượng... như hình quảng cáo . ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Shop uy tín... giao hàng đúng yêu cầu.. ❤\nNhanh chóng.. chất lượng... như hình quảng cáo .",
+        "content": "Shop uy tín... giao hàng đúng yêu cầu.. \nNhanh chóng.. chất lượng... như hình quảng cáo .",
         "selected": null
       }
     ],

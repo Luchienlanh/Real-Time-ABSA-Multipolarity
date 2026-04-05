@@ -611,11 +611,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đóng gói OK. Giao nhanh.  \n***SP khuyến mãi có chất lượng rất chán (lần này là cái nồi áp suất mỏng và cái nắp kính áp suất mà mỏng như bóng đèn), làm thất vọng lây sang sản phẩm chính 😕 thà trừ hẳn vào giá bán thì đỡ làm KH bực.  ",
+    "reviewContent": "đóng gói OK. Giao nhanh.  \n***SP khuyến mãi có chất lượng rất chán (lần này là cái nồi áp suất mỏng và cái nắp kính áp suất mà mỏng như bóng đèn), làm thất vọng lây sang sản phẩm chính  thà trừ hẳn vào giá bán thì đỡ làm KH bực.  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "đóng gói OK. Giao nhanh.  \n***SP khuyến mãi có chất lượng rất chán (lần này là cái nồi áp suất mỏng và cái nắp kính áp suất mà mỏng như bóng đèn), làm thất vọng lây sang sản phẩm chính 😕 thà trừ hẳn vào giá bán thì đỡ làm KH bực.",
+        "content": "đóng gói OK. Giao nhanh.  \n***SP khuyến mãi có chất lượng rất chán (lần này là cái nồi áp suất mỏng và cái nắp kính áp suất mà mỏng như bóng đèn), làm thất vọng lây sang sản phẩm chính  thà trừ hẳn vào giá bán thì đỡ làm KH bực.",
         "selected": null
       }
     ],
@@ -2417,7 +2417,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Bao bì cá nhân tiện lợi, Rất tốt cho việc di chuyển, Thương hiệu đáng tin cậy từ Việt Nam, \n 🍖Hương vị:  thơm ngon bổ dưỡng 🥦Giá trị dinh dưỡng:   Tuyệt vời 😋Tiêu hóa:  tốt cho tiêu hoá ",
+    "reviewContent": "Bao bì cá nhân tiện lợi, Rất tốt cho việc di chuyển, Thương hiệu đáng tin cậy từ Việt Nam, \n Hương vị:  thơm ngon bổ dưỡng Giá trị dinh dưỡng:   Tuyệt vời Tiêu hóa:  tốt cho tiêu hoá ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2425,17 +2425,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon bổ dưỡng",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Tuyệt vời",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "tốt cho tiêu hoá",
         "selected": null
       }
@@ -4108,20 +4108,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  thơm ngon, bé rất yêu thích 🥦Giá trị dinh dưỡng:  rất tốt cho hệ tiêu hóa của trẻ từ 2t 😋Tiêu hóa:  Thúc đẩy sự phát triển của hệ thống miễn dịch,  ",
+    "reviewContent": "Hương vị:  thơm ngon, bé rất yêu thích Giá trị dinh dưỡng:  rất tốt cho hệ tiêu hóa của trẻ từ 2t Tiêu hóa:  Thúc đẩy sự phát triển của hệ thống miễn dịch,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon, bé rất yêu thích",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "rất tốt cho hệ tiêu hóa của trẻ từ 2t",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "Thúc đẩy sự phát triển của hệ thống miễn dịch,",
         "selected": null
       }
@@ -4630,7 +4630,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Được khuyến nghị cho trẻ trên 2 tuổi, Dễ chuẩn bị và phục vụ, Thương hiệu đáng tin cậy từ Việt Nam, \n 🍖Hương vị:  thơm ngon bổ dưỡng 🥦Giá trị dinh dưỡng:   Cao, phù hợp tăng đề kháng cho bé 😋Tiêu hóa:   Tốt ",
+    "reviewContent": "Được khuyến nghị cho trẻ trên 2 tuổi, Dễ chuẩn bị và phục vụ, Thương hiệu đáng tin cậy từ Việt Nam, \n Hương vị:  thơm ngon bổ dưỡng Giá trị dinh dưỡng:   Cao, phù hợp tăng đề kháng cho bé Tiêu hóa:   Tốt ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4638,17 +4638,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon bổ dưỡng",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "Cao, phù hợp tăng đề kháng cho bé",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "Tốt",
         "selected": null
       }
@@ -5157,20 +5157,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  ok 🥦Giá trị dinh dưỡng:  ok 😋Tiêu hóa:  okLựa chọn an toàn và lành mạnh, Hương vị ngon và đơn giản,  ",
+    "reviewContent": "Hương vị:  ok Giá trị dinh dưỡng:  ok Tiêu hóa:  okLựa chọn an toàn và lành mạnh, Hương vị ngon và đơn giản,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "okLựa chọn an toàn và lành mạnh, Hương vị ngon và đơn giản,",
         "selected": null
       }
@@ -5493,20 +5493,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Taste:  ngon 🥦Nutritional Value:  tốt 😋Digestibility:  oki Vận chuyển nhanh, đóng hàng cũng ổn. Mũi vị bé thích ",
+    "reviewContent": "Taste:  ngon Nutritional Value:  tốt Digestibility:  oki Vận chuyển nhanh, đóng hàng cũng ổn. Mũi vị bé thích ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "😋Digestibility",
+        "attribute": "Digestibility",
         "content": "oki",
         "selected": null
       },

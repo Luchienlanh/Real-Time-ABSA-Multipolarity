@@ -202,7 +202,7 @@ def label_review(review: str, use_llm: bool = True) -> Dict[str, any]:
 
 def label_file(input_path: str, output_path: str, use_llm: bool = True, limit: int = None):
     """Label all reviews in a file."""
-    print(f"\n📂 Processing: {input_path}")
+    print(f"\n Processing: {input_path}")
     
     df = pd.read_excel(input_path)
     total = len(df) if limit is None else min(limit, len(df))
@@ -228,7 +228,7 @@ def label_file(input_path: str, output_path: str, use_llm: bool = True, limit: i
     
     # Save
     df.to_excel(output_path, index=False)
-    print(f"   ✅ Saved to: {output_path}")
+    print(f"    Saved to: {output_path}")
     return df
 
 
@@ -242,7 +242,7 @@ def label_all_test_flow(use_llm: bool = True, limit_per_file: int = None):
     
     files = sorted(glob.glob(os.path.join(folder, 'test_flow_reviews_*.xlsx')))
     
-    print(f"🚀 Starting auto-labeling for {len(files)} files")
+    print(f" Starting auto-labeling for {len(files)} files")
     print(f"   Mode: {'LLM (Ollama)' if use_llm else 'Rule-based'}")
     print(f"   Output folder: {output_folder}")
     
@@ -253,9 +253,9 @@ def label_all_test_flow(use_llm: bool = True, limit_per_file: int = None):
         try:
             label_file(file_path, output_path, use_llm=use_llm, limit=limit_per_file)
         except Exception as e:
-            print(f"   ❌ Error: {e}")
+            print(f"    Error: {e}")
     
-    print("\n🎉 All files processed!")
+    print("\n All files processed!")
 
 
 if __name__ == "__main__":

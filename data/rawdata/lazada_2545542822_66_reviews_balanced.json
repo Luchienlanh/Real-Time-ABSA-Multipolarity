@@ -4563,25 +4563,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:giá cả hợp lý\n 🔍Chất lượng:chất lượng sản phẩm tốt \n 🎨Thiết kế:thiết kế đẹp phù hợp nhất với trẻ nhỏ\n 🛡️Độ bền:chưa biếtHoàn hảo cho hồ bơi hoặc bãi biển, Hình dạng cá voi thêm phần thú vị, Hoàn hảo cho trò chơi dưới nước, Đồ chơi nước hấp dẫn,  ",
+    "reviewContent": "Giá cả:giá cả hợp lý\n Chất lượng:chất lượng sản phẩm tốt \n Thiết kế:thiết kế đẹp phù hợp nhất với trẻ nhỏ\n ️Độ bền:chưa biếtHoàn hảo cho hồ bơi hoặc bãi biển, Hình dạng cá voi thêm phần thú vị, Hoàn hảo cho trò chơi dưới nước, Đồ chơi nước hấp dẫn,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả hợp lý",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "chất lượng sản phẩm tốt",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "thiết kế đẹp phù hợp nhất với trẻ nhỏ",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa biếtHoàn hảo cho hồ bơi hoặc bãi biển, Hình dạng cá voi thêm phần thú vị, Hoàn hảo cho trò chơi dưới nước, Đồ chơi nước hấp dẫn,",
         "selected": null
       }
@@ -4914,7 +4914,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo cho hồ bơi hoặc bãi biển, Đồ chơi nước hấp dẫn, Hình dạng cá voi thêm phần thú vị, \n 💲Giá cả:giá cả hợp lý\n 🔍Chất lượng:chất lượng sản phẩm tốt \n 🎨Thiết kế:đẹp\n 🛡️Độ bền:chưa biết độ bền ",
+    "reviewContent": "Hoàn hảo cho hồ bơi hoặc bãi biển, Đồ chơi nước hấp dẫn, Hình dạng cá voi thêm phần thú vị, \n Giá cả:giá cả hợp lý\n Chất lượng:chất lượng sản phẩm tốt \n Thiết kế:đẹp\n ️Độ bền:chưa biết độ bền ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4922,22 +4922,22 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả hợp lý",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "chất lượng sản phẩm tốt",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa biết độ bền",
         "selected": null
       }
@@ -5583,15 +5583,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:quá rẻ\n 🔍Chất lượng:ok\n nói chung ổn, rẻ vậy mà chơi được là quá tốt rồi, còn đòi hỏi gì được thêm nữa, sẽ ủng hộ shop tiếp mà...hết hàng rồi...kkk ",
+    "reviewContent": "Giá cả:quá rẻ\n Chất lượng:ok\n nói chung ổn, rẻ vậy mà chơi được là quá tốt rồi, còn đòi hỏi gì được thêm nữa, sẽ ủng hộ shop tiếp mà...hết hàng rồi...kkk ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "quá rẻ",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ok",
         "selected": null
       },
@@ -5738,31 +5738,31 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rất tốt \n 🔍Chất lượng:chuẩn oki la\n 🎨Thiết kế:đẹp mắt dễ thương \n 🛡️Độ bền:chắc chắn \n xinh xẻo rất dễ thương nên muaa ạ ❤️ ",
+    "reviewContent": "Giá cả:rất tốt \n Chất lượng:chuẩn oki la\n Thiết kế:đẹp mắt dễ thương \n ️Độ bền:chắc chắn \n xinh xẻo rất dễ thương nên muaa ạ ️ ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rất tốt",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "chuẩn oki la",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp mắt dễ thương",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chắc chắn",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "xinh xẻo rất dễ thương nên muaa ạ ❤️",
+        "content": "xinh xẻo rất dễ thương nên muaa ạ ️",
         "selected": null
       }
     ],
@@ -7086,7 +7086,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo cho hồ bơi hoặc bãi biển, Vật liệu an toàn và không độc hại, Hình dạng cá voi thêm phần thú vị, Rùa bơi dễ thương, \n 🔍Chất lượng:  ok ",
+    "reviewContent": "Hoàn hảo cho hồ bơi hoặc bãi biển, Vật liệu an toàn và không độc hại, Hình dạng cá voi thêm phần thú vị, Rùa bơi dễ thương, \n Chất lượng:  ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7094,7 +7094,7 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ok",
         "selected": null
       }
@@ -7763,11 +7763,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vật liệu an toàn và không độc hại, Lý tưởng cho việc tắm cho bé, Độ bám tốt cho trẻ nhỏ, Thiết kế dễ thương và vui nhộn, ❤❤❤ ",
+    "reviewContent": "Vật liệu an toàn và không độc hại, Lý tưởng cho việc tắm cho bé, Độ bám tốt cho trẻ nhỏ, Thiết kế dễ thương và vui nhộn,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Vật liệu an toàn và không độc hại, Lý tưởng cho việc tắm cho bé, Độ bám tốt cho trẻ nhỏ, Thiết kế dễ thương và vui nhộn, ❤❤❤",
+        "content": "Vật liệu an toàn và không độc hại, Lý tưởng cho việc tắm cho bé, Độ bám tốt cho trẻ nhỏ, Thiết kế dễ thương và vui nhộn, ",
         "selected": null
       }
     ],
@@ -7908,25 +7908,25 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:Hình cá mập vặn cot có thể bơi trong nước\n 🔍Chất lượng:tốt\n 🛡️Độ bền:cao\n 💲Giá cả:tốt trong tầm giá.\n Shop giao hàng đầy đủ, giao hàng nhanh, đóng gói cẩn thận.\nSản phẩm giống như mô tả. ",
+    "reviewContent": "Thiết kế:Hình cá mập vặn cot có thể bơi trong nước\n Chất lượng:tốt\n ️Độ bền:cao\n Giá cả:tốt trong tầm giá.\n Shop giao hàng đầy đủ, giao hàng nhanh, đóng gói cẩn thận.\nSản phẩm giống như mô tả. ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Hình cá mập vặn cot có thể bơi trong nước",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tốt trong tầm giá.",
         "selected": null
       },
@@ -8798,30 +8798,30 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  giá tốt ạ cám ơn shop 🔍Chất lượng:   Giá ổn rất chât luonge 🎨Thiết kế:  rất phù hợp cho học sinh 🛡️Độ bền:  rất chắn chắn 🧵Chất lượng vật liệu:  nhựa ppf và phù hợp cho em bé ",
+    "reviewContent": "Giá cả:  giá tốt ạ cám ơn shop Chất lượng:   Giá ổn rất chât luonge Thiết kế:  rất phù hợp cho học sinh ️Độ bền:  rất chắn chắn Chất lượng vật liệu:  nhựa ppf và phù hợp cho em bé ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá tốt ạ cám ơn shop",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Giá ổn rất chât luonge",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "rất phù hợp cho học sinh",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "rất chắn chắn",
         "selected": null
       },
       {
-        "attribute": "🧵Material Quality",
+        "attribute": "Material Quality",
         "content": "nhựa ppf và phù hợp cho em bé",
         "selected": null
       }

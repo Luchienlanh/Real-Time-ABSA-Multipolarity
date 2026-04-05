@@ -491,11 +491,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đã dặn kỹ (3 lần) là lấy màu đen và dây điện 2 chấu, vậy mà giao màu hồng và dây 3 chấu! Bó tay! Nhân viên của shop quá tệ!!! 👎 ",
+    "reviewContent": "Đã dặn kỹ (3 lần) là lấy màu đen và dây điện 2 chấu, vậy mà giao màu hồng và dây 3 chấu! Bó tay! Nhân viên của shop quá tệ!!!  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Đã dặn kỹ (3 lần) là lấy màu đen và dây điện 2 chấu, vậy mà giao màu hồng và dây 3 chấu! Bó tay! Nhân viên của shop quá tệ!!! 👎",
+        "content": "Đã dặn kỹ (3 lần) là lấy màu đen và dây điện 2 chấu, vậy mà giao màu hồng và dây 3 chấu! Bó tay! Nhân viên của shop quá tệ!!! ",
         "selected": null
       }
     ],
@@ -1104,10 +1104,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:quá nhỏ\n ",
+    "reviewContent": "Dung lượng:quá nhỏ\n ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "quá nhỏ",
         "selected": null
       }
@@ -1783,11 +1783,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mình  nghĩ không tới 1l2 đâu rất nhỏ, nhưng cũng xinh , nấu 1 lần cho 1 người ăn thì đủ. Lúc mua mình không để ý là chui ghim 3 càng nhà mình thì đa ổ ghim thường, mình không gắn thêm ổ nên đành bỏ ẻm vô thùng vậy 😁 ",
+    "reviewContent": "mình  nghĩ không tới 1l2 đâu rất nhỏ, nhưng cũng xinh , nấu 1 lần cho 1 người ăn thì đủ. Lúc mua mình không để ý là chui ghim 3 càng nhà mình thì đa ổ ghim thường, mình không gắn thêm ổ nên đành bỏ ẻm vô thùng vậy  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mình  nghĩ không tới 1l2 đâu rất nhỏ, nhưng cũng xinh , nấu 1 lần cho 1 người ăn thì đủ. Lúc mua mình không để ý là chui ghim 3 càng nhà mình thì đa ổ ghim thường, mình không gắn thêm ổ nên đành bỏ ẻm vô thùng vậy 😁",
+        "content": "mình  nghĩ không tới 1l2 đâu rất nhỏ, nhưng cũng xinh , nấu 1 lần cho 1 người ăn thì đủ. Lúc mua mình không để ý là chui ghim 3 càng nhà mình thì đa ổ ghim thường, mình không gắn thêm ổ nên đành bỏ ẻm vô thùng vậy ",
         "selected": null
       }
     ],
@@ -2001,10 +2001,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:0k ",
+    "reviewContent": "Dễ sử dụng:0k ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "0k",
         "selected": null
       }
@@ -2732,7 +2732,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đã bao gồm bảo hành 1 năm, Phù hợp nấu súp, \n 💲Giá cả:giá rẻ cho 1 spham này^^\n 👌Dễ sử dụng:dễ sdung\n 🔋Dung lượng:1.2 người ăn là đc \n hình ảnh và video chỉ mang tính chất nhận xu. chứ spham đáng để mua lắm nha mnguoi ^^ ",
+    "reviewContent": "Đã bao gồm bảo hành 1 năm, Phù hợp nấu súp, \n Giá cả:giá rẻ cho 1 spham này^^\n Dễ sử dụng:dễ sdung\n Dung lượng:1.2 người ăn là đc \n hình ảnh và video chỉ mang tính chất nhận xu. chứ spham đáng để mua lắm nha mnguoi ^^ ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2740,17 +2740,17 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá rẻ cho 1 spham này^^",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "dễ sdung",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "1.2 người ăn là đc",
         "selected": null
       },
@@ -3159,15 +3159,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:sử dụng tiện lợi, nhỏ gọn, dễ thương, đẹp\n 🔋Dung lượng:đúng như quảng cáo ",
+    "reviewContent": "Dễ sử dụng:sử dụng tiện lợi, nhỏ gọn, dễ thương, đẹp\n Dung lượng:đúng như quảng cáo ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "sử dụng tiện lợi, nhỏ gọn, dễ thương, đẹp",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "đúng như quảng cáo",
         "selected": null
       }
@@ -3339,10 +3339,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  hợp lý  Chất lượng tốt, đã nấu cơm rất ngon \n 👌Dễ sử dụng:  dễ dàng ko phức tạp 🔋Dung lượng:  vừa cho 1-2 người  Màu sắc rất đẹp, sang trọng  ",
+    "reviewContent": "Giá cả:  hợp lý  Chất lượng tốt, đã nấu cơm rất ngon \n Dễ sử dụng:  dễ dàng ko phức tạp Dung lượng:  vừa cho 1-2 người  Màu sắc rất đẹp, sang trọng  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý",
         "selected": null
       },
@@ -3352,12 +3352,12 @@
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "dễ dàng ko phức tạp",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "vừa cho 1-2 người",
         "selected": null
       },
@@ -3534,21 +3534,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:mua đc giá khuyến mãi rất là ok, nhìn là thích liền, giao hàng nhanh, đúng mẫu\n 👌Dễ sử dụng:mới nhận chưa sử dụng nên chưa biết \n 🔋Dung lượng:nhỏ nhỏ xinh xinh thích hợp 1,2 người ăn 👌👌👌👌 ",
+    "reviewContent": "Giá cả:mua đc giá khuyến mãi rất là ok, nhìn là thích liền, giao hàng nhanh, đúng mẫu\n Dễ sử dụng:mới nhận chưa sử dụng nên chưa biết \n Dung lượng:nhỏ nhỏ xinh xinh thích hợp 1,2 người ăn  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "mua đc giá khuyến mãi rất là ok, nhìn là thích liền, giao hàng nhanh, đúng mẫu",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "mới nhận chưa sử dụng nên chưa biết",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
-        "content": "nhỏ nhỏ xinh xinh thích hợp 1,2 người ăn 👌👌👌👌",
+        "attribute": "Capacity",
+        "content": "nhỏ nhỏ xinh xinh thích hợp 1,2 người ăn ",
         "selected": null
       }
     ],
@@ -3683,20 +3683,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:giá thành sản phẩm rất rẻ \n 👌Dễ sử dụng:rất tiện dụng và ăn toan\n 🔋Dung lượng:nhỏ gọn vừa cho 2 người  ",
+    "reviewContent": "Giá cả:giá thành sản phẩm rất rẻ \n Dễ sử dụng:rất tiện dụng và ăn toan\n Dung lượng:nhỏ gọn vừa cho 2 người  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá thành sản phẩm rất rẻ",
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "rất tiện dụng và ăn toan",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "nhỏ gọn vừa cho 2 người",
         "selected": null
       }
@@ -5026,11 +5026,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vật liệu nồi đa lớp, Phù hợp nấu súp, nhưng giao màu trắng không như quảng cáo trên Lazada là màu đen. Thôi đành lòng tạm thời chấp nhận. Phải khoét xốp để làm đế nồi 🌉🤠👉💪🌈💘💫💪💯🌟🌟🌟🌟 ",
+    "reviewContent": "Vật liệu nồi đa lớp, Phù hợp nấu súp, nhưng giao màu trắng không như quảng cáo trên Lazada là màu đen. Thôi đành lòng tạm thời chấp nhận. Phải khoét xốp để làm đế nồi  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Vật liệu nồi đa lớp, Phù hợp nấu súp, nhưng giao màu trắng không như quảng cáo trên Lazada là màu đen. Thôi đành lòng tạm thời chấp nhận. Phải khoét xốp để làm đế nồi 🌉🤠👉💪🌈💘💫💪💯🌟🌟🌟🌟",
+        "content": "Vật liệu nồi đa lớp, Phù hợp nấu súp, nhưng giao màu trắng không như quảng cáo trên Lazada là màu đen. Thôi đành lòng tạm thời chấp nhận. Phải khoét xốp để làm đế nồi ",
         "selected": null
       }
     ],
@@ -5376,7 +5376,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thiết kế gọn nhẹ tiết kiệm không gian, Nắp gỡ được truyền thống, \n 👌Dễ sử dụng:  ai ăn ít như mình thì nên mư nha ",
+    "reviewContent": "Thiết kế gọn nhẹ tiết kiệm không gian, Nắp gỡ được truyền thống, \n Dễ sử dụng:  ai ăn ít như mình thì nên mư nha ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5384,7 +5384,7 @@
         "selected": null
       },
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "ai ăn ít như mình thì nên mư nha",
         "selected": null
       }
@@ -5685,10 +5685,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:  dễ xài nấu cơm ngon; thích hợp sống độc thân chuẩn bị cơm đồ ăn cho cả ngày đi làm.  ",
+    "reviewContent": "Dễ sử dụng:  dễ xài nấu cơm ngon; thích hợp sống độc thân chuẩn bị cơm đồ ăn cho cả ngày đi làm.  ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "dễ xài nấu cơm ngon; thích hợp sống độc thân chuẩn bị cơm đồ ăn cho cả ngày đi làm.",
         "selected": null
       }
@@ -6468,15 +6468,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Phù hợp \n 🔋Dung lượng:1l, Nắp gỡ được dễ dàng vệ sinh, Phù hợp cho người dùng đơn lẻ,  ",
+    "reviewContent": "Giá cả:Phù hợp \n Dung lượng:1l, Nắp gỡ được dễ dàng vệ sinh, Phù hợp cho người dùng đơn lẻ,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Phù hợp",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "1l, Nắp gỡ được dễ dàng vệ sinh, Phù hợp cho người dùng đơn lẻ,",
         "selected": null
       }
@@ -6625,7 +6625,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tiêu thụ điện thấp, Phù hợp cho người dùng đơn lẻ, Vật liệu nồi đa lớp, Vật liệu nồi đa lớp, \n 🔋Dung lượng:nồi nhỏ cho 1 người ăn\n 💲Giá cả:ok ",
+    "reviewContent": "Tiêu thụ điện thấp, Phù hợp cho người dùng đơn lẻ, Vật liệu nồi đa lớp, Vật liệu nồi đa lớp, \n Dung lượng:nồi nhỏ cho 1 người ăn\n Giá cả:ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6633,12 +6633,12 @@
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "nồi nhỏ cho 1 người ăn",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       }
@@ -7266,10 +7266,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌Dễ sử dụng:Vật liệu nồi đa lớp, Tiêu thụ điện thấp, Tính năng điều khiển thông minh,  ",
+    "reviewContent": "Dễ sử dụng:Vật liệu nồi đa lớp, Tiêu thụ điện thấp, Tính năng điều khiển thông minh,  ",
     "reviewContentList": [
       {
-        "attribute": "👌Ease of Use",
+        "attribute": "Ease of Use",
         "content": "Vật liệu nồi đa lớp, Tiêu thụ điện thấp, Tính năng điều khiển thông minh,",
         "selected": null
       }

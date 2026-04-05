@@ -1034,11 +1034,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Mua đen thỳ gửi trắng\n😒😒😒😒 ",
+    "reviewContent": "Mua đen thỳ gửi trắng\n ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Mua đen thỳ gửi trắng\n😒😒😒😒",
+        "content": "Mua đen thỳ gửi trắng\n",
         "selected": null
       }
     ],
@@ -1288,10 +1288,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:okThiết kế chống nước cho các hoạt động ngoài trời, Thiết kế phong cách có sẵn trong màu đen và trắng,  ",
+    "reviewContent": "Chất lượng âm thanh:okThiết kế chống nước cho các hoạt động ngoài trời, Thiết kế phong cách có sẵn trong màu đen và trắng,  ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "okThiết kế chống nước cho các hoạt động ngoài trời, Thiết kế phong cách có sẵn trong màu đen và trắng,",
         "selected": null
       }
@@ -1894,20 +1894,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Sound Quality:  4/5  😌Comfort:  5/5 🔋Battery Life:  4/5 ",
+    "reviewContent": "Sound Quality:  4/5  Comfort:  5/5 Battery Life:  4/5 ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "4/5",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "5/5",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "4/5",
         "selected": null
       }
@@ -2344,15 +2344,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:  đẹp và sắc nét. Hơi móp méo do vận chuyển nhưng chất lượng không ảnh hưởng. 🎤Chất lượng âm thanh:  tốt trong tầm giá. Thiết kế đẹp. ",
+    "reviewContent": "Thoải mái:  đẹp và sắc nét. Hơi móp méo do vận chuyển nhưng chất lượng không ảnh hưởng. Chất lượng âm thanh:  tốt trong tầm giá. Thiết kế đẹp. ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "đẹp và sắc nét. Hơi móp méo do vận chuyển nhưng chất lượng không ảnh hưởng.",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt trong tầm giá. Thiết kế đẹp.",
         "selected": null
       }
@@ -2675,20 +2675,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:  Vừa vặn thoải mái cho cả ngày,  🎤Chất lượng âm thanh:  Chất lượng cuộc gọi rõ ràng cho giao tiếp liền mạch,  🔋Thời lượng pin:  dánh giá sau quá trình sử dụng ",
+    "reviewContent": "Thoải mái:  Vừa vặn thoải mái cho cả ngày,  Chất lượng âm thanh:  Chất lượng cuộc gọi rõ ràng cho giao tiếp liền mạch,  Thời lượng pin:  dánh giá sau quá trình sử dụng ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Vừa vặn thoải mái cho cả ngày,",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Chất lượng cuộc gọi rõ ràng cho giao tiếp liền mạch,",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "dánh giá sau quá trình sử dụng",
         "selected": null
       }
@@ -3011,7 +3011,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tuổi thọ pin dài cho thời gian sử dụng kéo dài., \n 🎤Chất lượng âm thanh:  Chất lượng âm thanh trong trẻo,  😌Thoải mái:  tại nghe dễ chịu ",
+    "reviewContent": "Tuổi thọ pin dài cho thời gian sử dụng kéo dài., \n Chất lượng âm thanh:  Chất lượng âm thanh trong trẻo,  Thoải mái:  tại nghe dễ chịu ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3019,12 +3019,12 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Chất lượng âm thanh trong trẻo,",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tại nghe dễ chịu",
         "selected": null
       }
@@ -3370,20 +3370,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  trâu bò 😌Thoải mái:  cũng đc 🎤Chất lượng âm thanh:  ổn Đã tùng xài thử của người thân rồi mới mua cũng ổn ",
+    "reviewContent": "Thời lượng pin:  trâu bò Thoải mái:  cũng đc Chất lượng âm thanh:  ổn Đã tùng xài thử của người thân rồi mới mua cũng ổn ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "trâu bò",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "cũng đc",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ổn",
         "selected": null
       },
@@ -3560,10 +3560,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:nghe rất ấm, bass nghe rất phê ",
+    "reviewContent": "Chất lượng âm thanh:nghe rất ấm, bass nghe rất phê ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "nghe rất ấm, bass nghe rất phê",
         "selected": null
       }
@@ -3886,20 +3886,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:sử dụng dài\n 😌Thoải mái:Vừa vặn thoải mái cho cả ngày, \n 🎤Chất lượng âm thanh:Chất lượng âm thanh trong trẻo,  ",
+    "reviewContent": "Thời lượng pin:sử dụng dài\n Thoải mái:Vừa vặn thoải mái cho cả ngày, \n Chất lượng âm thanh:Chất lượng âm thanh trong trẻo,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "sử dụng dài",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Vừa vặn thoải mái cho cả ngày,",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Chất lượng âm thanh trong trẻo,",
         "selected": null
       }
@@ -4792,20 +4792,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:cao\n 😌Thoải mái:ổn\n 🎤Chất lượng âm thanh:tốtDễ sử dụng với điều khiển cảm ứng, Vật liệu chất lượng cao để bền,  ",
+    "reviewContent": "Thời lượng pin:cao\n Thoải mái:ổn\n Chất lượng âm thanh:tốtDễ sử dụng với điều khiển cảm ứng, Vật liệu chất lượng cao để bền,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốtDễ sử dụng với điều khiển cảm ứng, Vật liệu chất lượng cao để bền,",
         "selected": null
       }
@@ -6345,20 +6345,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin: tốt 😌Thoải mái: sài rất ngon và bền 🎤Chất lượng âm thanh: tuyệt vời Thiết kế phong cách có sẵn trong màu đen và trắng,  ",
+    "reviewContent": "Thời lượng pin: tốt Thoải mái: sài rất ngon và bền Chất lượng âm thanh: tuyệt vời Thiết kế phong cách có sẵn trong màu đen và trắng,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "sài rất ngon và bền",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tuyệt vời",
         "selected": null
       },
@@ -6664,7 +6664,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng cuộc gọi rõ ràng cho giao tiếp liền mạch, Thiết kế chống nước cho các hoạt động ngoài trời, \n  \n 🎤Chất lượng âm thanh:  ok tốt lắm ",
+    "reviewContent": "Chất lượng cuộc gọi rõ ràng cho giao tiếp liền mạch, Thiết kế chống nước cho các hoạt động ngoài trời, \n  \n Chất lượng âm thanh:  ok tốt lắm ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6672,7 +6672,7 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ok tốt lắm",
         "selected": null
       }

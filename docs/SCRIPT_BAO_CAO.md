@@ -1,4 +1,4 @@
-# 📜 SCRIPT BÁO CÁO ĐỒ ÁN MÔN HỌC SE363
+#  SCRIPT BÁO CÁO ĐỒ ÁN MÔN HỌC SE363
 
 ## **HỆ THỐNG PHÂN TÍCH CẢM XÚC THEO KHÍA CẠNH THỜI GIAN THỰC CHO ĐÁNH GIÁ THƯƠNG MẠI ĐIỆN TỬ**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎤 PHẦN MỞ ĐẦU (Slide 1-3) - Khoảng 2 phút
+##  PHẦN MỞ ĐẦU (Slide 1-3) - Khoảng 2 phút
 
 ### Slide 1: Giới thiệu
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📌 CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI (Slide 4-8) - Khoảng 4 phút
+##  CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI (Slide 4-8) - Khoảng 4 phút
 
 ### Slide 4: Đặt vấn đề
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 📚 CHƯƠNG 2: CƠ SỞ LÝ THUYẾT (Slide 9-16) - Khoảng 5 phút
+##  CHƯƠNG 2: CƠ SỞ LÝ THUYẾT (Slide 9-16) - Khoảng 5 phút
 
 ### Slide 9: Aspect-Based Sentiment Analysis (ABSA)
 
@@ -137,7 +137,7 @@
 
 ---
 
-## 🏗️ CHƯƠNG 3: THIẾT KẾ HỆ THỐNG (Slide 17-22) - Khoảng 4 phút
+## ️ CHƯƠNG 3: THIẾT KẾ HỆ THỐNG (Slide 17-22) - Khoảng 4 phút
 
 ### Slide 17-18: Kiến trúc tổng thể
 
@@ -173,7 +173,7 @@
 
 ---
 
-## 💻 CHƯƠNG 4: CHI TIẾT HIỆN THỰC (Slide 23-38) - Khoảng 8 phút
+##  CHƯƠNG 4: CHI TIẾT HIỆN THỰC (Slide 23-38) - Khoảng 8 phút
 
 > "Đây là chương **trọng tâm** mô tả các kỹ thuật chuyên sâu mà nhóm đã áp dụng."
 
@@ -263,7 +263,7 @@
 
 ---
 
-#### 🔴 Vấn đề với các hệ thống truyền thống
+####  Vấn đề với các hệ thống truyền thống
 
 > "Các hệ thống ABSA truyền thống sử dụng **Single-label Classification** cho sentiment - tức mỗi khía cạnh chỉ có **DUY NHẤT một nhãn**: Positive, Negative, hoặc Neutral.
 >
@@ -279,7 +279,7 @@
 
 ---
 
-#### 🟢 Giải pháp: Multi-Polarity Classification
+####  Giải pháp: Multi-Polarity Classification
 
 > "Nhóm em đề xuất chuyển bài toán Sentiment Classification từ **Multi-class** (chọn 1 trong 3) sang **Multi-label** (có thể chọn nhiều cùng lúc).
 >
@@ -287,11 +287,11 @@
 >
 > | Giá trị   | Ý nghĩa                                 |
 > | --------- | --------------------------------------- |
-> | `1`       | 😊 Tích cực (Positive)                  |
-> | `0`       | 😐 Trung lập (Neutral)                  |
-> | `-1`      | 😞 Tiêu cực (Negative)                  |
-> | `2`       | ❌ Không nhắc đến                       |
-> | `[-1, 1]` | 🔀 **ĐA CỰC**: Vừa tiêu cực VÀ tích cực |
+> | `1`       |  Tích cực (Positive)                  |
+> | `0`       |  Trung lập (Neutral)                  |
+> | `-1`      |  Tiêu cực (Negative)                  |
+> | `2`       |  Không nhắc đến                       |
+> | `[-1, 1]` |  **ĐA CỰC**: Vừa tiêu cực VÀ tích cực |
 >
 > Ví dụ với câu _'Áo đẹp nhưng vải hơi mỏng'_:
 >
@@ -299,7 +299,7 @@
 
 ---
 
-#### 🏗️ Kiến trúc mô hình Multi-Polarity
+#### ️ Kiến trúc mô hình Multi-Polarity
 
 > "Mô hình được thiết kế theo kiến trúc **Multi-Task Learning** với **Hard Parameter Sharing**:
 >
@@ -332,7 +332,7 @@
 
 ---
 
-#### 📐 Loss Function
+####  Loss Function
 
 > "Loss Function tổng hợp cho Multi-Task Learning:
 >
@@ -358,7 +358,7 @@
 
 ---
 
-#### 📊 Minh họa với ví dụ cụ thể
+####  Minh họa với ví dụ cụ thể
 
 > "**Ví dụ chi tiết với review thực tế:**
 >
@@ -368,25 +368,25 @@
 >
 > | Khía cạnh           | Mention                           |
 > | ------------------- | --------------------------------- |
-> | Chất lượng sản phẩm | ✅ 1 (có nhắc: áo đẹp, vải mỏng)  |
-> | Vận chuyển          | ✅ 1 (có nhắc: ship nhanh)        |
-> | Đóng gói            | ✅ 1 (có nhắc: đóng gói cẩn thận) |
-> | Giá cả              | ❌ 0                              |
-> | ...                 | ❌ 0                              |
+> | Chất lượng sản phẩm |  1 (có nhắc: áo đẹp, vải mỏng)  |
+> | Vận chuyển          |  1 (có nhắc: ship nhanh)        |
+> | Đóng gói            |  1 (có nhắc: đóng gói cẩn thận) |
+> | Giá cả              |  0                              |
+> | ...                 |  0                              |
 >
 > **Bước 2 - Sentiment Classification:** (cảm xúc là gì?)
 >
 > | Khía cạnh  | NEG         | POS        | NEU  | Kết quả                     |
 > | ---------- | ----------- | ---------- | ---- | --------------------------- |
-> | Chất lượng | ✅ 1 (mỏng) | ✅ 1 (đẹp) | ❌ 0 | **[-1, 1]** Multi-polarity! |
-> | Vận chuyển | ❌ 0        | ✅ 1       | ❌ 0 | **1** (Positive)            |
-> | Đóng gói   | ❌ 0        | ✅ 1       | ❌ 0 | **1** (Positive)            |
+> | Chất lượng |  1 (mỏng) |  1 (đẹp) |  0 | **[-1, 1]** Multi-polarity! |
+> | Vận chuyển |  0        |  1       |  0 | **1** (Positive)            |
+> | Đóng gói   |  0        |  1       |  0 | **1** (Positive)            |
 >
 > Như vậy, hệ thống **KHÔNG mất thông tin** rằng khách hàng vừa thích (đẹp) vừa không thích (mỏng) về chất lượng!"
 
 ---
 
-#### 🎯 Ý nghĩa thực tiễn
+####  Ý nghĩa thực tiễn
 
 > "**Tại sao Multi-Polarity quan trọng cho E-commerce?**
 >
@@ -419,7 +419,7 @@
 
 ---
 
-## 📊 CHƯƠNG 5: THỰC NGHIỆM VÀ ĐÁNH GIÁ (Slide 39-45) - Khoảng 4 phút
+##  CHƯƠNG 5: THỰC NGHIỆM VÀ ĐÁNH GIÁ (Slide 39-45) - Khoảng 4 phút
 
 ### Slide 39: Mô tả tập dữ liệu
 
@@ -471,7 +471,7 @@
 
 ---
 
-## 🎯 CHƯƠNG 6: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN (Slide 46-48) - Khoảng 2 phút
+##  CHƯƠNG 6: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN (Slide 46-48) - Khoảng 2 phút
 
 ### Slide 46: Kết luận
 
@@ -497,7 +497,7 @@
 
 ---
 
-## ❓ CÂU HỎI DỰ KIẾN VÀ TRẢ LỜI
+##  CÂU HỎI DỰ KIẾN VÀ TRẢ LỜI
 
 ### Q1: Tại sao chọn PhoBERT thay vì các mô hình khác?
 
@@ -525,7 +525,7 @@
 
 ---
 
-## 📝 LƯU Ý KHI BÁO CÁO
+##  LƯU Ý KHI BÁO CÁO
 
 1. **Thời gian**: Ước tính tổng ~25-30 phút. Điều chỉnh tốc độ tùy theo thời gian cho phép.
 
@@ -541,4 +541,4 @@
 
 ---
 
-**Chúc nhóm báo cáo thành công! 🎉**
+**Chúc nhóm báo cáo thành công! **

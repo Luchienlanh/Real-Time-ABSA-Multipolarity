@@ -28,7 +28,7 @@ class OllamaPredictor:
              self.api_base = "http://localhost:11434"
              
         self.api_url = f"{self.api_base}/api/generate"
-        print(f"🤖 Ollama initialized with model: {model_name} at {self.api_base}")
+        print(f" Ollama initialized with model: {model_name} at {self.api_base}")
 
     def _construct_prompt(self, text: str) -> str:
         aspects_str = ", ".join([f'"{a}"' for a in ASPECTS])
@@ -63,10 +63,10 @@ class OllamaPredictor:
                 raw_response = result.get("response", "")
                 return self._parse_response(raw_response)
             else:
-                print(f"❌ Ollama API Error: {response.status_code} - {response.text}")
+                print(f" Ollama API Error: {response.status_code} - {response.text}")
                 return {a: None for a in ASPECTS}
         except Exception as e:
-            print(f"❌ Ollama Connection Error: {e}")
+            print(f" Ollama Connection Error: {e}")
             # Fallback behavior?
             return {a: None for a in ASPECTS}
 

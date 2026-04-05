@@ -1260,11 +1260,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "hàng rẻ nên k bình phẩm gì thêm 😉😉😉😉😉😉😉😉😉😉😉😉😉😉😉 ",
+    "reviewContent": "hàng rẻ nên k bình phẩm gì thêm  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "hàng rẻ nên k bình phẩm gì thêm 😉😉😉😉😉😉😉😉😉😉😉😉😉😉😉",
+        "content": "hàng rẻ nên k bình phẩm gì thêm ",
         "selected": null
       }
     ],
@@ -2048,31 +2048,31 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Design:Good\n 🛡Durability:Good\n Price: Ok\nWell Packaged 📦\n 😌Comfort:Good\n Delivery from China 🇨🇳\n ",
+    "reviewContent": "Design:Good\n Durability:Good\n Price: Ok\nWell Packaged \n Comfort:Good\n Delivery from China \n ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Good",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
-        "content": "Good",
-        "selected": null
-      },
-      {
-        "attribute": "",
-        "content": "Price: Ok\nWell Packaged 📦",
-        "selected": null
-      },
-      {
-        "attribute": "😌Comfort",
+        "attribute": "Durability",
         "content": "Good",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "Delivery from China 🇨🇳",
+        "content": "Price: Ok\nWell Packaged ",
+        "selected": null
+      },
+      {
+        "attribute": "Comfort",
+        "content": "Good",
+        "selected": null
+      },
+      {
+        "attribute": "",
+        "content": "Delivery from China ",
         "selected": null
       }
     ],
@@ -3914,20 +3914,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:đẹp chắc chắn \n 🛡Độ bền:chờ thời thời gian \n 😌Thoải mái:mềm mại, thời gian, chưa biết chờ thời thời gian Phong cách  ",
+    "reviewContent": "Thiết kế:đẹp chắc chắn \n Độ bền:chờ thời thời gian \n Thoải mái:mềm mại, thời gian, chưa biết chờ thời thời gian Phong cách  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp chắc chắn",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chờ thời thời gian",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "mềm mại, thời gian, chưa biết chờ thời thời gian Phong cách",
         "selected": null
       }
@@ -4069,20 +4069,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:chắc chắn, chống thấm nực....\n 😌Thoải mái:hữu dụng tiện ích......\n 🎨Thiết kế:khá đẹp, thời trang ",
+    "reviewContent": "Độ bền:chắc chắn, chống thấm nực....\n Thoải mái:hữu dụng tiện ích......\n Thiết kế:khá đẹp, thời trang ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chắc chắn, chống thấm nực....",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "hữu dụng tiện ích......",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "khá đẹp, thời trang",
         "selected": null
       }
@@ -4293,7 +4293,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng: toit Kiểu dáng: dep Giá Cả: hop lý Độ bền: cần theo dõi theo thời gian Sự thoải mái: chuẩn 🎨Thiết kế: đẹpTúi ngực êm ái, Thiết kế chống thấm nước, ",
+    "reviewContent": "Chất lượng: toit Kiểu dáng: dep Giá Cả: hop lý Độ bền: cần theo dõi theo thời gian Sự thoải mái: chuẩn Thiết kế: đẹpTúi ngực êm ái, Thiết kế chống thấm nước, ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -4321,7 +4321,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹpTúi ngực êm ái, Thiết kế chống thấm nước,",
         "selected": null
       }
@@ -4463,7 +4463,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Phong cách đường phố hiện đại, Vải Oxford bền bỉ, Túi đa năng tiện lợi, \n Chất lượng:  ok Kiểu dáng:  ok Giá Cả:  ok Độ bền:  ok Sự thoải mái:  ok 😌Thoải mái:  ok 🛡️Độ bền:  ok 🛡Độ bền:  ok 🎨Thiết kế:  ok ",
+    "reviewContent": "Phong cách đường phố hiện đại, Vải Oxford bền bỉ, Túi đa năng tiện lợi, \n Chất lượng:  ok Kiểu dáng:  ok Giá Cả:  ok Độ bền:  ok Sự thoải mái:  ok Thoải mái:  ok ️Độ bền:  ok Độ bền:  ok Thiết kế:  ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4496,22 +4496,22 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       }
@@ -5396,7 +5396,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:  tậm ổn Kiểu dáng:  không ý kiến Giá Cả:  phải chăng Độ bền:  chưa sủ dụng Sự thoải mái:  đánh giá cao 🎨Thiết kế:  đẹp 💾Dung lượng lưu trữ:  như quảng cáo ",
+    "reviewContent": "Chất lượng:  tậm ổn Kiểu dáng:  không ý kiến Giá Cả:  phải chăng Độ bền:  chưa sủ dụng Sự thoải mái:  đánh giá cao Thiết kế:  đẹp Dung lượng lưu trữ:  như quảng cáo ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -5424,12 +5424,12 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "💾Storage Capacity",
+        "attribute": "Storage Capacity",
         "content": "như quảng cáo",
         "selected": null
       }
@@ -5560,7 +5560,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:ok\n Kiểu dáng:ok\n Giá Cả:ok\n Độ bền:ok\n Sự thoải mái:ok\n 🎨Thiết kế:ok\n 🛡 Độ bền:ok\n 🛡️ Độ bền:ok\n 😌Thoải mái:ok ",
+    "reviewContent": "Chất lượng:ok\n Kiểu dáng:ok\n Giá Cả:ok\n Độ bền:ok\n Sự thoải mái:ok\n Thiết kế:ok\n  Độ bền:ok\n ️ Độ bền:ok\n Thoải mái:ok ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -5588,13 +5588,13 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "🛡",
+        "content": "",
         "selected": null
       },
       {
@@ -5604,7 +5604,7 @@
       },
       {
         "attribute": "",
-        "content": "🛡️",
+        "content": "️",
         "selected": null
       },
       {
@@ -5613,7 +5613,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       }
@@ -6841,11 +6841,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "giao hàng tầm 5ngày đúng mẫu đúng màu rất đẹp thk shop vs NV Lazada nhìu nhìu nhìu nhìu 🥰 ",
+    "reviewContent": "giao hàng tầm 5ngày đúng mẫu đúng màu rất đẹp thk shop vs NV Lazada nhìu nhìu nhìu nhìu  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "giao hàng tầm 5ngày đúng mẫu đúng màu rất đẹp thk shop vs NV Lazada nhìu nhìu nhìu nhìu 🥰",
+        "content": "giao hàng tầm 5ngày đúng mẫu đúng màu rất đẹp thk shop vs NV Lazada nhìu nhìu nhìu nhìu ",
         "selected": null
       }
     ],
@@ -7567,7 +7567,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giao hàng đúng hẹn. Đóng gói cẩn thận. Chất lượng sản phẩm rất tuyệt vời. \n 🎨Thiết kế:Đẹp, thời trang và tiện dụng. \n 🛡Độ bền:Chất liệu vải chống thấm, rất bền.\n 😌Thoải mái:Thoải mái sử dụng lâu dài  ",
+    "reviewContent": "Giao hàng đúng hẹn. Đóng gói cẩn thận. Chất lượng sản phẩm rất tuyệt vời. \n Thiết kế:Đẹp, thời trang và tiện dụng. \n Độ bền:Chất liệu vải chống thấm, rất bền.\n Thoải mái:Thoải mái sử dụng lâu dài  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7575,17 +7575,17 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Đẹp, thời trang và tiện dụng.",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Chất liệu vải chống thấm, rất bền.",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Thoải mái sử dụng lâu dài",
         "selected": null
       }
@@ -7988,21 +7988,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:sáng tạo sang trọng tôi ưng ý \n 🛡Độ bền:tốt nhất cho người dùng. tùy theo từng bước một mình dùng ạ 😁 \n 😌Thoải mái:tốt nhất cho người dùng không thể thiếu khi đi du lịch ạ 😁 OK rất đẹp ạ cảm ơn  ",
+    "reviewContent": "Thiết kế:sáng tạo sang trọng tôi ưng ý \n Độ bền:tốt nhất cho người dùng. tùy theo từng bước một mình dùng ạ  \n Thoải mái:tốt nhất cho người dùng không thể thiếu khi đi du lịch ạ  OK rất đẹp ạ cảm ơn  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "sáng tạo sang trọng tôi ưng ý",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
-        "content": "tốt nhất cho người dùng. tùy theo từng bước một mình dùng ạ 😁",
+        "attribute": "Durability",
+        "content": "tốt nhất cho người dùng. tùy theo từng bước một mình dùng ạ ",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
-        "content": "tốt nhất cho người dùng không thể thiếu khi đi du lịch ạ 😁 OK rất đẹp ạ cảm ơn",
+        "attribute": "Comfort",
+        "content": "tốt nhất cho người dùng không thể thiếu khi đi du lịch ạ  OK rất đẹp ạ cảm ơn",
         "selected": null
       }
     ],
@@ -8178,20 +8178,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:chuẩn \n 🛡Độ bền:hi vọng dùng dài lâu ( k như loại 3 , 4 chục k )\n 😌Thoải mái:rất nhiều túi đựng được nhiều thứ \n hài lòng lòng với sản phẩm này  ",
+    "reviewContent": "Thiết kế:chuẩn \n Độ bền:hi vọng dùng dài lâu ( k như loại 3 , 4 chục k )\n Thoải mái:rất nhiều túi đựng được nhiều thứ \n hài lòng lòng với sản phẩm này  ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "chuẩn",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "hi vọng dùng dài lâu ( k như loại 3 , 4 chục k )",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "rất nhiều túi đựng được nhiều thứ",
         "selected": null
       },

@@ -3011,7 +3011,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:ngon lành cành đào\n Giá Cả:okela\n 📦Bao bì:20 phong tất cả. Sản phẩm chất lượng tuyệt vời!,  ",
+    "reviewContent": "Chất lượng:ngon lành cành đào\n Giá Cả:okela\n Bao bì:20 phong tất cả. Sản phẩm chất lượng tuyệt vời!,  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -3024,7 +3024,7 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "20 phong tất cả. Sản phẩm chất lượng tuyệt vời!,",
         "selected": null
       }
@@ -3950,7 +3950,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:OK...ngon và mền \n Giá Cả:chấp nhận với mức giá khi có KM\n 📦Bao bì:hộp Kim loại ok\n 💲Giá cả:hợp lý  ",
+    "reviewContent": "Chất lượng:OK...ngon và mền \n Giá Cả:chấp nhận với mức giá khi có KM\n Bao bì:hộp Kim loại ok\n Giá cả:hợp lý  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -3963,12 +3963,12 @@
         "selected": null
       },
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "hộp Kim loại ok",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý",
         "selected": null
       }
@@ -5686,10 +5686,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "📦Bao bì:đẹp, nhân viên giao hàng tận tâm, cám ơn nhân viên giao hàng, vì phải giao lần thứ hai , hôm qua mình đi ra ngoài không mang theo điện thoại.. cám ơn nhiều lắm. ",
+    "reviewContent": "Bao bì:đẹp, nhân viên giao hàng tận tâm, cám ơn nhân viên giao hàng, vì phải giao lần thứ hai , hôm qua mình đi ra ngoài không mang theo điện thoại.. cám ơn nhiều lắm. ",
     "reviewContentList": [
       {
-        "attribute": "📦Packaging",
+        "attribute": "Packaging",
         "content": "đẹp, nhân viên giao hàng tận tâm, cám ơn nhân viên giao hàng, vì phải giao lần thứ hai , hôm qua mình đi ra ngoài không mang theo điện thoại.. cám ơn nhiều lắm.",
         "selected": null
       }
@@ -7060,7 +7060,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "cũng ok, giao hàng nhanh và phù hợp với giá cả\n\n 🔍Chất lượng:sẽ test ",
+    "reviewContent": "cũng ok, giao hàng nhanh và phù hợp với giá cả\n\n Chất lượng:sẽ test ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -7068,7 +7068,7 @@
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "sẽ test",
         "selected": null
       }

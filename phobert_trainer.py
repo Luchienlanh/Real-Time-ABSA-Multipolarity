@@ -191,7 +191,7 @@ def merge_datasets(old_data_path: str, new_data_path: str, output_path: str = No
     Returns:
         Path to merged data file
     """
-    print(f"📊 Merging datasets...")
+    print(f" Merging datasets...")
     print(f"   Old data: {old_data_path}")
     print(f"   New data: {new_data_path}")
     
@@ -216,7 +216,7 @@ def merge_datasets(old_data_path: str, new_data_path: str, output_path: str = No
         output_path = os.path.join(base_dir, 'merged_training_data.xlsx')
     
     merged_df.to_excel(output_path, index=False)
-    print(f"   ✅ Saved to: {output_path}")
+    print(f"    Saved to: {output_path}")
     
     return output_path
 
@@ -231,17 +231,17 @@ def get_old_model_f1(model_dir: str = "./models/phobert_absa") -> float:
     config_path = os.path.join(model_dir, 'config.json')
     
     if not os.path.exists(config_path):
-        print("⚠️ No old model found, will train from scratch")
+        print("️ No old model found, will train from scratch")
         return 0.0
     
     try:
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
         old_f1 = config.get('best_f1', 0.0)
-        print(f"📈 Old model F1: {old_f1:.4f}")
+        print(f" Old model F1: {old_f1:.4f}")
         return old_f1
     except Exception as e:
-        print(f"⚠️ Error reading old config: {e}")
+        print(f"️ Error reading old config: {e}")
         return 0.0
 
 
@@ -272,7 +272,7 @@ def train_and_compare(
     # Train new model to temporary directory
     temp_dir = model_dir + "_temp"
     
-    print(f"\n🚀 Training new model...")
+    print(f"\n Training new model...")
     train_model(
         data_path=data_path,
         output_dir=temp_dir,
@@ -286,7 +286,7 @@ def train_and_compare(
         new_config = json.load(f)
     new_f1 = new_config.get('best_f1', 0.0)
     
-    print(f"\n📊 Model Comparison:")
+    print(f"\n Model Comparison:")
     print(f"   Old F1: {old_f1:.4f}")
     print(f"   New F1: {new_f1:.4f}")
     print(f"   Improvement: {new_f1 - old_f1:.4f}")
@@ -296,7 +296,7 @@ def train_and_compare(
     should_update = improvement >= min_improvement
     
     if should_update:
-        print(f"   ✅ New model is better! Updating...")
+        print(f"    New model is better! Updating...")
         
         # Backup old model
         if os.path.exists(model_dir):
@@ -308,9 +308,9 @@ def train_and_compare(
         
         # Move new model to main directory
         os.rename(temp_dir, model_dir)
-        print(f"   ✅ Model updated successfully!")
+        print(f"    Model updated successfully!")
     else:
-        print(f"   ❌ New model not significantly better (need >= {min_improvement:.4f} improvement)")
+        print(f"    New model not significantly better (need >= {min_improvement:.4f} improvement)")
         print(f"   Keeping old model.")
         
         # Clean up temp directory
@@ -334,15 +334,15 @@ def train_model(
     if device is None:
         device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    print(f"🚀 PhoBERT ABSA Training")
-    print(f"📱 Device: {device}")
+    print(f" PhoBERT ABSA Training")
+    print(f" Device: {device}")
     
     # Load tokenizer
-    print("📥 Loading PhoBERT tokenizer...")
+    print(" Loading PhoBERT tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
     
     # Load data
-    print(f"📊 Loading data from {data_path}...")
+    print(f" Loading data from {data_path}...")
     texts, labels_m, labels_s = load_data(data_path)
     print(f"   Total samples: {len(texts)}")
     
@@ -360,7 +360,7 @@ def train_model(
     val_loader = DataLoader(val_dataset, batch_size=batch_size)
     
     # Create model
-    print("🧠 Creating PhoBERT ABSA model...")
+    print(" Creating PhoBERT ABSA model...")
     model = PhoBERTForABSA(num_aspects=len(ASPECTS))
     model = model.to(device)
     
@@ -384,7 +384,7 @@ def train_model(
     patience_counter = 0
     
     for epoch in range(epochs):
-        print(f"\n📈 Epoch {epoch + 1}/{epochs}")
+        print(f"\n Epoch {epoch + 1}/{epochs}")
         
         # === TRAINING ===
         model.train()
@@ -469,7 +469,7 @@ def train_model(
         if combined_f1 > best_val_f1:
             best_val_f1 = combined_f1
             patience_counter = 0
-            print(f"   ✅ New best model! Saving...")
+            print(f"    New best model! Saving...")
             
             os.makedirs(output_dir, exist_ok=True)
             
@@ -495,15 +495,15 @@ def train_model(
                 json.dump(config, f, ensure_ascii=False, indent=2)
         else:
             patience_counter += 1
-            print(f"   ⏳ No improvement. Patience: {patience_counter}/{patience}")
+            print(f"    No improvement. Patience: {patience_counter}/{patience}")
             
             # Early stopping
             if patience_counter >= patience:
-                print(f"   🛑 Early stopping triggered!")
+                print(f"    Early stopping triggered!")
                 break
     
-    print(f"\n🎉 Training complete! Best F1: {best_val_f1:.4f}")
-    print(f"📁 Model saved to: {output_dir}")
+    print(f"\n Training complete! Best F1: {best_val_f1:.4f}")
+    print(f" Model saved to: {output_dir}")
     
     return output_dir
 
@@ -517,7 +517,7 @@ if __name__ == "__main__":
     
     # Check if file exists, if not fall back
     if not os.path.exists(DATA_PATH):
-        print(f"⚠️ New dataset not found at {DATA_PATH}, falling back to old test data.")
+        print(f"️ New dataset not found at {DATA_PATH}, falling back to old test data.")
         DATA_PATH = os.path.join(BASE_DIR, 'data', 'label', 'absa_grouped_vietnamese_test.xlsx')
 
     train_model(

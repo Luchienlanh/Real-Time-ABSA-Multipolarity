@@ -123,14 +123,14 @@ class PhoBERTPredictor:
             model_path = MODEL_PATH
         
         if not os.path.exists(model_path):
-            print(f"❌ Model not found at {model_path}")
-            print("🚀 Starting automatic training...")
+            print(f" Model not found at {model_path}")
+            print(" Starting automatic training...")
             return self._auto_train()
         
         try:
             from transformers import AutoTokenizer
             
-            print(f"📥 Loading PhoBERT model from {model_path}...")
+            print(f" Loading PhoBERT model from {model_path}...")
             
             # Load checkpoint (weights_only=False for compatibility)
             checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
@@ -138,11 +138,11 @@ class PhoBERTPredictor:
             # Load tokenizer - try local first, then HuggingFace
             tokenizer_local_path = os.path.join(MODEL_DIR, 'tokenizer')
             if os.path.exists(tokenizer_local_path):
-                print(f"📥 Loading tokenizer from local: {tokenizer_local_path}")
+                print(f" Loading tokenizer from local: {tokenizer_local_path}")
                 self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_local_path)
             else:
                 try:
-                    print("📥 Downloading tokenizer from HuggingFace (first time only)...")
+                    print(" Downloading tokenizer from HuggingFace (first time only)...")
                     self.tokenizer = AutoTokenizer.from_pretrained(
                         checkpoint.get('tokenizer_name', 'vinai/phobert-base') if isinstance(checkpoint, dict) and 'tokenizer_name' in checkpoint else 'vinai/phobert-base'
                     )
@@ -169,11 +169,11 @@ class PhoBERTPredictor:
                 self.max_length = config.get('max_length', 256)
             
             self.model_loaded = True
-            print(f"✅ Model loaded successfully! (F1: {checkpoint.get('best_f1', 'N/A'):.4f})")
+            print(f" Model loaded successfully! (F1: {checkpoint.get('best_f1', 'N/A'):.4f})")
             return True
             
         except Exception as e:
-            print(f"❌ Error loading model: {e}")
+            print(f" Error loading model: {e}")
             return False
     
     def _auto_train(self) -> bool:
@@ -184,10 +184,10 @@ class PhoBERTPredictor:
             data_path = os.path.join(BASE_DIR, 'data', 'label', 'absa_grouped_vietnamese_test.xlsx')
             
             if not os.path.exists(data_path):
-                print(f"❌ Training data not found: {data_path}")
+                print(f" Training data not found: {data_path}")
                 return False
             
-            print("🎓 Auto-training PhoBERT model...")
+            print(" Auto-training PhoBERT model...")
             output_dir = train_model(
                 data_path=data_path,
                 output_dir=MODEL_DIR,
@@ -199,7 +199,7 @@ class PhoBERTPredictor:
             return self.load_model(os.path.join(output_dir, 'phobert_absa.pt'))
             
         except Exception as e:
-            print(f"❌ Auto-training failed: {e}")
+            print(f" Auto-training failed: {e}")
             return False
     
     def predict_single(self, text: str) -> Dict[str, int]:
@@ -210,7 +210,7 @@ class PhoBERTPredictor:
         if not self.model_loaded:
             # Try to load/train model
             if not self.load_model():
-                print("❌ Cannot make prediction - model not available")
+                print(" Cannot make prediction - model not available")
                 return {asp: 2 for asp in ASPECTS}  # All N/A
         
         try:
@@ -248,7 +248,7 @@ class PhoBERTPredictor:
             return results
             
         except Exception as e:
-            print(f"⚠️ Prediction error: {e}")
+            print(f"️ Prediction error: {e}")
             return {asp: 2 for asp in ASPECTS}
     
     def predict_batch(self, texts: List[str]) -> List[Dict[str, int]]:

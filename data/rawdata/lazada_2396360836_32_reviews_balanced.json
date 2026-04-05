@@ -3762,10 +3762,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động: ok ",
+    "reviewContent": "Tính di động: ok ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "ok",
         "selected": null
       }

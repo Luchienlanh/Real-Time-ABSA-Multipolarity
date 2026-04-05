@@ -7,10 +7,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:rất chán\n tai nghe như này đeo ko dính tai luôn,tai nghe ko có bass,nghe rát chán ",
+    "reviewContent": "Thời lượng pin:rất chán\n tai nghe như này đeo ko dính tai luôn,tai nghe ko có bass,nghe rát chán ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "rất chán",
         "selected": null
       },
@@ -700,10 +700,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  sụt pin rất nhanh  ",
+    "reviewContent": "Thời lượng pin:  sụt pin rất nhanh  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "sụt pin rất nhanh",
         "selected": null
       }
@@ -954,7 +954,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "bị hỏng. sạc ko vào.\n 🎤Chất lượng âm thanh:bị rè  ",
+    "reviewContent": "bị hỏng. sạc ko vào.\n Chất lượng âm thanh:bị rè  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -962,7 +962,7 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "bị rè",
         "selected": null
       }
@@ -1213,10 +1213,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:nhỏ  ",
+    "reviewContent": "Chất lượng âm thanh:nhỏ  ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "nhỏ",
         "selected": null
       }
@@ -2622,7 +2622,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tính năng giảm tiếng ồn, \nThiết kế không dây TWS,\n 😌Thoải mái:Mang vào êm tai nhẹ nhàng\n 🎤Chất lượng âm thanh:Tuyệt vời\n Cảm ơn Shop đóng gói cẩn thận \nTặng Shop 5sao\n ",
+    "reviewContent": "Tính năng giảm tiếng ồn, \nThiết kế không dây TWS,\n Thoải mái:Mang vào êm tai nhẹ nhàng\n Chất lượng âm thanh:Tuyệt vời\n Cảm ơn Shop đóng gói cẩn thận \nTặng Shop 5sao\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2630,12 +2630,12 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Mang vào êm tai nhẹ nhàng",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Tuyệt vời",
         "selected": null
       },
@@ -2959,7 +2959,7 @@
       }
     ],
     "buyerId": 200100741848,
-    "buyerName": "baby2½😁",
+    "buyerName": "baby2½",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,
@@ -4680,11 +4680,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "nhỏ xinh giá cả hợp lý nha mn pin thì phải tét thử mới biết được OK 👍 ",
+    "reviewContent": "nhỏ xinh giá cả hợp lý nha mn pin thì phải tét thử mới biết được OK  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "nhỏ xinh giá cả hợp lý nha mn pin thì phải tét thử mới biết được OK 👍",
+        "content": "nhỏ xinh giá cả hợp lý nha mn pin thì phải tét thử mới biết được OK ",
         "selected": null
       }
     ],
@@ -4814,10 +4814,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:tốt, âm thanh êm, mẫu mã cũng khá đẹp,  ",
+    "reviewContent": "Chất lượng âm thanh:tốt, âm thanh êm, mẫu mã cũng khá đẹp,  ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt, âm thanh êm, mẫu mã cũng khá đẹp,",
         "selected": null
       }
@@ -4948,10 +4948,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:Tính năng giảm tiếng ồn, f ",
+    "reviewContent": "Chất lượng âm thanh:Tính năng giảm tiếng ồn, f ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "Tính năng giảm tiếng ồn, f",
         "selected": null
       }
@@ -5439,7 +5439,7 @@
       }
     ],
     "buyerId": 200100741848,
-    "buyerName": "baby2½😁",
+    "buyerName": "baby2½",
     "buyerEmail": null,
     "realBuyerName": null,
     "isAnonymous": false,

@@ -3037,11 +3037,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đây là lần cuối mua hàng ở đây. Có phần quà tặng cũng hẹn tới hẹn lui. Tặng chứ có phải xin đâu 😌",
+    "reviewContent": "Đây là lần cuối mua hàng ở đây. Có phần quà tặng cũng hẹn tới hẹn lui. Tặng chứ có phải xin đâu ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Đây là lần cuối mua hàng ở đây. Có phần quà tặng cũng hẹn tới hẹn lui. Tặng chứ có phải xin đâu 😌",
+        "content": "Đây là lần cuối mua hàng ở đây. Có phần quà tặng cũng hẹn tới hẹn lui. Tặng chứ có phải xin đâu ",
         "selected": null
       }
     ],
@@ -9011,10 +9011,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🥦Giá trị dinh dưỡng:  rất okelaaaa nhennnn nên muaaa shop giao nhanh lắmmm hiuhiuuuuu ",
+    "reviewContent": "Giá trị dinh dưỡng:  rất okelaaaa nhennnn nên muaaa shop giao nhanh lắmmm hiuhiuuuuu ",
     "reviewContentList": [
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "rất okelaaaa nhennnn nên muaaa shop giao nhanh lắmmm hiuhiuuuuu",
         "selected": null
       }
@@ -9156,7 +9156,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sữa ngon bổ dưỡng \nRất đáng để thử nên mua nha mọi người \n 🍖Hương vị:  thơm béo \n 💲Giá cả:  phải chăng \n 🥦Giá trị dinh dưỡng:  tốt  ",
+    "reviewContent": "Sữa ngon bổ dưỡng \nRất đáng để thử nên mua nha mọi người \n Hương vị:  thơm béo \n Giá cả:  phải chăng \n Giá trị dinh dưỡng:  tốt  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -9164,17 +9164,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm béo",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "phải chăng",
         "selected": null
       },
       {
-        "attribute": "🥦Nutritional Value",
+        "attribute": "Nutritional Value",
         "content": "tốt",
         "selected": null
       }

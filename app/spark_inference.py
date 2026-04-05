@@ -130,7 +130,7 @@ if __name__ == "__main__":
     df = spark.createDataFrame(raw_data, ["review_text"])
     df = df.repartition(4)  # Simulate multiple partitions
     
-    print("🚀 Starting Distributed Inference for 1000 reviews...")
+    print(" Starting Distributed Inference for 1000 reviews...")
     
     # Apply Inference UDF
     df_pred = df.withColumn("prediction", predict_batch_udf("review_text"))
@@ -139,4 +139,4 @@ if __name__ == "__main__":
     df_pred.select("review_text", "prediction").show(10, truncate=False)
     
     spark.stop()
-    print("✅ Inference complete.")
+    print(" Inference complete.")

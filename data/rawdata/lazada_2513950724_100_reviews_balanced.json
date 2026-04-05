@@ -7,20 +7,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:  k bền 🔍Chất lượng:  kém 💲Giá cả:  rẻ ",
+    "reviewContent": "Độ bền:  k bền Chất lượng:  kém Giá cả:  rẻ ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "k bền",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       }
@@ -3703,11 +3703,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mềm, cx đcc👍🏻Cọ mềm mại và mịn màng, sợ bung lông quá:'))))ko có màu tím ",
+    "reviewContent": "mềm, cx đccCọ mềm mại và mịn màng, sợ bung lông quá:'))))ko có màu tím ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mềm, cx đcc👍🏻Cọ mềm mại và mịn màng, sợ bung lông quá:'))))ko có màu tím",
+        "content": "mềm, cx đccCọ mềm mại và mịn màng, sợ bung lông quá:'))))ko có màu tím",
         "selected": null
       }
     ],
@@ -4275,11 +4275,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "cọ trang điểm rất OK,nhưng shipper không nhiệt tình,tỏ thái độ với khách hàng và vô duyên😡 ",
+    "reviewContent": "cọ trang điểm rất OK,nhưng shipper không nhiệt tình,tỏ thái độ với khách hàng và vô duyên ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "cọ trang điểm rất OK,nhưng shipper không nhiệt tình,tỏ thái độ với khách hàng và vô duyên😡",
+        "content": "cọ trang điểm rất OK,nhưng shipper không nhiệt tình,tỏ thái độ với khách hàng và vô duyên",
         "selected": null
       }
     ],
@@ -4931,20 +4931,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ\n 🔍Chất lượng:Bộ cọ đa năng, Hoàn hảo cho trang điểm hàng ngày,\n 🛡Độ bền:chưa sử dụng nên kg rõ, sẽ đánh giá sau.\n ",
+    "reviewContent": "Giá cả:rẻ\n Chất lượng:Bộ cọ đa năng, Hoàn hảo cho trang điểm hàng ngày,\n Độ bền:chưa sử dụng nên kg rõ, sẽ đánh giá sau.\n ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Bộ cọ đa năng, Hoàn hảo cho trang điểm hàng ngày,",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa sử dụng nên kg rõ, sẽ đánh giá sau.",
         "selected": null
       }
@@ -5899,21 +5899,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "\n🔍Chất lượng : sợi lông nhân tạo, cũng mềm, dễ lấy phấn, có điều sợi lông hơi chỉa ra, có cái cong, phải cắt chuẩn phông cọ chứ 😁. \n 🛡Độ bền:Hợp mua dùng trong khoảng thời gian ngắn, với người không dùng mấy. \n 💲Giá cả : Rẻ, vừa phải.  ",
+    "reviewContent": "\nChất lượng : sợi lông nhân tạo, cũng mềm, dễ lấy phấn, có điều sợi lông hơi chỉa ra, có cái cong, phải cắt chuẩn phông cọ chứ . \n Độ bền:Hợp mua dùng trong khoảng thời gian ngắn, với người không dùng mấy. \n Giá cả : Rẻ, vừa phải.  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "🔍Chất lượng : sợi lông nhân tạo, cũng mềm, dễ lấy phấn, có điều sợi lông hơi chỉa ra, có cái cong, phải cắt chuẩn phông cọ chứ 😁.",
+        "content": "Chất lượng : sợi lông nhân tạo, cũng mềm, dễ lấy phấn, có điều sợi lông hơi chỉa ra, có cái cong, phải cắt chuẩn phông cọ chứ .",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Hợp mua dùng trong khoảng thời gian ngắn, với người không dùng mấy.",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "💲Giá cả : Rẻ, vừa phải.",
+        "content": "Giá cả : Rẻ, vừa phải.",
         "selected": null
       }
     ],
@@ -7515,10 +7515,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:hợp lí  ",
+    "reviewContent": "Giá cả:hợp lí  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lí",
         "selected": null
       }
@@ -7733,20 +7733,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:vs giá này thì rất rẻ \n 🔍Chất lượng:riêng về chất lg cọ khi dùng vđ cọ tán son khi đg dùng có nhiều cọng lông rụng ra từ cọ nhưng vs giá này thì mik cũng không đòi hỏi j thêm\n 🛡Độ bền:dùng đc lâu nếu shop làm chắc chắn phần cọ lại  ",
+    "reviewContent": "Giá cả:vs giá này thì rất rẻ \n Chất lượng:riêng về chất lg cọ khi dùng vđ cọ tán son khi đg dùng có nhiều cọng lông rụng ra từ cọ nhưng vs giá này thì mik cũng không đòi hỏi j thêm\n Độ bền:dùng đc lâu nếu shop làm chắc chắn phần cọ lại  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "vs giá này thì rất rẻ",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "riêng về chất lg cọ khi dùng vđ cọ tán son khi đg dùng có nhiều cọng lông rụng ra từ cọ nhưng vs giá này thì mik cũng không đòi hỏi j thêm",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "dùng đc lâu nếu shop làm chắc chắn phần cọ lại",
         "selected": null
       }
@@ -8704,11 +8704,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mình săn đc giá 0đ , cọ mềm , chưa dùng , nhưng nhìn đẹp là mình thích , cảm ơn shop và nhân viên giao hàng ạ 😉 ",
+    "reviewContent": "mình săn đc giá 0đ , cọ mềm , chưa dùng , nhưng nhìn đẹp là mình thích , cảm ơn shop và nhân viên giao hàng ạ  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mình săn đc giá 0đ , cọ mềm , chưa dùng , nhưng nhìn đẹp là mình thích , cảm ơn shop và nhân viên giao hàng ạ 😉",
+        "content": "mình săn đc giá 0đ , cọ mềm , chưa dùng , nhưng nhìn đẹp là mình thích , cảm ơn shop và nhân viên giao hàng ạ ",
         "selected": null
       }
     ],
@@ -9307,10 +9307,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:  Bộ cọ đa năng, Tuyệt vời để tạo kiểu mắt mèo, Bàn chải mềm và mịn, Dễ dàng làm sạch,  ",
+    "reviewContent": "Chất lượng:  Bộ cọ đa năng, Tuyệt vời để tạo kiểu mắt mèo, Bàn chải mềm và mịn, Dễ dàng làm sạch,  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Bộ cọ đa năng, Tuyệt vời để tạo kiểu mắt mèo, Bàn chải mềm và mịn, Dễ dàng làm sạch,",
         "selected": null
       }
@@ -9597,10 +9597,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  bình dân Chất lượng: OK, lông mềm, mịn , êm\nĐộ bền : OK  ",
+    "reviewContent": "Giá cả:  bình dân Chất lượng: OK, lông mềm, mịn , êm\nĐộ bền : OK  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "bình dân",
         "selected": null
       },
@@ -9770,15 +9770,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ quá cũng sợ k by có bị s khuk\n 🔍Chất lượng:dùng lâu ms bt\n như cọ vẽ :))) cái phần màu xanh đậm cầm vào mát lạnh :( ê nhưng cọ rất mềm nh mềm vãi , mềm kinh khủng, túi nhung đựng cọ mỏng vỏ,nhưng khá okie , cọ cầm nhẹ tay lắm vì làm bằng nhựa , xuất xứ Trung, hạn sử dụng , ngày SX , số lô ko có nên hơi rén ạ , mình săn đc 1k thuiii nên hoan hỉ nha\n ",
+    "reviewContent": "Giá cả:rẻ quá cũng sợ k by có bị s khuk\n Chất lượng:dùng lâu ms bt\n như cọ vẽ :))) cái phần màu xanh đậm cầm vào mát lạnh :( ê nhưng cọ rất mềm nh mềm vãi , mềm kinh khủng, túi nhung đựng cọ mỏng vỏ,nhưng khá okie , cọ cầm nhẹ tay lắm vì làm bằng nhựa , xuất xứ Trung, hạn sử dụng , ngày SX , số lô ko có nên hơi rén ạ , mình săn đc 1k thuiii nên hoan hỉ nha\n ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ quá cũng sợ k by có bị s khuk",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "dùng lâu ms bt",
         "selected": null
       },
@@ -10215,21 +10215,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "ok ạ\n💲Giá ca： rẻ\n 🔍Chất lượng:phù hợp\n 🛡Độ bèn：voi gia thi okViệc trang điểm mắt chính xác, Tuyệt vời để tạo kiểu mắt mèo, Giá cả phải chăng và chất lượng cao, Bàn chải mềm và mịn,  ",
+    "reviewContent": "ok ạ\nGiá ca： rẻ\n Chất lượng:phù hợp\n Độ bèn：voi gia thi okViệc trang điểm mắt chính xác, Tuyệt vời để tạo kiểu mắt mèo, Giá cả phải chăng và chất lượng cao, Bàn chải mềm và mịn,  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "ok ạ\n💲Giá ca： rẻ",
+        "content": "ok ạ\nGiá ca： rẻ",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "phù hợp",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "🛡Độ bèn：voi gia thi okViệc trang điểm mắt chính xác, Tuyệt vời để tạo kiểu mắt mèo, Giá cả phải chăng và chất lượng cao, Bàn chải mềm và mịn,",
+        "content": "Độ bèn：voi gia thi okViệc trang điểm mắt chính xác, Tuyệt vời để tạo kiểu mắt mèo, Giá cả phải chăng và chất lượng cao, Bàn chải mềm và mịn,",
         "selected": null
       }
     ],
@@ -10794,20 +10794,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Giá cả phải chăng và chất lượng cao, \n 🔍Chất lượng:Tuyệt vời để tạo kiểu mắt mèo, Hoàn hảo cho trang điểm hàng ngày, \n 🛡Độ bền:Bền và lâu dài, Dụng cụ trang điểm chuyên nghiệp,  ",
+    "reviewContent": "Giá cả:Giá cả phải chăng và chất lượng cao, \n Chất lượng:Tuyệt vời để tạo kiểu mắt mèo, Hoàn hảo cho trang điểm hàng ngày, \n Độ bền:Bền và lâu dài, Dụng cụ trang điểm chuyên nghiệp,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Giá cả phải chăng và chất lượng cao,",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Tuyệt vời để tạo kiểu mắt mèo, Hoàn hảo cho trang điểm hàng ngày,",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Bền và lâu dài, Dụng cụ trang điểm chuyên nghiệp,",
         "selected": null
       }
@@ -11431,7 +11431,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Dễ dàng làm sạch, Bàn chải mềm và mịn, \n 💲Giá cả:gia ca phai chang dep nhe ca nha nen mua thu nhe  ",
+    "reviewContent": "Dễ dàng làm sạch, Bàn chải mềm và mịn, \n Giá cả:gia ca phai chang dep nhe ca nha nen mua thu nhe  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -11439,7 +11439,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "gia ca phai chang dep nhe ca nha nen mua thu nhe",
         "selected": null
       }
@@ -11750,7 +11750,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Bàn chải mềm và mịn, Kết hợp màu mắt một cách hoàn hảo, \n 💲Giá cả:  tốt 🔍Chất lượng:  ok 🛡Độ bền:  chưa sd ",
+    "reviewContent": "Bàn chải mềm và mịn, Kết hợp màu mắt một cách hoàn hảo, \n Giá cả:  tốt Chất lượng:  ok Độ bền:  chưa sd ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -11758,17 +11758,17 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa sd",
         "selected": null
       }
@@ -12020,10 +12020,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔍Chất lượng:Việc trang điểm mắt chính xác, Dụng cụ trang điểm chuyên nghiệp, Bàn chải mềm và mịn, Bền và lâu dài,  ",
+    "reviewContent": "Chất lượng:Việc trang điểm mắt chính xác, Dụng cụ trang điểm chuyên nghiệp, Bàn chải mềm và mịn, Bền và lâu dài,  ",
     "reviewContentList": [
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "Việc trang điểm mắt chính xác, Dụng cụ trang điểm chuyên nghiệp, Bàn chải mềm và mịn, Bền và lâu dài,",
         "selected": null
       }
@@ -12165,20 +12165,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:14k sale \n 🔍Chất lượng:ổn...cán cầm dài dễ nắm\n 🛡Độ bền:ổn trong Tầm giá \n nhiều kích thước Dễ dàng làm sạch, Bộ cọ đa năng,  ",
+    "reviewContent": "Giá cả:14k sale \n Chất lượng:ổn...cán cầm dài dễ nắm\n Độ bền:ổn trong Tầm giá \n nhiều kích thước Dễ dàng làm sạch, Bộ cọ đa năng,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "14k sale",
         "selected": null
       },
       {
-        "attribute": "🔍Quality",
+        "attribute": "Quality",
         "content": "ổn...cán cầm dài dễ nắm",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ổn trong Tầm giá",
         "selected": null
       },

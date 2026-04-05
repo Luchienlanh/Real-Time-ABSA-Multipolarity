@@ -883,15 +883,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ, vì săn saleDung lượng lớn cho tất cả các nhu yếu phẩm của bạn, \n 🎨Thiết kế:đẹp Hoàn hảo cho du lịch hoặc các hoạt động ngoài trời, mua 2 cái nhưng 1 cái dây quuai túi bị xù dây  ",
+    "reviewContent": "Giá cả:rẻ, vì săn saleDung lượng lớn cho tất cả các nhu yếu phẩm của bạn, \n Thiết kế:đẹp Hoàn hảo cho du lịch hoặc các hoạt động ngoài trời, mua 2 cái nhưng 1 cái dây quuai túi bị xù dây  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ, vì săn saleDung lượng lớn cho tất cả các nhu yếu phẩm của bạn,",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp Hoàn hảo cho du lịch hoặc các hoạt động ngoài trời, mua 2 cái nhưng 1 cái dây quuai túi bị xù dây",
         "selected": null
       }
@@ -1642,15 +1642,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ, chỉ hơn 10k\n 🎨Thiết kế:mỏng mảnh, túi 1 ngăn duy nhất, \n đường may kg đc đẹp lắm ",
+    "reviewContent": "Giá cả:rẻ, chỉ hơn 10k\n Thiết kế:mỏng mảnh, túi 1 ngăn duy nhất, \n đường may kg đc đẹp lắm ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ, chỉ hơn 10k",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "mỏng mảnh, túi 1 ngăn duy nhất,",
         "selected": null
       },
@@ -1786,20 +1786,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ\n 🎨Thiết kế:túi 2 lớp vải vinilon mỏng\n 🛡️Độ bền:chưa dùng nên chưa biết ",
+    "reviewContent": "Giá cả:rẻ\n Thiết kế:túi 2 lớp vải vinilon mỏng\n ️Độ bền:chưa dùng nên chưa biết ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "túi 2 lớp vải vinilon mỏng",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa dùng nên chưa biết",
         "selected": null
       }
@@ -2244,7 +2244,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thoải mái khi mặc trong thời gian dài, Thiết kế phong cách và hợp thời trang, \n 🎨Thiết kế:đơn giản, nhẹ , gọn, tiện ích, nhỏ, 1 màu đơn sắc ",
+    "reviewContent": "Thoải mái khi mặc trong thời gian dài, Thiết kế phong cách và hợp thời trang, \n Thiết kế:đơn giản, nhẹ , gọn, tiện ích, nhỏ, 1 màu đơn sắc ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -2252,7 +2252,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đơn giản, nhẹ , gọn, tiện ích, nhỏ, 1 màu đơn sắc",
         "selected": null
       }
@@ -2601,20 +2601,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  rẻ vocolo  🎨Thiết kế:  vải ok mà quai hơi mỏng hơi gấp khá mất thẩm mỹ 🛡️Độ bền:  chưa biet mà re dep nen mua nhe ",
+    "reviewContent": "Giá cả:  rẻ vocolo  Thiết kế:  vải ok mà quai hơi mỏng hơi gấp khá mất thẩm mỹ ️Độ bền:  chưa biet mà re dep nen mua nhe ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ vocolo",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "vải ok mà quai hơi mỏng hơi gấp khá mất thẩm mỹ",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "chưa biet",
         "selected": null
       },
@@ -2725,15 +2725,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  rat re 🎨Thiết kế:  tam khong nghĩ voi gia do ma mua duoc cai tui luon ay. ban vay sao loi ",
+    "reviewContent": "Giá cả:  rat re Thiết kế:  tam khong nghĩ voi gia do ma mua duoc cai tui luon ay. ban vay sao loi ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rat re",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "tam",
         "selected": null
       },
@@ -3330,15 +3330,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:rẻ\n 🎨Thiết kế:ko đẹp lắm .ổn ",
+    "reviewContent": "Giá cả:rẻ\n Thiết kế:ko đẹp lắm .ổn ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ko đẹp lắm .ổn",
         "selected": null
       }
@@ -4323,20 +4323,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:hợp lý,  rẻ \n 🎨Thiết kế:đẹp,  chất lượng tốt , hàng đẹp nên mua\n 🛡️Độ bền:cao, giặt máy được  ",
+    "reviewContent": "Giá cả:hợp lý,  rẻ \n Thiết kế:đẹp,  chất lượng tốt , hàng đẹp nên mua\n ️Độ bền:cao, giặt máy được  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý,  rẻ",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp,  chất lượng tốt , hàng đẹp nên mua",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "cao, giặt máy được",
         "selected": null
       }
@@ -5661,7 +5661,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Hoàn hảo cho du lịch hoặc các hoạt động ngoài trời, Thoải mái khi mặc trong thời gian dài, \n 🎨Thiết kế:ok\n 🛡️Độ bền:ổn ",
+    "reviewContent": "Hoàn hảo cho du lịch hoặc các hoạt động ngoài trời, Thoải mái khi mặc trong thời gian dài, \n Thiết kế:ok\n ️Độ bền:ổn ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5669,12 +5669,12 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "ổn",
         "selected": null
       }
@@ -6686,11 +6686,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "túi đẹp, rẻ, ok 👍 ",
+    "reviewContent": "túi đẹp, rẻ, ok  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "túi đẹp, rẻ, ok 👍",
+        "content": "túi đẹp, rẻ, ok ",
         "selected": null
       }
     ],
@@ -6854,7 +6854,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Đa năng và đa chức năng, \n 🎨Thiết kế:màu cam bắt mắt, tránh quên túi\n 💲Giá cả:giá so với chất vậy là được rồi ",
+    "reviewContent": "Đa năng và đa chức năng, \n Thiết kế:màu cam bắt mắt, tránh quên túi\n Giá cả:giá so với chất vậy là được rồi ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6862,12 +6862,12 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "màu cam bắt mắt, tránh quên túi",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá so với chất vậy là được rồi",
         "selected": null
       }
@@ -7154,20 +7154,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:hợp lý, Dung lượng lớn cho tất cả các nhu yếu phẩm của bạn, \n 🎨Thiết kế:đẹp\n 🛡️Độ bền:may chạy chỉ 2 bên vai đeo sẽ chắc chắn hơn ạ ",
+    "reviewContent": "Giá cả:hợp lý, Dung lượng lớn cho tất cả các nhu yếu phẩm của bạn, \n Thiết kế:đẹp\n ️Độ bền:may chạy chỉ 2 bên vai đeo sẽ chắc chắn hơn ạ ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý, Dung lượng lớn cho tất cả các nhu yếu phẩm của bạn,",
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "🛡️Durability",
+        "attribute": "️Durability",
         "content": "may chạy chỉ 2 bên vai đeo sẽ chắc chắn hơn ạ",
         "selected": null
       }
@@ -7783,10 +7783,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:Giá trị tuyệt vời cho giá cả, Giữ điện thoại và đồ đạc của bạn một cách an toàn., Giữ điện thoại và đồ đạc của bạn một cách an toàn., Chất liệu nylon cao cấp cho độ bền,  ",
+    "reviewContent": "Giá cả:Giá trị tuyệt vời cho giá cả, Giữ điện thoại và đồ đạc của bạn một cách an toàn., Giữ điện thoại và đồ đạc của bạn một cách an toàn., Chất liệu nylon cao cấp cho độ bền,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Giá trị tuyệt vời cho giá cả, Giữ điện thoại và đồ đạc của bạn một cách an toàn., Giữ điện thoại và đồ đạc của bạn một cách an toàn., Chất liệu nylon cao cấp cho độ bền,",
         "selected": null
       }
@@ -8073,10 +8073,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế: Thiết kế phong cách và hợp thời trang, Giữ điện thoại và đồ đạc của bạn một cách an toàn., hàng rẻ nên không ham bền ",
+    "reviewContent": "Thiết kế: Thiết kế phong cách và hợp thời trang, Giữ điện thoại và đồ đạc của bạn một cách an toàn., hàng rẻ nên không ham bền ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "Thiết kế phong cách và hợp thời trang, Giữ điện thoại và đồ đạc của bạn một cách an toàn., hàng rẻ nên không ham bền",
         "selected": null
       }

@@ -1929,15 +1929,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:tiếng nhỏ xíu, nghe nhạc cũng dở đúng là hàng rẻ tiền, giao hàng cực lâu, từ lúc đặt ới 4 ngày sau mới đóng gói xong và giao cho bên vận chuyển\n\n 😌Thoải mái:rất dễ bị rớt ra ko ôm khít như những loại  khác và rất. đau tai ",
+    "reviewContent": "Chất lượng âm thanh:tiếng nhỏ xíu, nghe nhạc cũng dở đúng là hàng rẻ tiền, giao hàng cực lâu, từ lúc đặt ới 4 ngày sau mới đóng gói xong và giao cho bên vận chuyển\n\n Thoải mái:rất dễ bị rớt ra ko ôm khít như những loại  khác và rất. đau tai ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tiếng nhỏ xíu, nghe nhạc cũng dở đúng là hàng rẻ tiền, giao hàng cực lâu, từ lúc đặt ới 4 ngày sau mới đóng gói xong và giao cho bên vận chuyển",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "rất dễ bị rớt ra ko ôm khít như những loại  khác và rất. đau tai",
         "selected": null
       }
@@ -2068,15 +2068,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:ổn\n 🔋Thời lượng pin:nhanh hết pin ",
+    "reviewContent": "Chất lượng âm thanh:ổn\n Thời lượng pin:nhanh hết pin ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "nhanh hết pin",
         "selected": null
       }
@@ -4592,20 +4592,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:khoản 4h\n 😌Thoải mái:tạm ổn \n 🎤Chất lượng âm thanh:nghe nhỏ vừa thì OK, nghe lớn thì chát lắm  ",
+    "reviewContent": "Thời lượng pin:khoản 4h\n Thoải mái:tạm ổn \n Chất lượng âm thanh:nghe nhỏ vừa thì OK, nghe lớn thì chát lắm  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "khoản 4h",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tạm ổn",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "nghe nhỏ vừa thì OK, nghe lớn thì chát lắm",
         "selected": null
       }
@@ -7189,11 +7189,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👌👍quá tốt so với mua tai nghe có dây  rất thích  sạt pin có đèn báo xanh đỏ  âm thanh nghe đã hơn tai nghe có dây ",
+    "reviewContent": "quá tốt so với mua tai nghe có dây  rất thích  sạt pin có đèn báo xanh đỏ  âm thanh nghe đã hơn tai nghe có dây ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "👌👍quá tốt so với mua tai nghe có dây  rất thích  sạt pin có đèn báo xanh đỏ  âm thanh nghe đã hơn tai nghe có dây",
+        "content": "quá tốt so với mua tai nghe có dây  rất thích  sạt pin có đèn báo xanh đỏ  âm thanh nghe đã hơn tai nghe có dây",
         "selected": null
       }
     ],
@@ -7683,10 +7683,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:lâu hết pin\n âm thanh nghe được không hay giá rẻ giao hàng nhanh Tuổi thọ pin lâu dài, Chất lượng âm thanh rõ ràng,  ",
+    "reviewContent": "Thời lượng pin:lâu hết pin\n âm thanh nghe được không hay giá rẻ giao hàng nhanh Tuổi thọ pin lâu dài, Chất lượng âm thanh rõ ràng,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "lâu hết pin",
         "selected": null
       },
@@ -8280,7 +8280,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Không dây và khử tiếng ồn, Dễ dàng kết nối và sử dụng, \n 🎤Chất lượng âm thanh:tốt \n 🔋Thời lượng pin:cả ngày  ",
+    "reviewContent": "Không dây và khử tiếng ồn, Dễ dàng kết nối và sử dụng, \n Chất lượng âm thanh:tốt \n Thời lượng pin:cả ngày  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -8288,12 +8288,12 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "cả ngày",
         "selected": null
       }
@@ -8569,10 +8569,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:tai nghe êm và khá hay,Dễ dàng kết nối và sử dụng, dùng loại nhỏ nhét tai nhiều khó chịu nên nay mua loại này nghe thấy dễ chịu hơn hăn,có thể xoay được ",
+    "reviewContent": "Thoải mái:tai nghe êm và khá hay,Dễ dàng kết nối và sử dụng, dùng loại nhỏ nhét tai nhiều khó chịu nên nay mua loại này nghe thấy dễ chịu hơn hăn,có thể xoay được ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "tai nghe êm và khá hay,Dễ dàng kết nối và sử dụng, dùng loại nhỏ nhét tai nhiều khó chịu nên nay mua loại này nghe thấy dễ chịu hơn hăn,có thể xoay được",
         "selected": null
       }
@@ -8726,20 +8726,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:lâu\n 😌Thoải mái:ok\n 🎤Chất lượng âm thanh:âm thanh tốtKhông dây và khử tiếng ồn, Tương thích với iPhone, Xiaomi, Samsung, Hoàn hảo cho các hoạt động thể thao,  ",
+    "reviewContent": "Thời lượng pin:lâu\n Thoải mái:ok\n Chất lượng âm thanh:âm thanh tốtKhông dây và khử tiếng ồn, Tương thích với iPhone, Xiaomi, Samsung, Hoàn hảo cho các hoạt động thể thao,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "lâu",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "âm thanh tốtKhông dây và khử tiếng ồn, Tương thích với iPhone, Xiaomi, Samsung, Hoàn hảo cho các hoạt động thể thao,",
         "selected": null
       }

@@ -679,7 +679,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:kém\n Kiểu dáng:tệ\n Giá Cả:rẻ\n Độ bền:0\n Sự thoải mái:0\n 🎨Thiết kế:xấu ",
+    "reviewContent": "Chất lượng:kém\n Kiểu dáng:tệ\n Giá Cả:rẻ\n Độ bền:0\n Sự thoải mái:0\n Thiết kế:xấu ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -707,7 +707,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "xấu",
         "selected": null
       }
@@ -1687,10 +1687,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:mỏng ",
+    "reviewContent": "Thiết kế:mỏng ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "mỏng",
         "selected": null
       }
@@ -2475,7 +2475,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giá Cả:rẻ\n 📦Không gian lưu trữ:hơi nhỏ\n Giá thì rẻ hàng ngon mà hơi nhỏ thôi \nGiao hàng quá trễ\n ",
+    "reviewContent": "Giá Cả:rẻ\n Không gian lưu trữ:hơi nhỏ\n Giá thì rẻ hàng ngon mà hơi nhỏ thôi \nGiao hàng quá trễ\n ",
     "reviewContentList": [
       {
         "attribute": "Price",
@@ -2483,7 +2483,7 @@
         "selected": null
       },
       {
-        "attribute": "📦Storage Space",
+        "attribute": "Storage Space",
         "content": "hơi nhỏ",
         "selected": null
       },
@@ -4327,15 +4327,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:đẹp\n 🛡Độ bền:tốt\nkhoá kéo trước hơi khó kéo khi lấy đồ ",
+    "reviewContent": "Thiết kế:đẹp\n Độ bền:tốt\nkhoá kéo trước hơi khó kéo khi lấy đồ ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "tốt\nkhoá kéo trước hơi khó kéo khi lấy đồ",
         "selected": null
       }
@@ -6261,15 +6261,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:nhỏ \n 🛡Độ bền:chưa biết dùng mới biết\ngiao hàng lâu nhưng đ tiền nào của đó ",
+    "reviewContent": "Thiết kế:nhỏ \n Độ bền:chưa biết dùng mới biết\ngiao hàng lâu nhưng đ tiền nào của đó ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "nhỏ",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa biết dùng mới biết\ngiao hàng lâu nhưng đ tiền nào của đó",
         "selected": null
       }
@@ -6545,7 +6545,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "hình ảnh mang tính chất nhận xu  hàng giao nhanh \n 🛡Độ bền:chưa sử dụng nên không biết  ",
+    "reviewContent": "hình ảnh mang tính chất nhận xu  hàng giao nhanh \n Độ bền:chưa sử dụng nên không biết  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -6553,7 +6553,7 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa sử dụng nên không biết",
         "selected": null
       }
@@ -8973,11 +8973,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái： ",
+    "reviewContent": "Thoải mái： ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "😌Thoải mái：",
+        "content": "Thoải mái：",
         "selected": null
       }
     ],
@@ -9663,7 +9663,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Thiết kế hiện đại và mỏng, Thời trang và thực tế, \n 🛡Độ bền:OK .Giao hàng nhanh chóng \n ",
+    "reviewContent": "Thiết kế hiện đại và mỏng, Thời trang và thực tế, \n Độ bền:OK .Giao hàng nhanh chóng \n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -9671,7 +9671,7 @@
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "OK .Giao hàng nhanh chóng",
         "selected": null
       }
@@ -10149,20 +10149,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:gọn nhẹ thời trang, dễ dàng mang đi\n 🛡Độ bền:chưa rõ, vải nhiều lớp \n 😌Thoải mái:đựng điện thoại và sạc\n Chất liệu nylon bền, Lỗ tai nghe tiện lợi, Thiết kế mượt mà và hiện đại, Hoàn hảo cho các hoạt động ngoài trời, Tuyệt vời cho việc sử dụng hàng ngày, Giữ an toàn các vật dụng cần thiết ",
+    "reviewContent": "Thiết kế:gọn nhẹ thời trang, dễ dàng mang đi\n Độ bền:chưa rõ, vải nhiều lớp \n Thoải mái:đựng điện thoại và sạc\n Chất liệu nylon bền, Lỗ tai nghe tiện lợi, Thiết kế mượt mà và hiện đại, Hoàn hảo cho các hoạt động ngoài trời, Tuyệt vời cho việc sử dụng hàng ngày, Giữ an toàn các vật dụng cần thiết ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "gọn nhẹ thời trang, dễ dàng mang đi",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "chưa rõ, vải nhiều lớp",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "đựng điện thoại và sạc",
         "selected": null
       },
@@ -10768,21 +10768,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎨Thiết kế:ok\n 🛡Độ bền:ok\n 😌Thoải mái:ok\nSài được, cũng tốt 👍\nAi cần có thể mua nhé🍀\nPhù hợp túi tiền 💰\nTiết kiệm được thời gian đi shop chọn lựa khó khăn và tốn kém xăng xe, tùm lum thứ hết 😎🤣  ",
+    "reviewContent": "Thiết kế:ok\n Độ bền:ok\n Thoải mái:ok\nSài được, cũng tốt \nAi cần có thể mua nhé\nPhù hợp túi tiền \nTiết kiệm được thời gian đi shop chọn lựa khó khăn và tốn kém xăng xe, tùm lum thứ hết   ",
     "reviewContentList": [
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
-        "content": "ok\nSài được, cũng tốt 👍\nAi cần có thể mua nhé🍀\nPhù hợp túi tiền 💰\nTiết kiệm được thời gian đi shop chọn lựa khó khăn và tốn kém xăng xe, tùm lum thứ hết 😎🤣",
+        "attribute": "Comfort",
+        "content": "ok\nSài được, cũng tốt \nAi cần có thể mua nhé\nPhù hợp túi tiền \nTiết kiệm được thời gian đi shop chọn lựa khó khăn và tốn kém xăng xe, tùm lum thứ hết ",
         "selected": null
       }
     ],
@@ -11057,7 +11057,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Chất lượng:vải tốt \n Kiểu dáng:gọn đẹp dễ dùng \n Giá Cả:nhẹ nhàng, dễ mua\n Độ bền:có \n Sự thoải mái:có \n 🎨Thiết kế:đẹp \n Lỗ tai nghe tiện lợi, Thoải mái khi mặc, Tùy chọn màu sắc đa dạng,  ",
+    "reviewContent": "Chất lượng:vải tốt \n Kiểu dáng:gọn đẹp dễ dùng \n Giá Cả:nhẹ nhàng, dễ mua\n Độ bền:có \n Sự thoải mái:có \n Thiết kế:đẹp \n Lỗ tai nghe tiện lợi, Thoải mái khi mặc, Tùy chọn màu sắc đa dạng,  ",
     "reviewContentList": [
       {
         "attribute": "Quality",
@@ -11085,7 +11085,7 @@
         "selected": null
       },
       {
-        "attribute": "🎨Design",
+        "attribute": "Design",
         "content": "đẹp",
         "selected": null
       },
@@ -13358,10 +13358,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡Độ bền:Chất lượng cao, \n Độ bền:Thời trang và thực tế, Tuyệt vời cho việc sử dụng hàng ngày, Thiết kế hiện đại và mỏng, Chất liệu nylon bền, Hoàn hảo cho các hoạt động ngoài trời,  ",
+    "reviewContent": "Độ bền:Chất lượng cao, \n Độ bền:Thời trang và thực tế, Tuyệt vời cho việc sử dụng hàng ngày, Thiết kế hiện đại và mỏng, Chất liệu nylon bền, Hoàn hảo cho các hoạt động ngoài trời,  ",
     "reviewContentList": [
       {
-        "attribute": "🛡Durability",
+        "attribute": "Durability",
         "content": "Chất lượng cao,",
         "selected": null
       },

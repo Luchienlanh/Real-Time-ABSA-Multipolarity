@@ -3842,7 +3842,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Tiện lợi và dễ chuẩn bị, Hương vị kimchi ngon, \n 💲Giá cả:giá cả rẻ hơn siêu thị,tiện lợi cho bữa ăn sáng ",
+    "reviewContent": "Tiện lợi và dễ chuẩn bị, Hương vị kimchi ngon, \n Giá cả:giá cả rẻ hơn siêu thị,tiện lợi cho bữa ăn sáng ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3850,7 +3850,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá cả rẻ hơn siêu thị,tiện lợi cho bữa ăn sáng",
         "selected": null
       }
@@ -3992,10 +3992,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  mì k mặn như các loại mì ăn liền khác Hoàn hảo cho những người yêu thích kimchi, Mì gói to 120g nha, rất đáng mua\n 💲Giá cả:  okila  ",
+    "reviewContent": "Hương vị:  mì k mặn như các loại mì ăn liền khác Hoàn hảo cho những người yêu thích kimchi, Mì gói to 120g nha, rất đáng mua\n Giá cả:  okila  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "mì k mặn như các loại mì ăn liền khác",
         "selected": null
       },
@@ -4005,7 +4005,7 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "okila",
         "selected": null
       }
@@ -5700,20 +5700,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ok\n 💲Giá cả:ok\n 🛒Tiện lợi:okThỏa mãn và no nê, Hương vị Hàn Quốc chính gốc,  ",
+    "reviewContent": "Hương vị:ok\n Giá cả:ok\n Tiện lợi:okThỏa mãn và no nê, Hương vị Hàn Quốc chính gốc,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "okThỏa mãn và no nê, Hương vị Hàn Quốc chính gốc,",
         "selected": null
       }

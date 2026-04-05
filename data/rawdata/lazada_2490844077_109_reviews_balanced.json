@@ -1266,11 +1266,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Shop giao  thiếu hàng tặng Khuyến mãi cho mình!\nKhông hài lòng với dịch vụ này!!!!\n😭😭😭 ",
+    "reviewContent": "Shop giao  thiếu hàng tặng Khuyến mãi cho mình!\nKhông hài lòng với dịch vụ này!!!!\n ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Shop giao  thiếu hàng tặng Khuyến mãi cho mình!\nKhông hài lòng với dịch vụ này!!!!\n😭😭😭",
+        "content": "Shop giao  thiếu hàng tặng Khuyến mãi cho mình!\nKhông hài lòng với dịch vụ này!!!!\n",
         "selected": null
       }
     ],
@@ -4679,10 +4679,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  đặt phomai trứng muối mà gửi thịt xiên nướng, shop rõ kỳ ko hài lòng về cách làm việc của shop ",
+    "reviewContent": "Hương vị:  đặt phomai trứng muối mà gửi thịt xiên nướng, shop rõ kỳ ko hài lòng về cách làm việc của shop ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "đặt phomai trứng muối mà gửi thịt xiên nướng, shop rõ kỳ ko hài lòng về cách làm việc của shop",
         "selected": null
       }
@@ -4865,20 +4865,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  ổn 🛒Tiện lợi:  được  🍖Hương vị:  không biết mua ngoài quán đâu bị ntn  ",
+    "reviewContent": "Giá cả:  ổn Tiện lợi:  được  Hương vị:  không biết mua ngoài quán đâu bị ntn  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "được",
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "không biết",
         "selected": null
       },
@@ -5893,7 +5893,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mì không ngon đắt thua mì indomie nhé thấy km mua thử ăn kém lắm gói xấu rách nát thủng giao lâu,quán 1 lớp nhắn tin phẩn hồi k tl mua để í shop lớn mat làm ăn tệ hại,omachi trc thấy ngon từ ủ đến trộn dạo gần đây chất lương đi xuống quá.giá đúng quá đắt\n 🍖Hương vị:kém\n 💲Giá cả:bình thường \n 🛒Tiện lợi:tiện hơn ủ chín mì trộn khác đun ",
+    "reviewContent": "mì không ngon đắt thua mì indomie nhé thấy km mua thử ăn kém lắm gói xấu rách nát thủng giao lâu,quán 1 lớp nhắn tin phẩn hồi k tl mua để í shop lớn mat làm ăn tệ hại,omachi trc thấy ngon từ ủ đến trộn dạo gần đây chất lương đi xuống quá.giá đúng quá đắt\n Hương vị:kém\n Giá cả:bình thường \n Tiện lợi:tiện hơn ủ chín mì trộn khác đun ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5901,17 +5901,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "bình thường",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "tiện hơn ủ chín mì trộn khác đun",
         "selected": null
       }
@@ -6083,11 +6083,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Sự kết hợp ngon miệng của thịt bò và cua, Nước dùng đậm đà và thơm ngon, Hương vị Việt Nam chính. 😢😢😢😫😫😫 đóng gói sơ xài ko bọc chống xốc nên mỳ bị vỡ nhiều ",
+    "reviewContent": "Sự kết hợp ngon miệng của thịt bò và cua, Nước dùng đậm đà và thơm ngon, Hương vị Việt Nam chính.  đóng gói sơ xài ko bọc chống xốc nên mỳ bị vỡ nhiều ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Sự kết hợp ngon miệng của thịt bò và cua, Nước dùng đậm đà và thơm ngon, Hương vị Việt Nam chính. 😢😢😢😫😫😫 đóng gói sơ xài ko bọc chống xốc nên mỳ bị vỡ nhiều",
+        "content": "Sự kết hợp ngon miệng của thịt bò và cua, Nước dùng đậm đà và thơm ngon, Hương vị Việt Nam chính.  đóng gói sơ xài ko bọc chống xốc nên mỳ bị vỡ nhiều",
         "selected": null
       }
     ],
@@ -6631,11 +6631,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mì tôm mà ko bọc chống xốc nên bị vỡ mì vụn nhiều. quá nản với shop luôn😢😢😢😫😫😫😫 ",
+    "reviewContent": "mì tôm mà ko bọc chống xốc nên bị vỡ mì vụn nhiều. quá nản với shop luôn ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "mì tôm mà ko bọc chống xốc nên bị vỡ mì vụn nhiều. quá nản với shop luôn😢😢😢😫😫😫😫",
+        "content": "mì tôm mà ko bọc chống xốc nên bị vỡ mì vụn nhiều. quá nản với shop luôn",
         "selected": null
       }
     ],
@@ -8787,15 +8787,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  ổn 💲Giá cả:  rẻ hơn loại khác  Mùi riêu cua hơiiii kinh khủng mn ạ , ai không ăn được hay ngửi được thì chọn loại khác nha , ai muốn giảm cân có thể mua ăn thử. Khâu vận chuyển tệ lắm nhé ",
+    "reviewContent": "Hương vị:  ổn Giá cả:  rẻ hơn loại khác  Mùi riêu cua hơiiii kinh khủng mn ạ , ai không ăn được hay ngửi được thì chọn loại khác nha , ai muốn giảm cân có thể mua ăn thử. Khâu vận chuyển tệ lắm nhé ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn loại khác",
         "selected": null
       },
@@ -8936,11 +8936,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đóng gói cẩu thả..mì bể muốn nát ..chỉ còn cái lõi mì 😄gần hết ",
+    "reviewContent": "đóng gói cẩu thả..mì bể muốn nát ..chỉ còn cái lõi mì gần hết ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "đóng gói cẩu thả..mì bể muốn nát ..chỉ còn cái lõi mì 😄gần hết",
+        "content": "đóng gói cẩu thả..mì bể muốn nát ..chỉ còn cái lõi mì gần hết",
         "selected": null
       }
     ],
@@ -9392,10 +9392,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  Tạm tạm Thời hạn sử dụng cũng còn ổn\nThương hiệu chất lượng từ Việt Nam\nTiện lợi và dễ chuẩn bị ",
+    "reviewContent": "Giá cả:  Tạm tạm Thời hạn sử dụng cũng còn ổn\nThương hiệu chất lượng từ Việt Nam\nTiện lợi và dễ chuẩn bị ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Tạm tạm",
         "selected": null
       },
@@ -10178,7 +10178,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": ". 🍖Hương vị:ngon nhất trong dòng omachi Thương hiệu chất Nước dùng đậm đà và thơm ngon, lượng từ Việt Nam., \n 💲Giá cả:bình thường \n 🛒Tiện lợi:tiền lợi  , điểm trừ là giao thiếu quà tặng  ",
+    "reviewContent": ". Hương vị:ngon nhất trong dòng omachi Thương hiệu chất Nước dùng đậm đà và thơm ngon, lượng từ Việt Nam., \n Giá cả:bình thường \n Tiện lợi:tiền lợi  , điểm trừ là giao thiếu quà tặng  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -10186,17 +10186,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon nhất trong dòng omachi Thương hiệu chất Nước dùng đậm đà và thơm ngon, lượng từ Việt Nam.,",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "bình thường",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "tiền lợi  , điểm trừ là giao thiếu quà tặng",
         "selected": null
       }
@@ -11020,20 +11020,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ngon\n 💲Giá cả:bình\n 🛒Tiện lợi:giáo hàng quá lâu\n ",
+    "reviewContent": "Hương vị:ngon\n Giá cả:bình\n Tiện lợi:giáo hàng quá lâu\n ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "bình",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "giáo hàng quá lâu",
         "selected": null
       }
@@ -11164,20 +11164,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:thơm ngon\n 💲Giá cả:rẻ\n 🛒Tiện lợi:ok\n Vận chuyển chậm quá,, qua bão mí nhận được ",
+    "reviewContent": "Hương vị:thơm ngon\n Giá cả:rẻ\n Tiện lợi:ok\n Vận chuyển chậm quá,, qua bão mí nhận được ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "ok",
         "selected": null
       },
@@ -11313,11 +11313,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "OK 👌👌🙆👌🙆👌🙆👌👍🙆👍🙆🙆👍👍👌👍👌👍👌🙆👌👌🙆🙆👌👌👍👌👍👍🙆👍🙆👍👍🙆👍 ",
+    "reviewContent": "OK  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "OK 👌👌🙆👌🙆👌🙆👌👍🙆👍🙆🙆👍👍👌👍👌👍👌🙆👌👌🙆🙆👌👌👍👌👍👍🙆👍🙆👍👍🙆👍",
+        "content": "OK ",
         "selected": null
       }
     ],
@@ -14736,10 +14736,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:Hoàn hảo cho các bữa ăn nhanh, Hương vị Việt Nam chính gốc, Sự kết hợp ngon miệng của thịt bò và cua, \n ",
+    "reviewContent": "Hương vị:Hoàn hảo cho các bữa ăn nhanh, Hương vị Việt Nam chính gốc, Sự kết hợp ngon miệng của thịt bò và cua, \n ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Hoàn hảo cho các bữa ăn nhanh, Hương vị Việt Nam chính gốc, Sự kết hợp ngon miệng của thịt bò và cua,",
         "selected": null
       }

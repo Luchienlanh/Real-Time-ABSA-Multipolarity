@@ -50,7 +50,7 @@ def get_spark_session():
     global spark
     if spark is None:
         from pyspark.sql import SparkSession
-        print("⚡ Initializing Spark Session...")
+        print(" Initializing Spark Session...")
         spark = SparkSession.builder \
             .appName("ABSA_Consumer_Service") \
             .master(SPARK_MASTER) \
@@ -60,7 +60,7 @@ def get_spark_session():
             .config("spark.executor.cores", "1") \
             .config("spark.task.cpus", "1") \
             .getOrCreate()
-        print("⚡ Spark Session Ready")
+        print(" Spark Session Ready")
     return spark
 
 def run_spark_prediction(product_id: str, reviews: List[Dict]):
@@ -72,7 +72,7 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
         from pyspark.sql.types import StringType
         import pandas as pd
         
-        print(f"🚀 Starting Spark job for {len(reviews)} reviews (Product: {product_id})")
+        print(f" Starting Spark job for {len(reviews)} reviews (Product: {product_id})")
         
         spark = get_spark_session()
         
@@ -138,13 +138,13 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
             def load_model_instance(model_type):
                 try:
                     if model_type == "ollama":
-                        print("📥 Loading Ollama (Mistral)...")
+                        print(" Loading Ollama (Mistral)...")
                         return OllamaPredictor()
                     else:
-                        print("📥 Loading Custom PhoBERT ABSA Model...")
+                        print(" Loading Custom PhoBERT ABSA Model...")
                         return PhoBERTPredictor(model_path=model_path_phobert)
                 except Exception as e:
-                    print(f"❌ Model load failed: {e}")
+                    print(f" Model load failed: {e}")
                     return None
 
             # Singleton State Initialization
@@ -165,7 +165,7 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
             current_type, current_config_mtime = get_active_model_type()
             
             if current_type != getattr(predict_model_udf, 'current_model_type', 'phobert'):
-                print(f"🔄 Switching Model: {predict_model_udf.current_model_type} -> {current_type}")
+                print(f" Switching Model: {predict_model_udf.current_model_type} -> {current_type}")
                 predict_model_udf.predictor = load_model_instance(current_type)
                 predict_model_udf.current_model_type = current_type
                 predict_model_udf.last_config_mtime = current_config_mtime
@@ -176,7 +176,7 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
                      if os.path.exists(model_path_phobert):
                         curr_phobert_mtime = os.path.getmtime(model_path_phobert)
                         if curr_phobert_mtime > getattr(predict_model_udf, 'last_phobert_mtime', 0):
-                            print("🔄 PhoBERT file updated! Reloading...")
+                            print(" PhoBERT file updated! Reloading...")
                             predict_model_udf.predictor = load_model_instance("phobert")
                             predict_model_udf.last_phobert_mtime = curr_phobert_mtime
                 except: pass
@@ -218,7 +218,7 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
         # Collect results
         predictions = []
         rows = df_result.collect()
-        print(f"📊 Collected {len(rows)} results from Spark")
+        print(f" Collected {len(rows)} results from Spark")
         
         for row in rows:
             predictions.append({
@@ -234,15 +234,15 @@ def run_spark_prediction(product_id: str, reviews: List[Dict]):
         
         # Save predictions
         save_predictions(product_id, predictions)
-        print(f"✅ Prediction processing complete for {len(predictions)} reviews")
+        print(f" Prediction processing complete for {len(predictions)} reviews")
         
         # Log sample for debugging
         if predictions:
             sample = predictions[0]
-            print(f"🔎 Sample Prediction: {json.dumps(sample.get('sentiment', {}), ensure_ascii=False)}")
+            print(f" Sample Prediction: {json.dumps(sample.get('sentiment', {}), ensure_ascii=False)}")
         
     except Exception as e:
-        print(f"❌ Spark job failed: {e}")
+        print(f" Spark job failed: {e}")
         # Fallback: save empty or partial results
         import traceback
         traceback.print_exc()
@@ -266,7 +266,7 @@ def save_predictions(product_id: str, new_predictions: List[Dict]):
                 break  # Success
             except json.JSONDecodeError:
                 if i == max_read_retries - 1:
-                    print(f"⚠️ Could not read existing file {file_path} after {max_read_retries} attempts. Starting fresh.")
+                    print(f"️ Could not read existing file {file_path} after {max_read_retries} attempts. Starting fresh.")
                     existing_data = []
                 else:
                     time.sleep(0.1)
@@ -297,19 +297,19 @@ def save_predictions(product_id: str, new_predictions: List[Dict]):
                 try:
                     os.chmod(file_path, 0o666) # Allow read/write for all (fix PermissionError)
                 except Exception as ex:
-                    print(f"⚠️ Could not chmod {file_path}: {ex}")
+                    print(f"️ Could not chmod {file_path}: {ex}")
                     
-                print(f"💾 Saved {len(existing_data)} predictions (Added {added_count} new) to {file_path}")
+                print(f" Saved {len(existing_data)} predictions (Added {added_count} new) to {file_path}")
                 break
             except OSError as e:
                 # Windows specific: [WinError 32] The process cannot access the file because it is being used by another process
                 if i == max_rename_retries - 1:
                     raise e
-                print(f"⚠️ Rename failed (process lock?), retrying {i+1}/{max_rename_retries}...")
+                print(f"️ Rename failed (process lock?), retrying {i+1}/{max_rename_retries}...")
                 time.sleep(0.5)
         
     except Exception as e:
-        print(f"❌ Failed to save predictions atomically: {e}")
+        print(f" Failed to save predictions atomically: {e}")
         if os.path.exists(temp_path):
             os.remove(temp_path)
 
@@ -338,13 +338,13 @@ def create_consumer():
                 consumer_timeout_ms=BATCH_TIMEOUT * 1000
             )
         except NoBrokersAvailable:
-            print("⏳ Kafka not ready, retrying in 5s...")
+            print(" Kafka not ready, retrying in 5s...")
             time.sleep(5)
 
 
 def run_service():
     """Main consumer loop with batching."""
-    print(f"🚀 Starting Kafka Consumer (Spark Pandas UDF mode)")
+    print(f" Starting Kafka Consumer (Spark Pandas UDF mode)")
     print(f"   Kafka: {KAFKA_BOOTSTRAP_SERVERS}")
     print(f"   Spark: {SPARK_MASTER}")
     print(f"   Batch Size: {BATCH_SIZE}")
@@ -352,7 +352,7 @@ def run_service():
     while True:
         try:
             consumer = create_consumer()
-            print(f"✅ Subscribed to topic: {INPUT_TOPIC}")
+            print(f" Subscribed to topic: {INPUT_TOPIC}")
             
             batch_start_time = {}
             
@@ -373,18 +373,18 @@ def run_service():
                     )
                 
                 if batch_ready:
-                    print(f"📦 Batch ready for {product_id} ({len(review_buffer[product_id])} reviews)")
+                    print(f" Batch ready for {product_id} ({len(review_buffer[product_id])} reviews)")
                     process_batch(product_id)
                     batch_start_time.pop(product_id, None)
             
             # Process remaining batches after timeout
             for product_id in list(review_buffer.keys()):
                 if review_buffer[product_id]:
-                    print(f"📦 Processing remaining batch for {product_id}")
+                    print(f" Processing remaining batch for {product_id}")
                     process_batch(product_id)
                     
         except Exception as e:
-            print(f"❌ Consumer error: {e}")
+            print(f" Consumer error: {e}")
             time.sleep(5)
 
 

@@ -1620,11 +1620,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Không ngon🥲🥲🥲 ",
+    "reviewContent": "Không ngon ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Không ngon🥲🥲🥲",
+        "content": "Không ngon",
         "selected": null
       }
     ],
@@ -2421,20 +2421,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  bình thường\n 💲Giá cả:  cao\n 🛒Tiện lợi:  tạm\nMì này so với giá thì hơi cao , topping rất ít  ",
+    "reviewContent": "Hương vị:  bình thường\n Giá cả:  cao\n Tiện lợi:  tạm\nMì này so với giá thì hơi cao , topping rất ít  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "bình thường",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "cao",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "tạm\nMì này so với giá thì hơi cao , topping rất ít",
         "selected": null
       }
@@ -2891,20 +2891,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  Hương vị tom yum truyền thống,  nhưng thiếu gia vị so với mua siêu thị 💲Giá cả:  giá rẻ hơn siêu thị nếu mua đợt khuyến mãi giảm giá, thiếu gia vị hạt giòn giòn 🛒Tiện lợi:  Kích thước dùng cho một người 71gr,  ",
+    "reviewContent": "Hương vị:  Hương vị tom yum truyền thống,  nhưng thiếu gia vị so với mua siêu thị Giá cả:  giá rẻ hơn siêu thị nếu mua đợt khuyến mãi giảm giá, thiếu gia vị hạt giòn giòn Tiện lợi:  Kích thước dùng cho một người 71gr,  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "Hương vị tom yum truyền thống,  nhưng thiếu gia vị so với mua siêu thị",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "giá rẻ hơn siêu thị nếu mua đợt khuyến mãi giảm giá, thiếu gia vị hạt giòn giòn",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "Kích thước dùng cho một người 71gr,",
         "selected": null
       }
@@ -3375,7 +3375,7 @@
       {
         "reviewRateId": 454589734947702,
         "reviewTime": "3 weeks ago",
-        "reviewContent": "Cảm ơn bạn đã chia sẻ đánh giá tích cực về sản phẩm lẩu cầm tay Omachi của chúng tôi. Chúng tôi rất vui mừng khi biết bạn thích hương vị đậm đà và chân thật của sản phẩm. Chúc bạn sức khỏe và hạnh phúc! 🌟",
+        "reviewContent": "Cảm ơn bạn đã chia sẻ đánh giá tích cực về sản phẩm lẩu cầm tay Omachi của chúng tôi. Chúng tôi rất vui mừng khi biết bạn thích hương vị đậm đà và chân thật của sản phẩm. Chúc bạn sức khỏe và hạnh phúc! ",
         "reviewerName": "Lazada Guest",
         "reviewerBadge": null,
         "isFollowUp": false,
@@ -3925,7 +3925,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "mua lại lần thứ 10. mì này ăn ngon ko bị ngán.. canh sale mua giá tốt. đc tặng thêm  5ly khác vị để ăn thử. tuyệt vơi. \n 🍖Hương vị:thơm ngon \n 💲Giá cả:hợp ly\n 🛒Tiện lợi:khi dùng  ",
+    "reviewContent": "mua lại lần thứ 10. mì này ăn ngon ko bị ngán.. canh sale mua giá tốt. đc tặng thêm  5ly khác vị để ăn thử. tuyệt vơi. \n Hương vị:thơm ngon \n Giá cả:hợp ly\n Tiện lợi:khi dùng  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -3933,17 +3933,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp ly",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "khi dùng",
         "selected": null
       }
@@ -4393,20 +4393,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:thơm ngon\n 💲Giá cả:hợp ly\n 🛒Tiện lợi:sự dụng tiện nhanh ",
+    "reviewContent": "Hương vị:thơm ngon\n Giá cả:hợp ly\n Tiện lợi:sự dụng tiện nhanh ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp ly",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "sự dụng tiện nhanh",
         "selected": null
       }
@@ -4548,10 +4548,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  giao hàng nhanh chất lượng ok Giá cả hợp lí se ung hộ shoplnsvvsv ",
+    "reviewContent": "Hương vị:  giao hàng nhanh chất lượng ok Giá cả hợp lí se ung hộ shoplnsvvsv ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "giao hàng nhanh chất lượng ok",
         "selected": null
       },
@@ -4843,20 +4843,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:ngon\n 💲Giá cả:rẻ hơn soeeu thị và tạp hóa\n 🛒Tiện lợi:nhanh gọn gọn tiện lợi, lần sau ủng hộ shop nữa ạ ",
+    "reviewContent": "Hương vị:ngon\n Giá cả:rẻ hơn soeeu thị và tạp hóa\n Tiện lợi:nhanh gọn gọn tiện lợi, lần sau ủng hộ shop nữa ạ ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn soeeu thị và tạp hóa",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "nhanh gọn gọn tiện lợi, lần sau ủng hộ shop nữa ạ",
         "selected": null
       }
@@ -4998,20 +4998,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:thơm ngon\n 💲Giá cả:hợp lý\n 🛒Tiện lợi:rất tiện lợi.\n mình thấy mua rẻ hơn ở siêu thị. vị chua cay, thơm ngon lắm. ",
+    "reviewContent": "Hương vị:thơm ngon\n Giá cả:hợp lý\n Tiện lợi:rất tiện lợi.\n mình thấy mua rẻ hơn ở siêu thị. vị chua cay, thơm ngon lắm. ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "rất tiện lợi.",
         "selected": null
       },
@@ -5158,7 +5158,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Vị lẩu nhanh chóng, đậm đà, Ly nước lẩu tiện lợi, \n 🍖Hương vị:thơm ngon\n 💲Giá cả:rẻ hơn st\n 🛒Tiện lợi:dễ mang theo. ",
+    "reviewContent": "Vị lẩu nhanh chóng, đậm đà, Ly nước lẩu tiện lợi, \n Hương vị:thơm ngon\n Giá cả:rẻ hơn st\n Tiện lợi:dễ mang theo. ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5166,17 +5166,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ hơn st",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "dễ mang theo.",
         "selected": null
       }
@@ -5318,7 +5318,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giao hàng nhanh chóng đóng gói kĩ không bị bung ra ngoài ok\n 🍖Hương vị:  lẩu tôm hùm hải sản  Bao bì đẹp . Tiện lợi mang theo ",
+    "reviewContent": "Giao hàng nhanh chóng đóng gói kĩ không bị bung ra ngoài ok\n Hương vị:  lẩu tôm hùm hải sản  Bao bì đẹp . Tiện lợi mang theo ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5326,7 +5326,7 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "lẩu tôm hùm hải sản",
         "selected": null
       },
@@ -5519,7 +5519,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giao hàng nhanh chóng đóng gói kĩ không bị bung ra ngoài ok\n 🍖Hương vị:  lâu tomyum hai sản Bao bì đẹp , de dang mang theo bất cứ đâu tien lợi  ",
+    "reviewContent": "Giao hàng nhanh chóng đóng gói kĩ không bị bung ra ngoài ok\n Hương vị:  lâu tomyum hai sản Bao bì đẹp , de dang mang theo bất cứ đâu tien lợi  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5527,7 +5527,7 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "lâu tomyum hai sản",
         "selected": null
       },
@@ -5697,7 +5697,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Lựa chọn lý tưởng cho bữa trưa văn phòng, Kích thước dùng cho một người 71gr, Hương vị tom yum truyền thống, \n 🍖Hương vị:thơm\n 💲Giá cả:hợp lý\n 🛒Tiện lợi:rất tiện lợi\n ",
+    "reviewContent": "Lựa chọn lý tưởng cho bữa trưa văn phòng, Kích thước dùng cho một người 71gr, Hương vị tom yum truyền thống, \n Hương vị:thơm\n Giá cả:hợp lý\n Tiện lợi:rất tiện lợi\n ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -5705,17 +5705,17 @@
         "selected": null
       },
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "thơm",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hợp lý",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "rất tiện lợi",
         "selected": null
       }
@@ -7162,20 +7162,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:  lâu tay cầm tumjum thơm ngon\n 💲Giá cả:  san sale giá tốt \n 🛒Tiện lợi:  cho những bữa lỡ cỡ hoặc bụng đói bất ngờ nha.nhanh gọn cho người bận rộn  ",
+    "reviewContent": "Hương vị:  lâu tay cầm tumjum thơm ngon\n Giá cả:  san sale giá tốt \n Tiện lợi:  cho những bữa lỡ cỡ hoặc bụng đói bất ngờ nha.nhanh gọn cho người bận rộn  ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "lâu tay cầm tumjum thơm ngon",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "san sale giá tốt",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "cho những bữa lỡ cỡ hoặc bụng đói bất ngờ nha.nhanh gọn cho người bận rộn",
         "selected": null
       }

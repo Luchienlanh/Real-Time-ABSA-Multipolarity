@@ -7,21 +7,21 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:bình thường\n 🔋Dung lượng:không ghi bên ngoài vỏ sạc\n 👜Tính di động:nhỏ gọn,tiện lợi\nPHẢN HỒI CỦA NGƯỜI DÙNG: Tôi ko hiểu sao lại shop giao cho tôi cái j nx, lúc đầu tưởng chỉ hết pin đem ik sạc một lúc, r lấy ra xem có lên điện ko thì ko sáng đèn. Nghi ngờ khui vỏ ra thì pin đã phồng lên ko có dấu hiệu sống nx \nshop lm ăn chán 🤨🤨🤨😠 ",
+    "reviewContent": "Tốc độ sạc:bình thường\n Dung lượng:không ghi bên ngoài vỏ sạc\n Tính di động:nhỏ gọn,tiện lợi\nPHẢN HỒI CỦA NGƯỜI DÙNG: Tôi ko hiểu sao lại shop giao cho tôi cái j nx, lúc đầu tưởng chỉ hết pin đem ik sạc một lúc, r lấy ra xem có lên điện ko thì ko sáng đèn. Nghi ngờ khui vỏ ra thì pin đã phồng lên ko có dấu hiệu sống nx \nshop lm ăn chán  ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "bình thường",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "không ghi bên ngoài vỏ sạc",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
-        "content": "nhỏ gọn,tiện lợi\nPHẢN HỒI CỦA NGƯỜI DÙNG: Tôi ko hiểu sao lại shop giao cho tôi cái j nx, lúc đầu tưởng chỉ hết pin đem ik sạc một lúc, r lấy ra xem có lên điện ko thì ko sáng đèn. Nghi ngờ khui vỏ ra thì pin đã phồng lên ko có dấu hiệu sống nx \nshop lm ăn chán 🤨🤨🤨😠",
+        "attribute": "Portability",
+        "content": "nhỏ gọn,tiện lợi\nPHẢN HỒI CỦA NGƯỜI DÙNG: Tôi ko hiểu sao lại shop giao cho tôi cái j nx, lúc đầu tưởng chỉ hết pin đem ik sạc một lúc, r lấy ra xem có lên điện ko thì ko sáng đèn. Nghi ngờ khui vỏ ra thì pin đã phồng lên ko có dấu hiệu sống nx \nshop lm ăn chán ",
         "selected": null
       }
     ],
@@ -1521,10 +1521,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:dụng lượng chỉ được mười phần trăm pin thôi Màu sắc phối đôi đẹp mắt,  ",
+    "reviewContent": "Dung lượng:dụng lượng chỉ được mười phần trăm pin thôi Màu sắc phối đôi đẹp mắt,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "dụng lượng chỉ được mười phần trăm pin thôi Màu sắc phối đôi đẹp mắt,",
         "selected": null
       }
@@ -2663,20 +2663,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:chậm\n 👜Tính di động:ổn\n 🔋Dung lượng:sạc chx đc nhiêu pin đã hết mặc dù sạc đầy pin cho cục sạc r\n ",
+    "reviewContent": "Tốc độ sạc:chậm\n Tính di động:ổn\n Dung lượng:sạc chx đc nhiêu pin đã hết mặc dù sạc đầy pin cho cục sạc r\n ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "chậm",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "ổn",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "sạc chx đc nhiêu pin đã hết mặc dù sạc đầy pin cho cục sạc r",
         "selected": null
       }
@@ -3000,10 +3000,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:xạc mau hết dung lượng bin,\n ",
+    "reviewContent": "Dung lượng:xạc mau hết dung lượng bin,\n ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "xạc mau hết dung lượng bin,",
         "selected": null
       }
@@ -3670,11 +3670,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "sạc chậm quá 🗿 hết nhanh nữa Hỗ trợ nhiều loại cổng sạc, Di động và dễ mang theo, ",
+    "reviewContent": "sạc chậm quá  hết nhanh nữa Hỗ trợ nhiều loại cổng sạc, Di động và dễ mang theo, ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "sạc chậm quá 🗿 hết nhanh nữa Hỗ trợ nhiều loại cổng sạc, Di động và dễ mang theo,",
+        "content": "sạc chậm quá  hết nhanh nữa Hỗ trợ nhiều loại cổng sạc, Di động và dễ mang theo,",
         "selected": null
       }
     ],
@@ -3917,20 +3917,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:ko \n ⚡Tốc độ sạc:chậm\n 🔋Dung lượng:ko có pin\ndùng tạm ",
+    "reviewContent": "Tính di động:ko \n Tốc độ sạc:chậm\n Dung lượng:ko có pin\ndùng tạm ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "ko",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "chậm",
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "ko có pin\ndùng tạm",
         "selected": null
       }
@@ -4061,10 +4061,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:Sạc nhanh tiết kiệm thời gian, Thiết kế thời trang và nhẹ nhàng,  ",
+    "reviewContent": "Dung lượng:Sạc nhanh tiết kiệm thời gian, Thiết kế thời trang và nhẹ nhàng,  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "Sạc nhanh tiết kiệm thời gian, Thiết kế thời trang và nhẹ nhàng,",
         "selected": null
       }
@@ -4170,15 +4170,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:không biết \n ⚡Tốc độ sạc:không biết\n sd cũng tạm tạm mà sợ nó nổ quá không thấy chứng nhận an toàn nào ",
+    "reviewContent": "Dung lượng:không biết \n Tốc độ sạc:không biết\n sd cũng tạm tạm mà sợ nó nổ quá không thấy chứng nhận an toàn nào ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "không biết",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "không biết",
         "selected": null
       },
@@ -4316,10 +4316,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:bình thường, sản phẩm giống hình, nhỏ gọn dễ nhìn \n chất lượng chưa sử dụng nhiều nên chưa biết sao ",
+    "reviewContent": "Tốc độ sạc:bình thường, sản phẩm giống hình, nhỏ gọn dễ nhìn \n chất lượng chưa sử dụng nhiều nên chưa biết sao ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "bình thường, sản phẩm giống hình, nhỏ gọn dễ nhìn",
         "selected": null
       },
@@ -4455,15 +4455,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Dung lượng:kém \n ⚡Tốc độ sạc:kém sạc ko đc?? ",
+    "reviewContent": "Dung lượng:kém \n Tốc độ sạc:kém sạc ko đc?? ",
     "reviewContentList": [
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "kém",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "kém sạc ko đc??",
         "selected": null
       }
@@ -4581,7 +4581,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Di động và dễ mang theo, \n ⚡Tốc độ sạc:tb ",
+    "reviewContent": "Di động và dễ mang theo, \n Tốc độ sạc:tb ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -4589,7 +4589,7 @@
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "tb",
         "selected": null
       }
@@ -5627,15 +5627,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:hơi yếu\n 👜Tính di động:tiện ",
+    "reviewContent": "Tốc độ sạc:hơi yếu\n Tính di động:tiện ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "hơi yếu",
         "selected": null
       },
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "tiện",
         "selected": null
       }
@@ -6476,10 +6476,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:chưa dùng chưa biết  tạm cho 4 sao sùngngon quay lại đánh giá sau ",
+    "reviewContent": "Tính di động:chưa dùng chưa biết  tạm cho 4 sao sùngngon quay lại đánh giá sau ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "chưa dùng chưa biết  tạm cho 4 sao sùngngon quay lại đánh giá sau",
         "selected": null
       }
@@ -6719,10 +6719,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "⚡Tốc độ sạc:hơi lâu \n ",
+    "reviewContent": "Tốc độ sạc:hơi lâu \n ",
     "reviewContentList": [
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "hơi lâu",
         "selected": null
       }
@@ -9692,10 +9692,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "👜Tính di động:tốt\n Hỗ trợ nhiều loại cổng sạc, \n 🔋Dung lượng:nhỏ\n ⚡Tốc độ sạc:chậm\n Loại phích cắm đa năng cho tính linh hoạt,  ",
+    "reviewContent": "Tính di động:tốt\n Hỗ trợ nhiều loại cổng sạc, \n Dung lượng:nhỏ\n Tốc độ sạc:chậm\n Loại phích cắm đa năng cho tính linh hoạt,  ",
     "reviewContentList": [
       {
-        "attribute": "👜Portability",
+        "attribute": "Portability",
         "content": "tốt",
         "selected": null
       },
@@ -9705,12 +9705,12 @@
         "selected": null
       },
       {
-        "attribute": "🔋Capacity",
+        "attribute": "Capacity",
         "content": "nhỏ",
         "selected": null
       },
       {
-        "attribute": "⚡Charging Speed",
+        "attribute": "Charging Speed",
         "content": "chậm",
         "selected": null
       },

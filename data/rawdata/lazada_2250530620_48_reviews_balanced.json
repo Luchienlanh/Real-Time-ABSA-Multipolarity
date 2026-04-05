@@ -4230,11 +4230,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Shop chuẩn bị và giao hàng nhanh chóng và đầy đủ chất lượng thì phù hợp với giá tiền 💰 nha ",
+    "reviewContent": "Shop chuẩn bị và giao hàng nhanh chóng và đầy đủ chất lượng thì phù hợp với giá tiền  nha ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "Shop chuẩn bị và giao hàng nhanh chóng và đầy đủ chất lượng thì phù hợp với giá tiền 💰 nha",
+        "content": "Shop chuẩn bị và giao hàng nhanh chóng và đầy đủ chất lượng thì phù hợp với giá tiền  nha",
         "selected": null
       }
     ],
@@ -6323,20 +6323,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🍖Hương vị:tuyệt vời cho thức ăn nhanh\n 💲Giá cả:rẻ khi mua 2 combo + + +\n 🛒Tiện lợi:ok ",
+    "reviewContent": "Hương vị:tuyệt vời cho thức ăn nhanh\n Giá cả:rẻ khi mua 2 combo + + +\n Tiện lợi:ok ",
     "reviewContentList": [
       {
-        "attribute": "🍖Taste",
+        "attribute": "Taste",
         "content": "tuyệt vời cho thức ăn nhanh",
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "rẻ khi mua 2 combo + + +",
         "selected": null
       },
       {
-        "attribute": "🛒Convenience",
+        "attribute": "Convenience",
         "content": "ok",
         "selected": null
       }

@@ -405,7 +405,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Phù hợp với mọi loại da, Thúc đẩy độ đàn hồi của da, Tuyệt vời để giảm sẹo mụn, \n Hiệu quả:ok\n Độ an toàn:lành tíbh \n 💲Giá cả:hơi chát \n 🥘Thành phần:ok Thành phần nhẹ nhàng, Không hóa chất độc hại, Thành phần tự nhiên, \n Thành phần:tự nhiên thôi \n 💪 Hiệu quả:ok . mờ hẳn rạn sau sinh . \n vì là mình sau sinh , chưa đi làm , ngân sách ít nên mình mua chai nhỏ , màu cam cho rẻ hơn , tiết kiệm hơn , hiệu quả chậm hơn , nên phải chăm chỉ dùng đều . thì mới hiệu quả  \nCòn bạn nào dư giả điều kiện thì cứ mua cho mình chai màu vàng thì đắt hơn một chút nhưng hiệu quả hơn nhé  ",
+    "reviewContent": "Phù hợp với mọi loại da, Thúc đẩy độ đàn hồi của da, Tuyệt vời để giảm sẹo mụn, \n Hiệu quả:ok\n Độ an toàn:lành tíbh \n Giá cả:hơi chát \n Thành phần:ok Thành phần nhẹ nhàng, Không hóa chất độc hại, Thành phần tự nhiên, \n Thành phần:tự nhiên thôi \n  Hiệu quả:ok . mờ hẳn rạn sau sinh . \n vì là mình sau sinh , chưa đi làm , ngân sách ít nên mình mua chai nhỏ , màu cam cho rẻ hơn , tiết kiệm hơn , hiệu quả chậm hơn , nên phải chăm chỉ dùng đều . thì mới hiệu quả  \nCòn bạn nào dư giả điều kiện thì cứ mua cho mình chai màu vàng thì đắt hơn một chút nhưng hiệu quả hơn nhé  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -423,12 +423,12 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "hơi chát",
         "selected": null
       },
       {
-        "attribute": "🥘Ingredients",
+        "attribute": "Ingredients",
         "content": "ok Thành phần nhẹ nhàng, Không hóa chất độc hại, Thành phần tự nhiên,",
         "selected": null
       },
@@ -439,7 +439,7 @@
       },
       {
         "attribute": "",
-        "content": "💪",
+        "content": "",
         "selected": null
       },
       {
@@ -590,7 +590,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Giúp cải thiện tông màu da không đều, Để lại làn da cảm giác mềm mại và mịn màng, Giúp mờ sẹo và vết thâm, Giảm sự xuất hiện của vết rạn da, \n 💲Giá cả:🛡️Độ bền：ok\n💧Độ ẩm：ok\n🧸Độ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng  ",
+    "reviewContent": "Giúp cải thiện tông màu da không đều, Để lại làn da cảm giác mềm mại và mịn màng, Giúp mờ sẹo và vết thâm, Giảm sự xuất hiện của vết rạn da, \n Giá cả:️Độ bền：ok\nĐộ ẩm：ok\nĐộ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -598,8 +598,8 @@
         "selected": null
       },
       {
-        "attribute": "💲Price",
-        "content": "🛡️Độ bền：ok\n💧Độ ẩm：ok\n🧸Độ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng",
+        "attribute": "Price",
+        "content": "️Độ bền：ok\nĐộ ẩm：ok\nĐộ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng",
         "selected": null
       }
     ],
@@ -827,11 +827,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🛡️Độ bền：ok\n💧Độ ẩm：ok\n🧸Độ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng  ",
+    "reviewContent": "️Độ bền：ok\nĐộ ẩm：ok\nĐộ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng  ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "🛡️Độ bền：ok\n💧Độ ẩm：ok\n🧸Độ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng",
+        "content": "️Độ bền：ok\nĐộ ẩm：ok\nĐộ mềm mại：ok\ngiao hàng nhanh\nĐóng gói ok\nShop phản hồi nhanh\nHàng mall nên tin tưởng",
         "selected": null
       }
     ],
@@ -3712,15 +3712,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🥘Thành phần:Công thức nhẹ và không nhờn, \n 💪Hiệu quả:Giúp cải thiện tông màu da không đều, Nhẹ nhàng và không gây kích ứng da,  ",
+    "reviewContent": "Thành phần:Công thức nhẹ và không nhờn, \n Hiệu quả:Giúp cải thiện tông màu da không đều, Nhẹ nhàng và không gây kích ứng da,  ",
     "reviewContentList": [
       {
-        "attribute": "🥘Ingredients",
+        "attribute": "Ingredients",
         "content": "Công thức nhẹ và không nhờn,",
         "selected": null
       },
       {
-        "attribute": "💪Effectiveness",
+        "attribute": "Effectiveness",
         "content": "Giúp cải thiện tông màu da không đều, Nhẹ nhàng và không gây kích ứng da,",
         "selected": null
       }
@@ -3851,20 +3851,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "💲Giá cả:  Nhẹ nhàng và không gây kích ứng da, \n 💪Hiệu quả:  Tuyệt vời để giảm sẹo mụn, \n 🥘Thành phần:  Dễ dàng hấp thụ vào da,  ",
+    "reviewContent": "Giá cả:  Nhẹ nhàng và không gây kích ứng da, \n Hiệu quả:  Tuyệt vời để giảm sẹo mụn, \n Thành phần:  Dễ dàng hấp thụ vào da,  ",
     "reviewContentList": [
       {
-        "attribute": "💲Price",
+        "attribute": "Price",
         "content": "Nhẹ nhàng và không gây kích ứng da,",
         "selected": null
       },
       {
-        "attribute": "💪Effectiveness",
+        "attribute": "Effectiveness",
         "content": "Tuyệt vời để giảm sẹo mụn,",
         "selected": null
       },
       {
-        "attribute": "🥘Ingredients",
+        "attribute": "Ingredients",
         "content": "Dễ dàng hấp thụ vào da,",
         "selected": null
       }

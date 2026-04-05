@@ -2332,10 +2332,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:một bên tai nghe hết pin quá nhanh  ",
+    "reviewContent": "Thời lượng pin:một bên tai nghe hết pin quá nhanh  ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "một bên tai nghe hết pin quá nhanh",
         "selected": null
       }
@@ -9144,10 +9144,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🎤Chất lượng âm thanh:ok ",
+    "reviewContent": "Chất lượng âm thanh:ok ",
     "reviewContentList": [
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ok",
         "selected": null
       }
@@ -10367,10 +10367,10 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:sài được gần 3 tiếng ",
+    "reviewContent": "Thời lượng pin:sài được gần 3 tiếng ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "sài được gần 3 tiếng",
         "selected": null
       }
@@ -12931,7 +12931,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "đã nhận được hàng.. sản phẩm rất OK.. âm thanh rõ ràng \n 🎤Chất lượng âm thanh:ok ",
+    "reviewContent": "đã nhận được hàng.. sản phẩm rất OK.. âm thanh rõ ràng \n Chất lượng âm thanh:ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -12939,7 +12939,7 @@
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ok",
         "selected": null
       }
@@ -13645,15 +13645,15 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Comfort:would be nice with different sizes earbuds.\n 🎤Sound Quality:balance between base and treble is a bit off  ",
+    "reviewContent": "Comfort:would be nice with different sizes earbuds.\n Sound Quality:balance between base and treble is a bit off  ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "would be nice with different sizes earbuds.",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "balance between base and treble is a bit off",
         "selected": null
       }
@@ -13918,11 +13918,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "nghe hay mua 100 lần rồi 💯kddkdkdkdkskkdkđkđkskdskskdkdkdkd ",
+    "reviewContent": "nghe hay mua 100 lần rồi kddkdkdkdkskkdkđkđkskdskskdkdkdkd ",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "nghe hay mua 100 lần rồi 💯kddkdkdkdkskkdkđkđkskdskskdkdkdkd",
+        "content": "nghe hay mua 100 lần rồi kddkdkdkdkskkdkđkđkskdskskdkdkdkd",
         "selected": null
       }
     ],
@@ -14320,26 +14320,26 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin:  pin xài lâu 😌Thoải mái: xài ok lắm 🎤Chất lượng âm thanh:  tốt 😝😊😝😜😊😜😊😜😚😊😚😊😚🤪☺️😎 ",
+    "reviewContent": "Thời lượng pin:  pin xài lâu Thoải mái: xài ok lắm Chất lượng âm thanh:  tốt ️ ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "pin xài lâu",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "xài ok lắm",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "tốt",
         "selected": null
       },
       {
         "attribute": "",
-        "content": "😝😊😝😜😊😜😊😜😚😊😚😊😚🤪☺️😎",
+        "content": "️",
         "selected": null
       }
     ],
@@ -14469,20 +14469,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "🔋Thời lượng pin: đang sạc để dùng lần đầu 😌Thoải mái: nhét tai dễ dàng thoải mái 🎤Chất lượng âm thanh: ổn khi kết nối với máy tính ",
+    "reviewContent": "Thời lượng pin: đang sạc để dùng lần đầu Thoải mái: nhét tai dễ dàng thoải mái Chất lượng âm thanh: ổn khi kết nối với máy tính ",
     "reviewContentList": [
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "đang sạc để dùng lần đầu",
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "nhét tai dễ dàng thoải mái",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ổn khi kết nối với máy tính",
         "selected": null
       }
@@ -14770,20 +14770,20 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "😌Thoải mái:sài rất thoãi mái, tiện lợi, nhỏ gọn.\n 🔋Thời lượng pin:sử trong khoảng thời gian lâu\n 🎤Chất lượng âm thanh:rõ ràng, êm tai...\n (ĐÂY LÀ Ý KIẾN CÁ NHÂN). ",
+    "reviewContent": "Thoải mái:sài rất thoãi mái, tiện lợi, nhỏ gọn.\n Thời lượng pin:sử trong khoảng thời gian lâu\n Chất lượng âm thanh:rõ ràng, êm tai...\n (ĐÂY LÀ Ý KIẾN CÁ NHÂN). ",
     "reviewContentList": [
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "sài rất thoãi mái, tiện lợi, nhỏ gọn.",
         "selected": null
       },
       {
-        "attribute": "🔋Battery Life",
+        "attribute": "Battery Life",
         "content": "sử trong khoảng thời gian lâu",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "rõ ràng, êm tai...",
         "selected": null
       },
@@ -14919,7 +14919,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "Điều khiển cảm ứng dễ dàng cho sự tiện lợi, \n 😌Thoải mái:Kết nối Bluetooth không dây tiện lợi,  ",
+    "reviewContent": "Điều khiển cảm ứng dễ dàng cho sự tiện lợi, \n Thoải mái:Kết nối Bluetooth không dây tiện lợi,  ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -14927,7 +14927,7 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "Kết nối Bluetooth không dây tiện lợi,",
         "selected": null
       }
@@ -15326,11 +15326,11 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "𝑯𝒐𝒂 𝒄𝒉𝒊̉ 𝒏𝒐̛̉ 𝒌𝒉𝒊 đ𝒖̛𝒐̛̣𝒄 𝒕𝒖̛𝒐̛́𝒊 𝒏𝒖̛𝒐̛́𝒄\n𝑬𝒎 𝒄𝒉𝒊̉ đ𝒆̣𝒑 𝒌𝒉𝒊 𝒍𝒖̛̣𝒂 đ𝒐̂̀ 𝒉𝒐̛̣𝒑 𝒗𝒐̛́𝒊 𝒆𝒎 💕\n\nVà đây 👉👉 Set Cô Gái CV Vàng 👉👉 1 lựa chọn ko kén tuổi cũng ko kén dáng cho các nàng, lại còn điều chỉnh tay áo được 2 kiểu tuỳ theo ý thích nhé 🥰\n\n🔺Có 5 size cho nàng từ 50kg đến 90kg (mlxl2x3x)\n🔺Nhận hàng kiểm tra sp rồi mới thanh toán.",
+    "reviewContent": " ̉ ̛̉  đ̛̛̣ ̛̛́ ̛̛́\n ̉ đ̣  ̛̣ đ̂̀ ̛̣ ̛́  \n\nVà đây  Set Cô Gái CV Vàng  1 lựa chọn ko kén tuổi cũng ko kén dáng cho các nàng, lại còn điều chỉnh tay áo được 2 kiểu tuỳ theo ý thích nhé \n\nCó 5 size cho nàng từ 50kg đến 90kg (mlxl2x3x)\nNhận hàng kiểm tra sp rồi mới thanh toán.",
     "reviewContentList": [
       {
         "attribute": "",
-        "content": "𝑯𝒐𝒂 𝒄𝒉𝒊̉ 𝒏𝒐̛̉ 𝒌𝒉𝒊 đ𝒖̛𝒐̛̣𝒄 𝒕𝒖̛𝒐̛́𝒊 𝒏𝒖̛𝒐̛́𝒄\n𝑬𝒎 𝒄𝒉𝒊̉ đ𝒆̣𝒑 𝒌𝒉𝒊 𝒍𝒖̛̣𝒂 đ𝒐̂̀ 𝒉𝒐̛̣𝒑 𝒗𝒐̛́𝒊 𝒆𝒎 💕\n\nVà đây 👉👉 Set Cô Gái CV Vàng 👉👉 1 lựa chọn ko kén tuổi cũng ko kén dáng cho các nàng, lại còn điều chỉnh tay áo được 2 kiểu tuỳ theo ý thích nhé 🥰\n\n🔺Có 5 size cho nàng từ 50kg đến 90kg (mlxl2x3x)\n🔺Nhận hàng kiểm tra sp rồi mới thanh toán.",
+        "content": " ̉ ̛̉  đ̛̛̣ ̛̛́ ̛̛́\n ̉ đ̣  ̛̣ đ̂̀ ̛̣ ̛́  \n\nVà đây  Set Cô Gái CV Vàng  1 lựa chọn ko kén tuổi cũng ko kén dáng cho các nàng, lại còn điều chỉnh tay áo được 2 kiểu tuỳ theo ý thích nhé \n\nCó 5 size cho nàng từ 50kg đến 90kg (mlxl2x3x)\nNhận hàng kiểm tra sp rồi mới thanh toán.",
         "selected": null
       }
     ],
@@ -16891,7 +16891,7 @@
     "zonedBoughtDate": null,
     "reviewStatus": "approved",
     "reviewTitle": null,
-    "reviewContent": "ok\n 😌Thoải mái:ok\n 🎤Chất lượng âm thanh:ok ",
+    "reviewContent": "ok\n Thoải mái:ok\n Chất lượng âm thanh:ok ",
     "reviewContentList": [
       {
         "attribute": "",
@@ -16899,12 +16899,12 @@
         "selected": null
       },
       {
-        "attribute": "😌Comfort",
+        "attribute": "Comfort",
         "content": "ok",
         "selected": null
       },
       {
-        "attribute": "🎤Sound Quality",
+        "attribute": "Sound Quality",
         "content": "ok",
         "selected": null
       }
